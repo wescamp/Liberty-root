@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Liberty 1.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-22 20:12+0200\n"
+"POT-Creation-Date: 2005-04-25 21:43+0200\n"
 "PO-Revision-Date: 2005-04-22 20:51+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: \n"
@@ -13,35 +13,35 @@ msgstr ""
 "X-Poedit-Language: German\n"
 "X-Poedit-Country: GERMANY\n"
 
-#: Liberty.cfg:10
+#: Liberty.cfg:11
 msgid "Liberty"
 msgstr "Freiheit"
 
-#: Liberty.cfg:17
+#: Liberty.cfg:18
 msgid "(Easy)"
 msgstr "(leicht)"
 
-#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:17
+#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:18
 msgid "Peasant"
 msgstr "Bauer"
 
-#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:18
+#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:19
 msgid "Outlaw"
 msgstr "Geächteter"
 
-#: Liberty.cfg:18
+#: Liberty.cfg:19
 msgid "(Normal)"
 msgstr "(normal)"
 
-#: Liberty.cfg:19
+#: Liberty.cfg:20
 msgid "(Hard)"
 msgstr "(schwierig)"
 
-#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:19
+#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:20
 msgid "Fugitive"
 msgstr "Flüchtling"
 
-#: Liberty.cfg:23
+#: Liberty.cfg:24
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
@@ -52,19 +52,19 @@ msgstr ""
 "zu Geächteten in den Augen der Herrscher, jedoch hoffentlich zu Helden in "
 "den unseren. Version 1.10, 5 Apr 2005. Für BFW 0.8.9+"
 
-#: Liberty.cfg:173
+#: Liberty.cfg:174
 msgid "Tell my wife... that I loved her!"
 msgstr "Sagt meiner Frau... das ich sie geliebt habe!"
 
-#: Liberty.cfg:187
+#: Liberty.cfg:188
 msgid "Unngh... Now our people may never be free..."
 msgstr "Arrgh... Nun werden unsere Leute nie die Freiheit erlangen..."
 
-#: Liberty.cfg:201
+#: Liberty.cfg:202
 msgid "I am finished... will we ever be free?"
 msgstr "Ich bin am Ende... werden wir jemals frei sein?"
 
-#: Liberty.cfg:215
+#: Liberty.cfg:216
 msgid "How can this be?  We have lost."
 msgstr "Wie ist dies möglich? Wir haben verloren."
 
@@ -1889,35 +1889,6 @@ msgstr ""
 "»Wenn du uns finden möchtest, gehe nach Westen. Wenn du das Ende des Landes "
 "erreichst, geh einfach weiter. Bis bald, alter Freund. - Relnan«"
 
-#: Liberty/units/Avatar.cfg:7
-msgid "skirmisher"
-msgstr "Plänkler"
-
-# Gehört eh nicht dazu, Scott vergisst nur immer die Avatar.cfg raus zu nehmen.
-#: Liberty/units/Avatar.cfg:21 Liberty/units/Avatar.cfg:39
-msgid "godlike powers"
-msgstr "godlike powers"
-
-#: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
-#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
-#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
-#: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
-#: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
-#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
-#: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
-#: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
-#: Liberty/units/Avatar.cfg:23 Liberty/units/Revenant-dummy2.cfg:26
-msgid "blade"
-msgstr "Klinge"
-
-#: Liberty/units/Avatar.cfg:41
-msgid "fire"
-msgstr "Feuer"
-
-#: Liberty/units/Human-ranger.cfg:57 Liberty/units/Avatar.cfg:42
-msgid "marksman"
-msgstr "Schießkunst"
-
 #: Liberty/units/Bandit-peasant.cfg:5
 msgid "Village Elder"
 msgstr "Dorfältester"
@@ -1990,6 +1961,18 @@ msgstr ""
 #: Liberty/units/Revenant-dummy2.cfg:25
 msgid "axe"
 msgstr "Axt"
+
+#: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
+#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
+#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
+#: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
+#: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
+#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
+#: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
+#: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
+#: Liberty/units/Revenant-dummy2.cfg:26
+msgid "blade"
+msgstr "Klinge"
 
 #: Liberty/units/Bone_Knight.cfg:47 Liberty/units/Bone_Knight2.cfg:47
 msgid "trample"
@@ -2163,6 +2146,10 @@ msgstr "Bogen"
 #: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr "Stich"
+
+#: Liberty/units/Human-ranger.cfg:57
+msgid "marksman"
+msgstr "Schießkunst"
 
 #: Liberty/units/Huntsman.cfg:5 Liberty/units/Huntsman-peasant.cfg:5
 msgid "Huntsman"
@@ -2365,6 +2352,16 @@ msgstr ""
 "Fallensteller sind hauptsächlich damit beschäftigt, Banditen und Gesetzlose "
 "mit Nahrung zu versorgen. Ihre Jagderfahrung lässt sie am besten in der "
 "Nacht, sowie in Wäldern und Sümpfen kämpfen."
+
+#~ msgid "skirmisher"
+#~ msgstr "Plänkler"
+
+# Gehört eh nicht dazu, Scott vergisst nur immer die Avatar.cfg raus zu nehmen.
+#~ msgid "godlike powers"
+#~ msgstr "godlike powers"
+
+#~ msgid "fire"
+#~ msgstr "Feuer"
 
 #~ msgid ""
 #~ "\n"

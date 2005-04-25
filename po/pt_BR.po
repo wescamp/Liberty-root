@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-22 20:12+0200\n"
+"POT-Creation-Date: 2005-04-25 21:43+0200\n"
 "PO-Revision-Date: 2005-03-10 20:21+0100\n"
 "Last-Translator: blah\n"
 "Language-Team: none\n"
@@ -11,54 +11,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: Liberty.cfg:10
+#: Liberty.cfg:11
 msgid "Liberty"
 msgstr ""
 
-#: Liberty.cfg:17
+#: Liberty.cfg:18
 msgid "(Easy)"
 msgstr ""
 
-#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:17
+#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:18
 msgid "Peasant"
 msgstr ""
 
-#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:18
+#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:19
 msgid "Outlaw"
 msgstr ""
 
-#: Liberty.cfg:18
+#: Liberty.cfg:19
 msgid "(Normal)"
 msgstr ""
 
-#: Liberty.cfg:19
+#: Liberty.cfg:20
 msgid "(Hard)"
 msgstr ""
 
-#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:19
+#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:20
 msgid "Fugitive"
 msgstr ""
 
-#: Liberty.cfg:23
+#: Liberty.cfg:24
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
 "but hopefully heroes in ours.  Version 1.10, 5 Apr 2005.  For BFW 0.8.9+"
 msgstr ""
 
-#: Liberty.cfg:173
+#: Liberty.cfg:174
 msgid "Tell my wife... that I loved her!"
 msgstr ""
 
-#: Liberty.cfg:187
+#: Liberty.cfg:188
 msgid "Unngh... Now our people may never be free..."
 msgstr ""
 
-#: Liberty.cfg:201
+#: Liberty.cfg:202
 msgid "I am finished... will we ever be free?"
 msgstr ""
 
-#: Liberty.cfg:215
+#: Liberty.cfg:216
 msgid "How can this be?  We have lost."
 msgstr ""
 
@@ -1430,34 +1430,6 @@ msgid ""
 "keep going.  See you soon, old friend.  - Relnan' "
 msgstr ""
 
-#: Liberty/units/Avatar.cfg:7
-msgid "skirmisher"
-msgstr ""
-
-#: Liberty/units/Avatar.cfg:21 Liberty/units/Avatar.cfg:39
-msgid "godlike powers"
-msgstr ""
-
-#: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
-#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
-#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
-#: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
-#: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
-#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
-#: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
-#: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
-#: Liberty/units/Avatar.cfg:23 Liberty/units/Revenant-dummy2.cfg:26
-msgid "blade"
-msgstr ""
-
-#: Liberty/units/Avatar.cfg:41
-msgid "fire"
-msgstr ""
-
-#: Liberty/units/Human-ranger.cfg:57 Liberty/units/Avatar.cfg:42
-msgid "marksman"
-msgstr ""
-
 #: Liberty/units/Bandit-peasant.cfg:5
 msgid "Village Elder"
 msgstr ""
@@ -1521,6 +1493,18 @@ msgstr ""
 #: Liberty/units/Skeleton_Rider.cfg:30 Liberty/units/Bone_Knight2.cfg:30
 #: Liberty/units/Revenant-dummy2.cfg:25
 msgid "axe"
+msgstr ""
+
+#: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
+#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
+#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
+#: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
+#: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
+#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
+#: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
+#: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
+#: Liberty/units/Revenant-dummy2.cfg:26
+msgid "blade"
 msgstr ""
 
 #: Liberty/units/Bone_Knight.cfg:47 Liberty/units/Bone_Knight2.cfg:47
@@ -1660,6 +1644,10 @@ msgstr ""
 #: Liberty/units/Huntsman.cfg:48 Liberty/units/Trapper.cfg:50
 #: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
+msgstr ""
+
+#: Liberty/units/Human-ranger.cfg:57
+msgid "marksman"
 msgstr ""
 
 #: Liberty/units/Huntsman.cfg:5 Liberty/units/Huntsman-peasant.cfg:5
