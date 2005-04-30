@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-04-25 21:43+0200\n"
-"PO-Revision-Date: 2005-04-25 21:43+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-04-29 14:29+0100\n"
+"Last-Translator: Alexander Kj�äll <capitol@hotmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,31 +13,31 @@ msgstr ""
 
 #: Liberty.cfg:11
 msgid "Liberty"
-msgstr ""
+msgstr "Frihet"
 
 #: Liberty.cfg:18
 msgid "(Easy)"
-msgstr ""
+msgstr "(Lätt)"
 
 #: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:18
 msgid "Peasant"
-msgstr ""
+msgstr "Bonde"
 
 #: Liberty/units/Outlaw.cfg:5 Liberty.cfg:19
 msgid "Outlaw"
-msgstr ""
+msgstr "Laglös"
 
 #: Liberty.cfg:19
 msgid "(Normal)"
-msgstr ""
+msgstr "(Normal)"
 
 #: Liberty.cfg:20
 msgid "(Hard)"
-msgstr ""
+msgstr "(Svårt)"
 
 #: Liberty/units/Fugitive.cfg:5 Liberty.cfg:20
 msgid "Fugitive"
-msgstr ""
+msgstr "Flykting"
 
 #: Liberty.cfg:24
 msgid ""
@@ -45,26 +45,30 @@ msgid ""
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
 "but hopefully heroes in ours.  Version 1.10, 5 Apr 2005.  For BFW 0.8.9+"
 msgstr ""
+"Detta är krönikorna över hur en grupp av wesnothmedborgare blev förrådda av "
+"sin härskare och bestämde sig för att slåss tillbaka. Detta gjorde dem "
+"fredlösa i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.10, 5 "
+"apr 2005, för BFW 0.8.9+"
 
 #: Liberty.cfg:174
 msgid "Tell my wife... that I loved her!"
-msgstr ""
+msgstr "Säg till min fru... att jag älskade henne!"
 
 #: Liberty.cfg:188
 msgid "Unngh... Now our people may never be free..."
-msgstr ""
+msgstr "Unngh... nu kommer vårt folk aldrig bli fritt..."
 
 #: Liberty.cfg:202
 msgid "I am finished... will we ever be free?"
-msgstr ""
+msgstr "Jag har nått slutet... kommer vi någonsin bli fria?"
 
 #: Liberty.cfg:216
 msgid "How can this be?  We have lost."
-msgstr ""
+msgstr "Hur kunde det här hända? Vi har förlorat."
 
 #: Liberty/scenarios/liberty1.cfg:5
 msgid "The Raid"
-msgstr ""
+msgstr "Räden"
 
 #: Liberty/scenarios/liberty1.cfg:30
 msgid ""
@@ -73,6 +77,10 @@ msgid ""
 "dissatisfied with the King's rule.  Being preoccupied with the great wars, "
 "the King was unable to send adequate forces to protect the frontier."
 msgstr ""
+"För länge sedan, under kung Garad II:s regering, så blev de två "
+"gränsstäderna Dathyl och Dallben i provinsen Annuvin alltmer missnöjda med "
+"kungens styre. Då kungen var upptagen med de stora krigen så fanns det inte "
+"tillräckligt med trupper för att skydda gränsenområdena."
 
 #: Liberty/scenarios/liberty1.cfg:39
 msgid ""
@@ -80,6 +88,9 @@ msgid ""
 "against the raiding orc hordes and savage saurian scavengers. They "
 "established their own trading routes and mutual defense forces."
 msgstr ""
+"Detta resulterade i att befolkningen lärde sig att ta hand om och skydda sig "
+"själva, både mot orchernas räder och det grymma ödlefolkets plundrare. De "
+"etablerade sina egna handelsrutter och ingick avtal om att skydda varandra."
 
 #: Liberty/scenarios/liberty1.cfg:48
 msgid ""
@@ -87,6 +98,9 @@ msgid ""
 "woodsmen were at home in the forests and swamps of their homeland and were "
 "very effective with their simple slings and clubs."
 msgstr ""
+"Även om de inte var tillåtna att träna med traditionella militära vapen så "
+"kände de till alla passager i skogarna och hur man tog sig fram genom "
+"träsken och var väldigt effektiva med sina enkla slungor och klubbor."
 
 #: Liberty/scenarios/liberty1.cfg:57
 msgid ""
@@ -94,41 +108,47 @@ msgid ""
 "sought to consolidate her ill-gotten power. She sent her armies across "
 "Wesnoth to intimidate the provincial rulers and ensure her continued reign."
 msgstr ""
+"Efter att kungen hade blivit förrådd av drottning Asheviere, så försökte den "
+"nya regenten av Wesnoth att konsolidera sin oförtjänta makt. Hon skickade "
+"sin armé ut över Wesnoth för att säkerställa sitt regentskap och sätta "
+"skräck i provinsstyresmännen."
 
 #: Liberty/scenarios/liberty1.cfg:66
 msgid ""
 "The people of Annuvin were unwilling to relinquish their hard-earned self "
 "rule, especially not to this pretender..."
 msgstr ""
+"Annuvins befolkning gav inte gärna upp det självstyre de kämpat så hårt för "
+"att få, i synnerhet inte till denna pretendent..."
 
 #: Liberty/scenarios/liberty1.cfg:129
 msgid "Defeat all of the Goblin marauders"
-msgstr ""
+msgstr "Besegra alla vättemarodörer"
 
 #: Liberty/scenarios/liberty1.cfg:133
 msgid "Goblins reach the village of Dallben"
-msgstr ""
+msgstr "Vättarna når byn Dallben"
 
 #: Liberty/scenarios/liberty1.cfg:137 Liberty/scenarios/liberty5.cfg:91
 #: Liberty/scenarios/liberty3.cfg:119 Liberty/scenarios/liberty4.cfg:106
 #: Liberty/scenarios/liberty6.cfg:154 Liberty/scenarios/liberty8.cfg:163
 #: Liberty/scenarios/liberty2.cfg:80 Liberty/scenarios/liberty7.cfg:99
 msgid "Death of Baldras"
-msgstr ""
+msgstr "Baldras dör"
 
 #: Liberty/scenarios/liberty1.cfg:141 Liberty/scenarios/liberty5.cfg:95
 #: Liberty/scenarios/liberty3.cfg:123 Liberty/scenarios/liberty4.cfg:110
 #: Liberty/scenarios/liberty6.cfg:158 Liberty/scenarios/liberty2.cfg:84
 #: Liberty/scenarios/liberty7.cfg:103
 msgid "Death of Harper"
-msgstr ""
+msgstr "Harper dör"
 
 #: Liberty/scenarios/liberty1.cfg:145 Liberty/scenarios/liberty5.cfg:99
 #: Liberty/scenarios/liberty3.cfg:131 Liberty/scenarios/liberty4.cfg:118
 #: Liberty/scenarios/liberty6.cfg:162 Liberty/scenarios/liberty8.cfg:167
 #: Liberty/scenarios/liberty2.cfg:88 Liberty/scenarios/liberty7.cfg:107
 msgid "Turns run out"
-msgstr ""
+msgstr "Rundorna tar slut"
 
 #: Liberty/scenarios/liberty1.cfg:192
 msgid ""
@@ -136,36 +156,49 @@ msgid ""
 "here in the wilderness, we look to these foolish humans to feed our wolves "
 "and slake the thirst of our blades."
 msgstr ""
+"Så länge som det orchiska rådet inte ger oss tillräckligt med trupper här i "
+"vildmarken, så tänker jag låta våra vargar matas med dessa dåraktiga "
+"människor och våra klingor dricka deras blod."
 
 #: Liberty/scenarios/liberty1.cfg:197
 msgid ""
 "Ride you worms, I want to finish our raid before the hunting party returns "
 "to the human village."
 msgstr ""
+"Rid, maskar. Räden ska vara klar innan jägarna hinner tillbaka till "
+"människobyn."
 
 #: Liberty/scenarios/liberty1.cfg:227
 msgid ""
 "Look, goblin riders approach!  You were right, they were going to raid "
 "Dallben while we were gone."
 msgstr ""
+"Titta, vätteryttare närmar sig! Du hade rätt, de tänkte anfalla Dallben när "
+"vi var borta"
 
 #: Liberty/scenarios/liberty1.cfg:232
 msgid ""
 "We must stop them before they reach the village.  Damn the crown, they have "
 "long since forgotten about us out here."
 msgstr ""
+"Vi måste stoppa dem innan de når byn. Förbannat vara kronan, de har för "
+"länge sedan glömt oss här ute."
 
 #: Liberty/scenarios/liberty1.cfg:237
 msgid ""
 "Goblins do not do well without their leader.  If we can bring him down, we "
 "may stop them."
 msgstr ""
+"Vättar är inte så modiga utan sin ledare. Om vi kan jaga ner honom så kan vi "
+"stoppa dem."
 
 #: Liberty/scenarios/liberty1.cfg:242
 msgid ""
 "That goblin leader is heading full-speed straight for Dallben.  We'll need "
 "to chase him down if we're going to stop them."
 msgstr ""
+"Vättarnas ledare är på väg mot Dallben i full fart. Vi måste hinna ikapp "
+"honom för att ha en chans att stoppa dem."
 
 #: Liberty/scenarios/liberty1.cfg:247
 msgid ""
@@ -173,6 +206,9 @@ msgid ""
 "them off.  I have a feeling if you can distract the leader, the rest of them "
 "will be thrown into confusion."
 msgstr ""
+"Gör det. Försök att hålla dem stången tills vi gamlingar kan komma dit och "
+"ta kål på dem. Jag har en känsla av att om vi lyckas distrahera ledaren så "
+"kommer resten att bli förvirrade."
 
 #: Liberty/scenarios/liberty1.cfg:252
 msgid ""
@@ -180,16 +216,21 @@ msgid ""
 "your father is gone, and I won't dishonor his memory by breaking my promise "
 "to keep you safe."
 msgstr ""
+"Och Harper... bli inte dödad. Jag är ansvarig för dig nu när din fader är "
+"borta, och jag kommer inte att vanhedra hans minne genom att bryta mitt "
+"löfte att hålla dig säker."
 
 #: Liberty/scenarios/liberty1.cfg:257
 msgid "...I know...  Alright now, let's stop these goblins!"
-msgstr ""
+msgstr "...Jag vet... Kom igen nu då! Låt oss stoppa lite vättar!"
 
 #: Liberty/scenarios/liberty1.cfg:279
 msgid ""
 "We are barely able to survive these orc raids.  We lost two men last week, "
 "more today... yet Weldyn does nothing!"
 msgstr ""
+"Vi överlever precis de här orchräderna. Vi förlorade två män förra veckan, "
+"fler idag... och ändå så gör Weldyn ingenting!"
 
 #: Liberty/scenarios/liberty1.cfg:284
 msgid ""
@@ -197,46 +238,53 @@ msgid ""
 "happened, the burden fell to us.  We are citizens of Wesnoth, and as long as "
 "her banner flies we will resist the horde."
 msgstr ""
+"Kungen slutade skicka patruller ut hit när kriget började. Då föll bördan på "
+"oss. Vi är medborgare i Wesnoth, så länge hennes banér hålls högt så ska vi "
+"göra motstånd mot horden."
 
 #: Liberty/scenarios/liberty1.cfg:289
 msgid "The banner will fly over a ghost town if help does not come soon."
-msgstr ""
+msgstr "Banéret kommer att vaja över en spökstad om inte hjälpen kommer snart."
 
 #: Liberty/scenarios/liberty1.cfg:317
 msgid "Halt!"
-msgstr ""
+msgstr "Halt!"
 
 #: Liberty/scenarios/liberty1.cfg:334
 msgid ""
 "The goblins reached the village!  There will surely be nothing left when "
 "they are done destroying it."
 msgstr ""
+"Vättarna har nått byn! Det kommer säkerligen inte finnas något kvar när de "
+"är färdiga med skadegörelsen."
 
 #: Liberty/scenarios/liberty2.cfg:5
 msgid "Civil Disobedience"
-msgstr ""
+msgstr "Civil olydnad"
 
 #: Liberty/scenarios/liberty2.cfg:76
 msgid "Kill the Wesnoth army captain, Tarwen"
-msgstr ""
+msgstr "Döda wesnoth-arméns kapten, Tarwen"
 
 #: Liberty/scenarios/liberty2.cfg:143
 msgid "Look, riders approach."
-msgstr ""
+msgstr "Titta, det kommer ryttare."
 
 #: Liberty/scenarios/liberty2.cfg:148
 msgid "Stand fast, nephew."
-msgstr ""
+msgstr "Håll din position, brorson."
 
 #: Liberty/scenarios/liberty2.cfg:175
 msgid ""
 "By order of the Queen, the local magistrate of this town is ordered to "
 "travel with us to Elensefar for vetting."
 msgstr ""
+"På Drottningens order ska den lokala fredsdomaren färdas med oss till "
+"Elensefar för prövning."
 
 #: Liberty/scenarios/liberty2.cfg:180
 msgid "Garard is the King of Wesnoth.  We are ruled by no queen."
-msgstr ""
+msgstr "Garard är Wesnoths kung. Vi styrs inte av någon drottning."
 
 #: Liberty/scenarios/liberty2.cfg:185
 msgid ""
@@ -244,44 +292,53 @@ msgid ""
 "three weeks ago at Abez.  I am done arguing with you.  Your magistrate will "
 "be coming with us, and we do not care if it is dead or alive."
 msgstr ""
+"Era bakåtsträvande bönder. Asheviere är Wesnoths drottning. Kungen föll för "
+"tre veckor sedan vid Abez. Nog talat. Er fredsdomare följer med oss, död "
+"eller levande."
 
 #: Liberty/scenarios/liberty2.cfg:283
 msgid "Guard the gate."
-msgstr ""
+msgstr "Vakta porten."
 
 #: Liberty/scenarios/liberty2.cfg:307
 msgid "Harper, get out of here.  This is no battle for you."
-msgstr ""
+msgstr "Harper, försvinn därifrån. Det här är inte din strid."
 
 #: Liberty/scenarios/liberty2.cfg:313
 msgid ""
 "I am the magistrate of Dallben, and it is YOU who will be leaving Dallben, "
 "be it dead or alive."
 msgstr ""
+"Jag är Dallbens fredsdomare, det är NI som kommer att lämna Dallben, må så "
+"vara döda eller levande."
 
 #: Liberty/scenarios/liberty2.cfg:330
 msgid "Get back, you cur!"
-msgstr ""
+msgstr "Kom tillbaka, din byracka!"
 
 #: Liberty/scenarios/liberty2.cfg:384
 msgid "Get out of my village!"
-msgstr ""
+msgstr "Ut ur min by!"
 
 #: Liberty/scenarios/liberty2.cfg:394
 msgid ""
 "Our lives were hard when we were beneath the attention of the crown.  But "
 "now I fear things are worse."
 msgstr ""
+"Vi hade det svårt när vi ignorerades av kronan, men jag är rädd att nu "
+"kommer det att bli etter värre."
 
 #: Liberty/scenarios/liberty2.cfg:400
 msgid "We must tell the people of Delwyn about this."
-msgstr ""
+msgstr "Vi måste meddela Delwyn det här."
 
 #: Liberty/scenarios/liberty2.cfg:411
 msgid ""
 "This is true.  We have always flown to their aid, and they ours.  This is "
 "something we should face together."
 msgstr ""
+"Det är sant. Vi har alltid hjälpt dem och de oss. Det här är något vi borde "
+"möta tillsammans."
 
 #: Liberty/scenarios/liberty2.cfg:417
 msgid ""
@@ -290,29 +347,36 @@ msgid ""
 "not only do the orcs threaten our lands, but some sinister thing is "
 "happening with the ascent of the Queen to the throne."
 msgstr ""
+"Okej. Vi tar oss till Delwyn och beslutar hur vi ska hantera den uppkomna "
+"situationen. Jag trodde aldrig att Wesnoth skulle falla i mörker. Men nu så "
+"hotar inte enbart orcherna vårt land, utan något ondskefullt är också i "
+"görningen med Drottningens övertagande av makten."
 
 #: Liberty/scenarios/liberty2.cfg:423
 msgid ""
 "Today we may no longer be citizens of Wesnoth.  I pray it could be "
 "otherwise, but we are now Outlaws."
 msgstr ""
+"Idag kan vi inte längre vara medborgare i Wesnoth. Jag önskar att det vore "
+"annorlunda men vi är nu laglösa."
 
 #: Liberty/scenarios/liberty2.cfg:469
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
 msgstr ""
+"Åh, nej! Vi har fått slut på tid, de har återvänt med förstärkningar..."
 
 #: Liberty/scenarios/liberty3.cfg:5
 msgid "A Strategy of Hope"
-msgstr ""
+msgstr "Hoppets strategi"
 
 #: Liberty/scenarios/liberty3.cfg:115
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Besegra båda fiendeledarna"
 
 #: Liberty/scenarios/liberty3.cfg:127
 msgid "Death of Relnan"
-msgstr ""
+msgstr "Relnan dör"
 
 #: Liberty/scenarios/liberty3.cfg:158
 msgid ""
@@ -320,12 +384,18 @@ msgid ""
 "In your many years as Delwyn's magistrate I have never known your judgement "
 "to err."
 msgstr ""
+"Relnan, tack för att ni välkomnade vår budbärare och gick med på att möta "
+"oss. Under dina många år som Delwyns fredsdomare så har jag aldrig sett att "
+"ditt omdöme fallera."
 
 #: Liberty/scenarios/liberty3.cfg:163
 msgid ""
 "It has been a long time, old friend.  Your news worries us.  Yet, there is "
 "no problem we have not worked out here at our secret meeting place."
 msgstr ""
+"Det var länge sedan, gamle vän. Dina nyheter är bekymmersamma. Ändock, det "
+"har aldrig funnits några problem som vi inte har kunnat lösa här på vår "
+"hemliga mötesplats."
 
 #: Liberty/scenarios/liberty3.cfg:168
 msgid ""
@@ -333,22 +403,29 @@ msgid ""
 "the leader was no man I had ever seen in Annuvin province before.  Never has "
 "one been sent out here as a patrol captain who was so ruthless and cruel."
 msgstr ""
+"Du föstår inte. Vi attackerade en wesnothisk armépatrull. Och inte nog med "
+"det, deras ledare var inte någon jag någonsin hade sett i Annuvin. Aldrig "
+"har någon så hjärtlös och grym blivit utskickad hit som patrullkapten."
 
 #: Liberty/scenarios/liberty3.cfg:173
 msgid ""
 "Had they taken my uncle, they would have surely shown up in Delwyn today "
 "with the same ultimatum.  As it is, several riders escaped."
 msgstr ""
+"Om de hade tagit min farbror, så skulle de säkert dykt upp i Delwyn idag med "
+"samma ultimatum. Som det är nu så flydde flera ryttare."
 
 #: Liberty/scenarios/liberty3.cfg:178
 msgid ""
 "Well, it won't be long until they report back to the local garrison with the "
 "details of your encounter."
 msgstr ""
+"Nåväl, det kommer inte dröja länge innan de rapporterar tillbaka till den "
+"lokala garnisonen. Då kommer alla detaljer om ert möte föras vidare."
 
 #: Liberty/scenarios/liberty3.cfg:183
 msgid "Then they'll be back in force."
-msgstr ""
+msgstr "Då kommer de komma tillbaka med en stor styrka."
 
 #: Liberty/scenarios/liberty3.cfg:188
 msgid ""
@@ -356,6 +433,9 @@ msgid ""
 "and treachery?  We should consult with Lord Maddock of Elensefar.  We have "
 "known him for years to be noble in deed as well as in name."
 msgstr ""
+"Det här är en förolämpning mot hederligt folk! Sedan när styrs Wesnoth av "
+"skräck och svek? Vi borde rådgöra med furst Maddock av Elensefar. Vi har i "
+"åratal vetat att han är nobel både i handling som i namn."
 
 #: Liberty/scenarios/liberty3.cfg:196
 msgid ""
@@ -363,14 +443,17 @@ msgid ""
 "lo!  We are not alone.  Their smell has long since given them away... "
 "saurians approach."
 msgstr ""
+"Jag håller med. Jag stannar här och påbörjar försvaret av Delwyn och "
+"Dallben... Men titta! Vi är inte ensamma. Deras stank har för länge sedan "
+"avslöjat dem... ödlemän på ingående."
 
 #: Liberty/scenarios/liberty3.cfg:201
 msgid "And orcs!  Will we never be free of these foul beasts?"
-msgstr ""
+msgstr "Och orcher! Kommer vi aldrig att slippa dessa råa bestar?"
 
 #: Liberty/scenarios/liberty3.cfg:216
 msgid "We cannot afford to waste any more time.  To Elensefar!"
-msgstr ""
+msgstr "Det finns ingen tid att förlora. Mot Elensefar!"
 
 #: Liberty/scenarios/liberty3.cfg:234
 msgid ""
@@ -378,18 +461,21 @@ msgid ""
 "Elensefar and return with help before the Wesnoth army destroys our homes.  "
 "Retreat!!"
 msgstr ""
+"Vi har slösat alldeles för mycket tid här... det finns ingen chans att vi "
+"kan nå Elensefar och återvända med hjälp innan wesnoth-armén förstör våra "
+"hem. Till reträtt!"
 
 #: Liberty/scenarios/liberty4.cfg:5
 msgid "Unlawful Orders"
-msgstr ""
+msgstr "Olagliga order"
 
 #: Liberty/scenarios/liberty4.cfg:102
 msgid "Defeat the enemy general"
-msgstr ""
+msgstr "Besegra fiendegeneralen"
 
 #: Liberty/scenarios/liberty4.cfg:114
 msgid "Death of Maddock"
-msgstr ""
+msgstr "Maddock dör"
 
 #: Liberty/scenarios/liberty4.cfg:148
 msgid ""
@@ -397,12 +483,17 @@ msgid ""
 "visiting the local villages and bringing the elders here.  Those that swear "
 "allegience to the Queen are allowed to return home.  Those that do not..."
 msgstr ""
+"Baldras, att resa hit var inte vist. Drottningens patruller har besökt de "
+"lokala byarna och fört byäldstarna hit. De som har svurit trohet till "
+"drottningen får återvända hem, de andra..."
 
 #: Liberty/scenarios/liberty4.cfg:153
 msgid ""
 "...are dispatched on the spot.  I know the price of dissent.  But what of "
 "you?"
 msgstr ""
+"...blir avrättade på platsen! Jag vet vad det betyder att vägra. Men hur är "
+"det med dig?"
 
 #: Liberty/scenarios/liberty4.cfg:158
 msgid ""
@@ -411,10 +502,14 @@ msgid ""
 "know my time will soon come to swear allegience, but they do not press me.  "
 "They are afraid I will refuse."
 msgstr ""
+"Nåväl, de kommer inte innanför min stadsmur. De har slagit läger här i "
+"närheten och huvudgarnisonen är längre åt sydöst vid Halstead. Jag är "
+"medveten om att det snart är tid för mig att svära trohetseden, men jag har "
+"ingen press på mig. De är rädda att jag kommer vägra."
 
 #: Liberty/scenarios/liberty4.cfg:163
 msgid "Will you?"
-msgstr ""
+msgstr "Kommer du?"
 
 #: Liberty/scenarios/liberty4.cfg:168
 msgid ""
@@ -423,6 +518,10 @@ msgid ""
 "we have a strong enough contingent here to make the Queen's forces think "
 "twice about attacking Elensefar outright."
 msgstr ""
+"Ja, Drottningen tog makten genom det nesligaste förräderi. Fastän jag "
+"skickade merparten av mina trupper med kungen för att bekämpa orcherna, så "
+"finns det en tillräckligt stark trupp här för att få drottningens män att "
+"tänka sig för mer än en gång innan de stormar Elensefar."
 
 #: Liberty/scenarios/liberty4.cfg:173
 msgid ""
@@ -431,6 +530,10 @@ msgid ""
 "Wesnoth is ancient, but I am not so naive as to place my full trust in it.  "
 "Not in these wicked times."
 msgstr ""
+"Vi har en spänt fredsläge tills de är klara med småbyarna och till sist "
+"kommer sig för att avkräva mig trohetseden. Fördraget mellan Elensefar och "
+"Wesnoth är uråldrigt, men jag är inte så naiv så att jag litar på det fullt "
+"ut, inte i dessa onda tider."
 
 #: Liberty/scenarios/liberty4.cfg:178
 msgid ""
@@ -438,6 +541,9 @@ msgid ""
 "are willing to fight, but our families are still at home.  They will not "
 "last long if the Queen's patrols return."
 msgstr ""
+"Vad kan kan vi göra då? Vi har med oss många från Annuvins provins som är "
+"villiga att slåss. Men våra familjer är fortfarande kvar hemma. De kommer "
+"inte att kunne hålla ut länge om Drottningens patruller återvänder."
 
 #: Liberty/scenarios/liberty4.cfg:183
 msgid ""
@@ -446,6 +552,10 @@ msgid ""
 "quelling the Northerner threat.  We are a matter she will have to deal with "
 "later rather than sooner."
 msgstr ""
+"Jag drar mig för att starta ett inbördeskrig. Drottningen kommer vara "
+"upptagen med att återställa ordning i kungadömet och desto viktigare, att "
+"kväsa hotet från nordborna. Vi kommer vara ett problem som inte kommer att "
+"prioriteras högt."
 
 #: Liberty/scenarios/liberty4.cfg:188
 msgid ""
@@ -454,16 +564,22 @@ msgid ""
 "murderers.  We will kill them and then make sure you make your oath of "
 "allegiance to Queen Asheviere."
 msgstr ""
+"En dåraktig missbedömning, furst Maddock. De män som du konsulterar med är "
+"fredlösa och flyktingar. De är ett välorganiserat gäng med banditer och "
+"mördare. Vi kommer att döda dem och sedan säkerställa din trohetsed till "
+"Drottning Asheviere."
 
 #: Liberty/scenarios/liberty4.cfg:193
 msgid "Men, to arms!  The defense of Elensefar has begun!"
-msgstr ""
+msgstr "Män, ta till vapen! Nu måste vi börja skydda Elensefar!"
 
 #: Liberty/scenarios/liberty4.cfg:212
 msgid ""
 "As the sun set, a horrific change began to take place to the human "
 "adversaries of Baldras and his allies..."
 msgstr ""
+"När solen sjönk under horisonten så skedde en gastkramande förvandling av de "
+"mänskliga fiender som stod mot Baldras och hans allierade..."
 
 #: Liberty/scenarios/liberty4.cfg:334
 msgid ""
@@ -471,16 +587,21 @@ msgid ""
 "bones... these are not human warriors we fight.  They are evil spirits "
 "masquerading as human!"
 msgstr ""
+"Jag tror inte mina ögon! Köttet rinner som vatten från deras ben... det är "
+"inte mänskliga krigare vi slåss mot. Det är onda andar som har maskerat sig "
+"som människor!"
 
 #: Liberty/scenarios/liberty4.cfg:346
 msgid ""
 "Their human aspect is returning!  This is an evil manner of sorcery we face, "
 "but one that we may yet overcome.  CHARGE!"
 msgstr ""
+"Deras mänsklighet återkommer! Det är en ondskefull sorts magi vi möter, men "
+"en som vi ännu kan besegra. ANFALL!"
 
 #: Liberty/scenarios/liberty4.cfg:362
 msgid "Who are you?  What are you?"
-msgstr ""
+msgstr "Vem är du? Vad är du?"
 
 #: Liberty/scenarios/liberty4.cfg:367
 msgid ""
@@ -489,10 +610,14 @@ msgid ""
 "existence.  We know not who or what inflicted this curse upon us, but our "
 "mortal deaths may be only the beginning of this penance we are doomed to pay."
 msgstr ""
+"Vi är förtappade. Vi löd en gång under prins Eldreds kommando, han som var "
+"kungens son och förrädare. Priset för vårt högförräderi är denna helvetiska "
+"existens. Vi vet inte vem eller vad som lade förbannelsen över oss, men vår "
+"död må enbart vara början den bot vi är dömda att betala."
 
 #: Liberty/scenarios/liberty4.cfg:375
 msgid "Lord Maddock, now that we are victorious, will you help us?"
-msgstr ""
+msgstr "Furst Maddock, nu när vi har vunnit, kommer du att hjälpa oss?"
 
 #: Liberty/scenarios/liberty4.cfg:380
 msgid ""
@@ -500,44 +625,53 @@ msgid ""
 "you, I do not have the troops to spare.  However, I am not the only one who "
 "commands men in this corner of Wesnoth."
 msgstr ""
+"Det kan jag inte att göra. Om du inte vill få mig att samla ihop alla "
+"stadens tjuvar att slåss för dig så har jag inte trupper att avvara. Men jag "
+"är inte den enda som leder män i den här delen av Wesnoth."
 
 #: Liberty/scenarios/liberty4.cfg:385
 msgid "I don't understand.  There are no other noble lords in this area."
-msgstr ""
+msgstr "Jag förstår inte, det finns inte några andra adelsmän i trakterna."
 
 #: Liberty/scenarios/liberty4.cfg:390
 msgid ""
 "Southeast of here there is a town, and there you may find assistance of the "
 "type I cannot give."
 msgstr ""
+"Sydost härifrån så finns det en stad, där kan du hitta stöd som jag inte har "
+"möjlighet att ge dig."
 
 #: Liberty/scenarios/liberty4.cfg:395
 msgid ""
 "Wish us well.  If we are to resist the Wesnoth army a second time, we're "
 "going to need more than clubs and slings against steel."
 msgstr ""
+"Önska oss lycka till. Om vi ska lyckas hålla Wesnoths armé tillbaka en andra "
+"gång så behöver vi mer än klubbor och slungor mot deras stål."
 
 #: Liberty/scenarios/liberty4.cfg:411
 msgid ""
 "Look, more riders come from the southeast.  We cannot survive another "
 "assault.  We are finished!"
 msgstr ""
+"Se, det kommer fler ryttare från sydöst. We har ingen möjlighet att motstå "
+"ytterligare en attack. Det är ute med oss!"
 
 #: Liberty/scenarios/liberty5.cfg:5
 msgid "Hide and Seek"
-msgstr ""
+msgstr "Kurragömma"
 
 #: Liberty/scenarios/liberty5.cfg:28 Liberty/scenarios/liberty6.cfg:38
 msgid "Midnight"
-msgstr ""
+msgstr "Midnatt"
 
 #: Liberty/scenarios/liberty5.cfg:87
 msgid "Locate the leader of the insurgency"
-msgstr ""
+msgstr "Lokalisera upprorsledaren"
 
 #: Liberty/scenarios/liberty5.cfg:132
 msgid "quick"
-msgstr ""
+msgstr "snabb"
 
 #: Liberty/scenarios/liberty5.cfg:191
 msgid ""
@@ -545,22 +679,29 @@ msgid ""
 "his men traveled unseen along the swampy banks of the Great River to the "
 "city of Carcyn."
 msgstr ""
+"Oförtröttligt förföljda av de ryttarpatruller som fanns på vägen till "
+"Elensefar, så färdades Baldras och hans män längs med den stora flodens "
+"sumpiga flodbanker till staden Carcyn."
 
 #: Liberty/scenarios/liberty5.cfg:196
 msgid ""
 "They hid until nightfall, then crept out to find the help Lord Maddock "
 "hinted was here."
 msgstr ""
+"De gömde sig tills natten föll, sedan så kröp de fram för att hitta den "
+"hjälp som furst Maddock hade antytt fanns här."
 
 #: Liberty/scenarios/liberty5.cfg:201
 msgid ""
 "I'm not sure where we're supposed to go now.  If we go into town we can "
 "start asking around for information."
 msgstr ""
+"Jag är inte säker på vart vi ska nu. Om vi tar oss in i staden så kan vi "
+"börja fråga efter information."
 
 #: Liberty/scenarios/liberty5.cfg:216
 msgid "Wait - I hear something..."
-msgstr ""
+msgstr "Vänta - Jag hör något..."
 
 #: Liberty/scenarios/liberty5.cfg:222
 msgid ""
@@ -568,38 +709,45 @@ msgid ""
 "marching through swamps and woods chasing down locals.  If this terrorist "
 "shows up at Carcyn I'll put his head at the end of my pole."
 msgstr ""
+"Det var på tiden att vi fick spendera lite tid i närheten av en stad. Jag är "
+"trött på att marchera genom träsk och skogar jagandes infödingar. Om "
+"terroristen dycker upp vid carcyn så ska jag trä upp hans huvud på en påle."
 
 #: Liberty/scenarios/liberty5.cfg:227
 msgid ""
 "If we let him into the city, the commander will put our heads on poles... "
 "damn moonless night!  Did you hear something?"
 msgstr ""
+"Om vi låter honom slinka in i staden så kommer det vara våra huvuden på "
+"pålar... Förbannat med de här månlösa nätterna, hörde du något?"
 
 #: Liberty/scenarios/liberty5.cfg:232
 msgid "Umm, I don't know.  It is pitch black out there..."
-msgstr ""
+msgstr "Umm, jag vet inte. Det är kolsvart där ute..."
 
 #: Liberty/scenarios/liberty5.cfg:237
 msgid "I don't see anything.  Let's keep going."
-msgstr ""
+msgstr "Jag ser inget. Låt oss fortsätta."
 
 #: Liberty/scenarios/liberty5.cfg:242
 msgid ""
 "I think we need to find a way to sneak past these patrols.  We would be "
 "slaughtered if we tried to fight them."
 msgstr ""
+"Jag tror att vi måste hitta ett sätt att smita förbi vakterna. Vi skulle bli "
+"slaktade om vi försökte slåss."
 
 #: Liberty/scenarios/liberty5.cfg:247
 msgid "Let's go around then."
-msgstr ""
+msgstr "Låt oss gå runt dem."
 
 #: Liberty/scenarios/liberty5.cfg:267
 msgid "RUN!"
-msgstr ""
+msgstr "SPRING!"
 
 #: Liberty/scenarios/liberty5.cfg:285
 msgid "Who is that?"
-msgstr ""
+msgstr "Vem där?"
 
 #: Liberty/scenarios/liberty5.cfg:290
 msgid ""
@@ -607,26 +755,31 @@ msgid ""
 "seen.  The soldiers are normally out hunting for my kind, but a company of "
 "shock troopers arrived three days ago and took over the patrols."
 msgstr ""
+"Jag har letat efter dig. Du måste ta dig in i staden osedd. Soldaterna "
+"patrullerar vanligtvis runt och letar efter sådana som jag, men för tre "
+"dagar sen så anlände det ett kompani chocktrupper och tog över "
+"patrulltjänstgöringen."
 
 #: Liberty/scenarios/liberty5.cfg:295
 msgid "They're looking for us."
-msgstr ""
+msgstr "De letar efter oss."
 
 #: Liberty/scenarios/liberty5.cfg:300
 msgid "Well, good thing I found you first.  Now hurry."
-msgstr ""
+msgstr "Nåväl, då var det tur att jag hittade er först. Skynda nu."
 
 #: Liberty/scenarios/liberty5.cfg:311
 msgid "No, THEY found us first!  Let's go!"
-msgstr ""
+msgstr "Nej, DE hittade oss först! Spring!"
 
 #: Liberty/scenarios/liberty5.cfg:328
 msgid "Shhhhh!!  I could hear you coming from bottom of the city dungeon."
 msgstr ""
+"Shhhhh! Jag kunde höra att ni kom ända nere från stadens fängelsehålor."
 
 #: Liberty/scenarios/liberty5.cfg:333
 msgid "I can barely see where we are going.  Is the city near?"
-msgstr ""
+msgstr "Jag ser knappt vart vi är på väg. Är staden nära?"
 
 #: Liberty/scenarios/liberty5.cfg:338
 msgid ""
@@ -634,26 +787,34 @@ msgid ""
 "heavily traveled but is less guarded than the east gate.  Try to sneak in "
 "that way."
 msgstr ""
+"Ja, ett stenkast söderut. Du bör undvika huvudporten. Västerport är både "
+"tyngre traffikerad och mindre vaktad än österport. Försök att ta dig in den "
+"vägen."
 
 #: Liberty/scenarios/liberty5.cfg:349
 msgid ""
 "Unfortunately, they know we are here already.  We can only hope that the "
 "cover of night will be adequate despite their stepped-up efforts to find us."
 msgstr ""
+"Oturligt nog så vet de redan att vi är här. Vi får hoppas på att nattens "
+"mörker kommer att vara tillräckligt med skydd, fastän de har trappat upp "
+"sina försök att hitta oss."
 
 #: Liberty/scenarios/liberty5.cfg:365
 msgid "Hello, our leader is on the other side of the city."
-msgstr ""
+msgstr "Hallå, vår ledare är på andra sidan staden."
 
 #: Liberty/scenarios/liberty5.cfg:376
 msgid ""
 "We already tangled with some guards.  The city is probably swarming with "
 "soldiers by now.  We cannot go that way. "
 msgstr ""
+"Vi har redan haft ett råkurr med några vakter. Staden myllrar säkert av "
+"soldater vid det här laget. Det finns inte en chans att vi kan gå den vägen."
 
 #: Liberty/scenarios/liberty5.cfg:383
 msgid "We have to go through the city?  Impossible!"
-msgstr ""
+msgstr "Vi måste gå igenom staden? Omöjligt!"
 
 #: Liberty/scenarios/liberty5.cfg:390
 msgid ""
@@ -661,17 +822,24 @@ msgid ""
 "leads out of the city to the southeast and into the forest.  My brother is "
 "waiting for you at that gate so he can take you to our master."
 msgstr ""
+"Ni har inget val. I värsta fall så får ni springa. Det finns en smal stig "
+"som leder sydöst ut ur staden och in i skogen. Min bror väntar på er vid "
+"stadsporten för att leda er till vår ledare."
 
 #: Liberty/scenarios/liberty5.cfg:404
 msgid ""
 "Gentlemen, please come this way and follow the path into the forest.  Our "
 "leader is anxious to meet you."
 msgstr ""
+"Mina herrar, följ efter mig längs med stigen in i skogen. Vår ledare väntar "
+"otåligt på att få träffa er."
 
 #: Liberty/scenarios/liberty5.cfg:409
 msgid ""
 "As soon as we escape the Wesnoth death squad, we will be happy to oblige."
 msgstr ""
+"Så snart vi har skakat av oss dödspatrullen från Wesnoth så följer vi gärna "
+"med."
 
 #: Liberty/scenarios/liberty5.cfg:414
 msgid ""
@@ -679,24 +847,32 @@ msgid ""
 "heavily guarded city relying on nothing but the cover of darkness and my "
 "wits, I would say you were crazy."
 msgstr ""
+"Det var åratal sedan jag sprang så här mycket. Om du hade frågat mig om jag "
+"ville infiltrera en tungt vaktad stad med hjälp av enbart nattens mörker och "
+"min listighet så skulle jag ha trott att du var galen."
 
 #: Liberty/scenarios/liberty5.cfg:419
 msgid "As it turns out, I'm the crazy one.  Let's finish this folly."
 msgstr ""
+"Som det verkar nu så är jag den sinnessvaga. Låt oss avsluta galenskaperna."
 
 #: Liberty/scenarios/liberty5.cfg:446
 msgid ""
 "You can come if you wish, but the leader is only interested in speaking to "
 "Baldras."
 msgstr ""
+"Du kan följa med om du vill, men ledaren är enbart intresserad av att tala "
+"med Baldras."
 
 #: Liberty/scenarios/liberty5.cfg:464
 msgid "Fly, and we may yet evade them in the Gray Woods."
 msgstr ""
+"Flyg som vinden, vi har fortfarande chansen att skaka av oss dem i grå "
+"skogen."
 
 #: Liberty/scenarios/liberty5.cfg:469
 msgid "Lead the way..."
-msgstr ""
+msgstr "Visa vägen..."
 
 #: Liberty/scenarios/liberty5.cfg:486 Liberty/scenarios/liberty6.cfg:457
 msgid ""
@@ -704,22 +880,25 @@ msgid ""
 "to Dallben.  Our mission is unfinished, but we must return to fight a "
 "suicide battle."
 msgstr ""
+"Vi har tillbringat för mycket tid här. Säkerligen har drottningens trupper "
+"återvänt till Dallben. Vårt uppdrag är inte slutfört, men vi måste återvända "
+"för en sista självmordsstrid."
 
 #: Liberty/scenarios/liberty6.cfg:5
 msgid "The Gray Woods"
-msgstr ""
+msgstr "Den gråa skogen"
 
 #: Liberty/scenarios/liberty6.cfg:45
 msgid "Dusk"
-msgstr ""
+msgstr "Skymmning"
 
 #: Liberty/scenarios/liberty6.cfg:150
 msgid "Defeat the Lich Lords"
-msgstr ""
+msgstr "Besegra häxmästarna"
 
 #: Liberty/scenarios/liberty6.cfg:228
 msgid "The leader, I presume."
-msgstr ""
+msgstr "Ledaren, antar jag."
 
 #: Liberty/scenarios/liberty6.cfg:233
 msgid ""
@@ -728,10 +907,14 @@ msgid ""
 "attack a caravan head-on.  It's not noble work, but our pursuits require "
 "plenty of gold."
 msgstr ""
+"Jag är Helicrom, du borde inte vara så lättvindig. De män jag styr är "
+"farliga. De kan osedda ta sig genom vilken stad som helst, bestjäla någon "
+"medan han sover, eller attackera en karavan. Det måhända att det inte är "
+"speciellt ädelt, men vår verksamhet kräver mycket guld."
 
 #: Liberty/scenarios/liberty6.cfg:238
 msgid "Your pursuits?"
-msgstr ""
+msgstr "Er verksamhet?"
 
 #: Liberty/scenarios/liberty6.cfg:243
 msgid ""
@@ -740,10 +923,17 @@ msgid ""
 "curriculum, you might say, were dealt with harshly.  We are outcasts because "
 "we seek to master shadow magic.  Our secrecy and security are not cheap."
 msgstr ""
+"Den förre kungens magiministerium hade stenhård kontroll över träningen och "
+"placeringen av magiker i Wesnoth. De av oss som vågade... avvika från "
+"läroplanen, skulle du kunna kalla det, blev hårt behandlade. Vi är fredlösa "
+"för att vi söker att bemästra skuggmagi. Vår tystnad och beskydd är inte "
+"billigt."
 
 #: Liberty/scenarios/liberty6.cfg:248
 msgid "I have heard of you.  Necromancers.  Barely human scum, I say."
 msgstr ""
+"Jag har hört talas om er. Nekromantiker. Knappt männskligt drägg, skulle jag "
+"säga."
 
 #: Liberty/scenarios/liberty6.cfg:253
 msgid ""
@@ -753,10 +943,15 @@ msgid ""
 "secret we hope to discover.  As such, we exist between both worlds, fitting "
 "into neither one."
 msgstr ""
+"Fel. Nekromantiker har blivit slavar till deras häxmästare och förlorar "
+"allteftersom sin mänsklighet. Vi har upptäckt att det är inte så farligt att "
+"praktisera skuggmagi som man först kan tro. Balansen mellan mörker och ljus "
+"är en av de hemligheter som vi önskar att upptäcka. Alltså existerar vi "
+"mellan ljus och mörker, tillhörande varken den ena eller den andra världen."
 
 #: Liberty/scenarios/liberty6.cfg:258
 msgid "Fine, then.  Why do you want to help us?"
-msgstr ""
+msgstr "Bra, dåså. Varför vill du hjälpa oss?"
 
 #: Liberty/scenarios/liberty6.cfg:263
 msgid ""
@@ -764,6 +959,9 @@ msgid ""
 "willing to help.  The throne of Wesnoth, under a King or Queen, is a cow we "
 "always like to prod, so to speak."
 msgstr ""
+"Det vill vi inte. Ni sökte upp OSS. Men jag känner till er situation och är "
+"villig att hjälpa till. Wesnoths tron, oberoende om det är en kung eller "
+"drottning på den, är en instans som mår bra av lite motion, så att säga."
 
 #: Liberty/scenarios/liberty6.cfg:268
 msgid ""
@@ -771,6 +969,10 @@ msgid ""
 "home to some powerful Liches.  Our experiments may have actually aroused "
 "them from sleep... we're not exactly sure."
 msgstr ""
+"Nuförtiden är det alltid dimmigt här i Carcyn. Det beror på att skogarna "
+"nyligen har blivit hem åt några kraftfulla häxmästare. Det skulle kanske "
+"kunna vara så att det är våra experiment som har väckt dem från deras "
+"sömn... men vi vet inte säkert."
 
 #: Liberty/scenarios/liberty6.cfg:273
 msgid ""
@@ -778,46 +980,58 @@ msgid ""
 "predicament.  My men will wipe this land clean if you can help us defend our "
 "homeland."
 msgstr ""
+"Så nu måste ni försvara både fronter samtidigt... Jag förstår ert "
+"predikament. Mina män kommer att rensa ut det här området om ni can hjälpa "
+"oss att försvara vårt hemland."
 
 #: Liberty/scenarios/liberty6.cfg:298
 msgid ""
 "Look there... the canyon valley lies in perpetual darkness... a sign of true "
 "evil. "
-msgstr ""
+msgstr "Se där... dalen ligger i ständigt mörker... ett tecken på sann ondska."
 
 #: Liberty/scenarios/liberty6.cfg:317
 msgid ""
 "The defeat of the evil Liches infesting the Gray Woods was a bittersweet "
 "victory."
 msgstr ""
+"Att besegra häxmästarna som hade infekterat de grå skogarna vare bitterljuvt."
 
 #: Liberty/scenarios/liberty6.cfg:322
 msgid "With Helicrom dead, the guild of shadow magic was thrown into disarray."
-msgstr ""
+msgstr "När Helicrom dog så föll skuggmagikernas gille i oordning."
 
 #: Liberty/scenarios/liberty6.cfg:327
 msgid ""
 "The remaining members were very grateful and offered Baldras a sizeable sum "
 "of gold for his help."
 msgstr ""
+"De kvarvarande medlemmarna var väldigt tacksamma och erbjöd Baldras en "
+"ansenlig summa pengar för hans hjälp."
 
 #: Liberty/scenarios/liberty6.cfg:332
 msgid ""
 "It was not the help he was hoping for, but he knew it would have to be "
 "enough for the coming conflict."
 msgstr ""
+"Det var inte den hjälp han hade hoppats på, men han visste att det var "
+"tvunget att vara nog för den konflikt som skulle komma."
 
 #: Liberty/scenarios/liberty6.cfg:348
 msgid ""
 "The Liches are dead and I am very grateful.  With the undead driven out, we "
 "may live here in relative peace and pursue our studies."
 msgstr ""
+"Häxmästarna är döda och jag är väldigt tackfull. Nu när de odöda är utdrivna "
+"så kan vi leva i relativ fred och fördjupa oss i våra studier."
 
 #: Liberty/scenarios/liberty6.cfg:353
 msgid ""
 "Studies?  Peace?  You mean to continue feeding off of the lawful citizens of "
 "Wesnoth.  There will be no peace for them."
 msgstr ""
+"Studier? Fred? Du menar att ni ska fortsätta leva av de laglydiga "
+"medborgarna i Wesnoth. Det kommer inte vara fred för dem."
 
 #: Liberty/scenarios/liberty6.cfg:358
 msgid ""
@@ -825,12 +1039,17 @@ msgid ""
 "you cannot overestimate the value of the service you have performed here "
 "today.  I will help you to the utmost of my ability."
 msgstr ""
+"Ingen av oss är i någon position att döma någon på moraliska grunder. Hur "
+"som helst så går det inte att överskatta den hjälp som ni har gett oss här "
+"idag. Jag kommer att hjälpa er efter bästa förmåga."
 
 #: Liberty/scenarios/liberty6.cfg:363
 msgid ""
 "I was planning on giving you gold.  Any good army is well financed, and with "
 "the Liches gone we can now spare it."
 msgstr ""
+"Jag hade planerat att ge er guld. Varje bra armé är välfinansierad och nu "
+"när häxmästarna är borta så kan vi avvara det."
 
 #: Liberty/scenarios/liberty6.cfg:368
 msgid ""
@@ -838,39 +1057,48 @@ msgid ""
 "on your adventures.  The Queen has been sending mages out here, and my men "
 "are itching for some payback."
 msgstr ""
+"Men jag misstänker att det skulle vara till större hjälp om jag lät några av "
+"mina män följa med på era äventyr. Drottningen har börjat skicka ut magiker "
+"hit och mina män längtar efter att få ge igen."
 
 #: Liberty/scenarios/liberty6.cfg:373
 msgid ""
 "On the other hand, if I keep the full force of my organization here, we "
 "might be able to regroup and join you on the battlefield when the time comes."
 msgstr ""
+"Å andra sidan, om jag håller kvar hela min organisation i sin fulla styrka "
+"här, så kan vi omgruppera oss och ansluta oss till er på slagfältet när den "
+"tiden kommer."
 
 #: Liberty/scenarios/liberty6.cfg:378
 msgid "I leave it to you to decide."
-msgstr ""
+msgstr "Jag överlåter valet till dig."
 
 #: Liberty/scenarios/liberty6.cfg:381
 msgid "I will take the gold.  How does 500 sound?"
-msgstr ""
+msgstr "Jag väljer guldet. Hur verkar 500?"
 
 #: Liberty/scenarios/liberty6.cfg:386
 msgid "Agreed.  Good luck and farewell to you, Master Baldras."
-msgstr ""
+msgstr "Beslutat. Lycka till och farväl, mäster Baldras."
 
 #: Liberty/scenarios/liberty6.cfg:404
 msgid ""
 "Send your men with us.  They will be valuable help as we prepare for the "
 "assault from the Wesnoth army garrison."
 msgstr ""
+"Skicka dina män med oss. De kommer vara värdefull hjälp när vi förbereder "
+"oss mot attacken från armégarnisionen från Wesnoth."
 
 #: Liberty/scenarios/liberty6.cfg:409
 msgid ""
 "Done.  My finest mages and thieves are at your disposal.  Use them well."
-msgstr ""
+msgstr "Avgjort. Mina bästa magiker och tjuvar hjälper dig. Använd dem väl."
 
 #: Liberty/scenarios/liberty6.cfg:426
 msgid "I wish you to join us in battle against the Queen's forces."
 msgstr ""
+"Jag önskar att ni ansluter er till oss i slaget mot drottningens trupper."
 
 #: Liberty/scenarios/liberty6.cfg:431
 msgid ""
@@ -878,20 +1106,25 @@ msgid ""
 "countryside.  We will be ready to march in 7 days.  All now hinges on you!  "
 "Until then..."
 msgstr ""
+"Avgjort. Jag behöver tid att rensa upp här i skogen och återkalla mina män "
+"från landsbygden. Vi kommer att vara redo att marchera om sju dagar. Allt "
+"ansvar vilar nu på dina axlar! Tills vi ses igen..."
 
 #: Liberty/scenarios/liberty6.cfg:477
 msgid "My men... have failed to protect me!  I am a goner..."
-msgstr ""
+msgstr "Mina mannar... har misslyckats med att skydda mig! Jag är förlorad..."
 
 #: Liberty/scenarios/liberty7.cfg:5
 msgid "The Hunters"
-msgstr ""
+msgstr "Jägarna"
 
 #: Liberty/scenarios/liberty7.cfg:16
 msgid ""
 "Baldras and his men quickly left the Gray Woods, not entirely convinced of "
 "their safety even after eradicating the Liches."
 msgstr ""
+"Baldras och hans män skyndade sig ut ur den grå skogen, de var inte helt "
+"övertygade om sin säkerhet även om häxmästarna var döda."
 
 #: Liberty/scenarios/liberty7.cfg:20
 msgid ""
@@ -900,12 +1133,19 @@ msgid ""
 "The ascent of the Queen had cast an uneasy pallor over the citizens of "
 "Wesnoth, and some of them were willing to resist it."
 msgstr ""
+"Under marschen hemåt så blev de mötta av många män och kvinnor från byarna "
+"runt Carcyn och närliggande skogar som ville slå följe med dem. Drottningens "
+"övertagande av makten hade gett många invånare ett obehaglig känsla och "
+"några av dem var redo att göra motstånd."
 
 #: Liberty/scenarios/liberty7.cfg:24
 msgid ""
 "Knowing they too would be labeled criminals, he reluctantly accepted their "
 "help.  Baldras is now able to recruit outlaws."
 msgstr ""
+"Medvetna om att även dessa skulle bli benämnda som kriminella så medgav han "
+"motvilligt att de slog följe. Baldras har nu möjligheten att rekrytera "
+"laglösa."
 
 #: Liberty/scenarios/liberty7.cfg:28
 msgid ""
@@ -914,10 +1154,14 @@ msgid ""
 "to the northwest.  Unsure what to make of it, they formulated their next "
 "course of action..."
 msgstr ""
+"De slog läger vid skogskanten och observerade i all tysthet de avsevärda "
+"truppförflyttningar som kom från den närbelägna staden Aldril och "
+"marscherade mot nordväst. Osäker på vilka slutsatser som borde dras, så "
+"försökte de formulera en strategi..."
 
 #: Liberty/scenarios/liberty7.cfg:95
 msgid "Kill all enemy forces"
-msgstr ""
+msgstr "Döda alla fiendetrupper"
 
 #: Liberty/scenarios/liberty7.cfg:156
 msgid ""
@@ -926,6 +1170,10 @@ msgid ""
 "army of Wesnoth.  Idiocy!  If the noble lord of Elensefar is unwilling to "
 "resist the Queen, how should I ever expect to?"
 msgstr ""
+"Furst Maddocks ord har vägt tungt på mitt sinne de senaste dagarna. Jag har "
+"kommit till slutsatsen att vi aldrig kan vinna. Vi kommer aldrig att besegra "
+"Wesnoths hela armé. Idioti! Om den noble fursten av Elensefar är ovillig att "
+"sätta sig upp mot Drottningen, hur skulle vi ha en chans?"
 
 #: Liberty/scenarios/liberty7.cfg:161
 msgid ""
@@ -933,6 +1181,8 @@ msgid ""
 "platoons of heavy infantry marching towards the garrison in just the last 2 "
 "hours."
 msgstr ""
+"Vad som är värre att hon verkar ha lagt märke oss. Vi har sett 5 plutoner "
+"tungt infanteri  som marcherade mot garnisonen under de senaste två timmarna."
 
 #: Liberty/scenarios/liberty7.cfg:166
 msgid ""
@@ -940,18 +1190,21 @@ msgid ""
 "are a fortress.  They used to protect this area from the enemies of Wesnoth; "
 "I never imagined they would house the enemies of Wesnoth."
 msgstr ""
+"Garnisonen. Halsteads torn är mer än en garnision, brorson, det är ett fort. "
+"De brukade försvara det här området mot Wesnoths fiender; jag trodde aldrig "
+"att Wesnoths fiender skulle husera där."
 
 #: Liberty/scenarios/liberty7.cfg:179
 msgid "(Baldras!)"
-msgstr ""
+msgstr "(Baldras!)"
 
 #: Liberty/scenarios/liberty7.cfg:184
 msgid "Uncle, he wears the crest of the Elense.  We should answer."
-msgstr ""
+msgstr "Farbror, han har Elenses hjälmprydnad, vi borde svara honom."
 
 #: Liberty/scenarios/liberty7.cfg:189
 msgid "Rider, quiet down before we are discovered!  Quickly, approach."
-msgstr ""
+msgstr "Ryttare, tystnad innan vi är upptäckta! Snabbt, kom närmare."
 
 #: Liberty/scenarios/liberty7.cfg:203
 msgid ""
@@ -959,10 +1212,13 @@ msgid ""
 "patrols have again ventured across the Great River into Annuvin.  A man "
 "named Relnan opposed them with a small militia.  He was victorious."
 msgstr ""
+"Mäster Baldras, jag för med mig nyheter från norr. Under den senaste veckan "
+"så har flertalet patruller gett sig över den stora floden in i Annuvin. En "
+"man vid namn Relnan stod emot dem med en liten trupp. Han besegrade dem."
 
 #: Liberty/scenarios/liberty7.cfg:208
 msgid "This is surely good news!"
-msgstr ""
+msgstr "Det här är verkligen bra nyheter!"
 
 #: Liberty/scenarios/liberty7.cfg:213
 msgid ""
@@ -970,6 +1226,9 @@ msgid ""
 "directly from Weldyn.  As soon as they arrive, they will burn every village "
 "to the ground.  No one will live."
 msgstr ""
+"Jag är ledsen att så inte är fallet. Drottningen har skickat en del av sin "
+"huvudarmé direkt från Weldyn. Så snart som de anländer så kommer de att "
+"bränna varje by till marken. Ingen kommer överleva."
 
 #: Liberty/scenarios/liberty7.cfg:218
 msgid ""
@@ -978,36 +1237,47 @@ msgid ""
 "at them.  They mustn't take one step without us being there to harass and "
 "delay them.  When they reach Halstead they will be exhausted or dying."
 msgstr ""
+"Truppförflyttningarna blir logiska nu. Vi måste hindra den här armén från "
+"att nå fram till garnisonen. Vi kanske inte kan svälja dem hela med vi kan "
+"gnaga lite på dem. De får inte ta ett steg utan att vi är där och "
+"trakasserar dem. När de kommer fram till Halstead så kommer de var "
+"uttröttade eller döende."
 
 #: Liberty/scenarios/liberty7.cfg:223
 msgid "You just said we can't beat their entire army!"
-msgstr ""
+msgstr "Du sade just att vi inte kan besegra hela deras arme!"
 
 #: Liberty/scenarios/liberty7.cfg:228
 msgid ""
 "Do you propose surrender?  It's this or nothing.  All we can do is see it "
 "through to the end."
 msgstr ""
+"Föreslår du att vi ska kapitulera? Det är det här eller ingenting. Enda "
+"valet vi har nu är att löpa linan ut."
 
 #: Liberty/scenarios/liberty7.cfg:233
 msgid ""
 "May you prevail in peace and war.  I must depart before I am seen so far "
 "from my Lord's borders."
 msgstr ""
+"Må du ha framgång i krig och fred, Jag måste ge mig av innan jag blir sedd "
+"så långt från min furstes gränser."
 
 #: Liberty/scenarios/liberty7.cfg:246
 msgid "Another platoon approaches..."
-msgstr ""
+msgstr "Ytterligare en pluton närmar sig..."
 
 #: Liberty/scenarios/liberty7.cfg:298
 msgid ""
 "When we are done, no one will fear the open roads and night sky more than "
 "the Wesnoth army.  Strike fast, strike silent... and leave no one alive."
 msgstr ""
+"När vi är klara så kommer ingen frukta öppna vägar och natthimlen mer än "
+"Wesnoths armé. Slå till snabbt, tyst... och lämna ingen vid liv."
 
 #: Liberty/scenarios/liberty7.cfg:313
 msgid "It's an ambush!  Hold your ground!"
-msgstr ""
+msgstr "Det är ett bakhåll! retirera inte!"
 
 #: Liberty/scenarios/liberty7.cfg:325
 msgid ""
@@ -1015,16 +1285,21 @@ msgid ""
 "They were surprised to see their fellow soldiers engaged in combat with the "
 "band of thugs they had heard so much about."
 msgstr ""
+"Nästa morgon så återvände den lokala nattpatrullen till den närliggande "
+"utposten. De var förvånade att hitta soldaterna där i strid med det "
+"rövargäng som de hade hört så mycket om."
 
 #: Liberty/scenarios/liberty7.cfg:333
 msgid ""
 "Troops, to arms!  These peasant scum think they are above the law.  We will "
 "show them the law!"
 msgstr ""
+"Trupper, till vapen! De här bondeavskummet tror att de står över lagen. Vi "
+"ska minsann visa dem hur lagen ligger!"
 
 #: Liberty/scenarios/liberty7.cfg:351
 msgid "Ow!  Fire hot!  No step in fire!"
-msgstr ""
+msgstr "Ajj! Eld varmt! Inte gå i elden!"
 
 #: Liberty/scenarios/liberty7.cfg:372
 msgid ""
@@ -1033,22 +1308,30 @@ msgid ""
 "people may have a chance.  Rest well tonight, because tomorrow's battle will "
 "decide the fate of our homes, our families, and our freedom."
 msgstr ""
+"Vilken jäkla soppa. Låt oss attackera Halstead som nästa mål, för om vi "
+"väntar så blir de oslagbara. Om vi lyckas bränna det till grunden så har "
+"vårt folk en chans. Vila ordentligt inatt, för morgondagens strid kommer "
+"avgöra ödet för våra hem, familjer och vår frihet."
 
 #: Liberty/scenarios/liberty7.cfg:384
 msgid ""
 "Send word to Helicrom that we are ready.  It is time for him to repay his "
 "debt."
 msgstr ""
+"Skicka bud till Helicrom att vi är redo. Det är tid för honom att betala sin "
+"skuld."
 
 #: Liberty/scenarios/liberty7.cfg:405
 msgid ""
 "We have spent too much time here.  Surely the entire Wesnoth army marches on "
 "our position.  We are done for!"
 msgstr ""
+"Vi har tillbringat för mycket tid här. Säkerligen så marscherar hela "
+"Wesnoths armé mot vår nuvarande position. Vi är förlorade!"
 
 #: Liberty/scenarios/liberty8.cfg:5
 msgid "Glory"
-msgstr ""
+msgstr "Ära"
 
 #: Liberty/scenarios/liberty8.cfg:16
 msgid ""
@@ -1057,6 +1340,10 @@ msgid ""
 "separated the human cities surrounding Weldyn and the coastal regions of "
 "Elensefar."
 msgstr ""
+"Under Wesnoths hundrasextioförsta år, trehundratrettioåtta år innan "
+"Asheviere förrådde sin kung, försökte den nytillträdda kungen att en gång "
+"för alla säkerställa vildmarken mellan staden Weldyn och kustregionerna i "
+"Elensefar."
 
 #: Liberty/scenarios/liberty8.cfg:21
 msgid ""
@@ -1066,6 +1353,11 @@ msgid ""
 "settlements rapidly spread.  The country of Wesnoth had been carved in deed "
 "as well as in name."
 msgstr ""
+"Wesnoths grandiosa arme, personligt ledd av Ärkemagikernas höga råd, "
+"utrotade alla fientliga varelser på slätterna oberoende om det var ett "
+"monster, orch eller alv. Stadsstaten Elensefar blev formellt införlivat med "
+"kungadömet och bosättningar spreds sig snabbt. Wesnoth hade utmärkt sig både "
+"i handling och i namn."
 
 #: Liberty/scenarios/liberty8.cfg:26
 msgid ""
@@ -1074,6 +1366,10 @@ msgid ""
 "height to which human magic had grown over the years by drawing the monument "
 "directly from the earth's living rock."
 msgstr ""
+"Ett monument över denna seger restes mitt i vildmarken. Genom en "
+"tolvårsritual så visade ärkemagikernas högsta råd till vilken höjd "
+"människornas magi hade nått genom att konstruera monumentet direkt från "
+"berggrunden."
 
 #: Liberty/scenarios/liberty8.cfg:31
 msgid ""
@@ -1082,6 +1378,10 @@ msgid ""
 "labored there, building the most formidable fortress ever conceived.  It "
 "became the Stronghold of Halstead."
 msgstr ""
+"Ett hundratal meter högt reste sig berget, dess lodräta väggar både "
+"inspirerande och skräckinjagande. Arbetare från hela landsbygden slet med "
+"att konstruera det mest formidabla fort som någonsin skådats. Det blev "
+"Halsteads fäste."
 
 #: Liberty/scenarios/liberty8.cfg:36
 msgid ""
@@ -1091,20 +1391,26 @@ msgid ""
 "parapets and the bones of the defeated are left at the base of Halstead's "
 "frozen waves of stone."
 msgstr ""
+"Den här vaktposten stod stadigt bevakandes medan Wesnoth frodades i dess "
+"skugga. Inget krig har intagit det, och dess murar har aldrig blivit "
+"invaderade. Dess fienders blod fläckar dess bröstvärn och deras ben ligger "
+"vid de vågor, frusna i sten, som utgör Halsteads grund."
 
 #: Liberty/scenarios/liberty8.cfg:159
 msgid "Destroy the stronghold of Halstead"
-msgstr ""
+msgstr "Förstör Halsteads fäste"
 
 #: Liberty/scenarios/liberty8.cfg:271
 msgid "There it is.  The stronghold of Halstead."
-msgstr ""
+msgstr "Där är det. Halsteads fäste."
 
 #: Liberty/scenarios/liberty8.cfg:276
 msgid ""
 "Look at how tall it is!  Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
 msgstr ""
+"Se så högt det är! De där tornen reser sig rakt från marken som om "
+"frammanade ur själva jorden."
 
 #: Liberty/scenarios/liberty8.cfg:281
 msgid ""
@@ -1112,17 +1418,23 @@ msgid ""
 "of Wesnoth, this land was tamed with powerful magic.  Wizards of an ancient "
 "era forged the walls of Halstead from the rock below."
 msgstr ""
+"Det är måhända inte så långt från sanningen. Under de stora kungarnas "
+"tidålder så var det här landet tämjt med kraftfull magi. Trollkarlar från "
+"svunna tider må ha format väggarna på Halstead från självaste berggrunden."
 
 #: Liberty/scenarios/liberty8.cfg:286
 msgid ""
 "I don't see how we can bring it down.  They are already invincible in there!"
 msgstr ""
+"Jag förstår inte hur vi kan förstöra det. De är oövervinnerliga därinne!"
 
 #: Liberty/scenarios/liberty8.cfg:298
 msgid ""
 "No, my young friend.  Halstead indeed has a weakness.  Among my many assets "
 "is access to a wealth of secrets few in Wesnoth are privy to."
 msgstr ""
+"Nej, min unge vän. Halstead har en svaghet. Bland mina många tillgångar "
+"finns kännedom om en mängd hemligheter som få i Wesnoth känner till."
 
 #: Liberty/scenarios/liberty8.cfg:303
 msgid ""
@@ -1130,6 +1442,9 @@ msgid ""
 "on top has been built and rebuilt many times over the ages.  It is not as "
 "indestructible as you might think."
 msgstr ""
+"Du förstår, berget som fortet är byggt på är massiv, men själva slottet har "
+"blivit raserat och ombyggt många gånger under årens lopp. Det är inte så "
+"oförstörbart som man kan tro."
 
 #: Liberty/scenarios/liberty8.cfg:308
 msgid ""
@@ -1137,12 +1452,17 @@ msgid ""
 "to the central keep.  Over time, after many wars, supports were required to "
 "hold up the middle."
 msgstr ""
+"Under byggnaden är ett system av katakomber som sammanbinder alla fyra "
+"tornen med kärntornet i mitten. Under årens lopp och efter många krig så "
+"blev det nödvändigt att förstärka grunden under centralbyggnaden."
 
 #: Liberty/scenarios/liberty8.cfg:313 Liberty/scenarios/liberty8.cfg:345
 msgid ""
 "So... we can knock out the supports and bring down the stronghold of "
 "Halstead.  Would it really work?"
 msgstr ""
+"Så... om vi kan slå ut grundstöttorna så kan vi rasera själva Halsteads "
+"fäste. Skulle det verkligen fungera?"
 
 #: Liberty/scenarios/liberty8.cfg:318 Liberty/scenarios/liberty8.cfg:350
 msgid ""
@@ -1151,14 +1471,18 @@ msgid ""
 "bowels of the mountain and destroy its support.  I am sure we will need to "
 "demolish no less than all four supports to raze the fortress."
 msgstr ""
+"Jag tror det. Varje torn har en passage ner i katakomberna. Om vi kan ta oss "
+"in i mitten på varje torn, så kan en av våra män ta sig ner i underjorden "
+"och rasera stöttorna. Jag tror dock att vi är tvingade att förstöra alla "
+"fyra stöttorna innan det fortet faller."
 
 #: Liberty/scenarios/liberty8.cfg:325
 msgid "No, young one.  Halstead indeed has a weakness."
-msgstr ""
+msgstr "Nä din spoling. Halstead har verkligen en svaghet."
 
 #: Liberty/scenarios/liberty8.cfg:330
 msgid "How do you know?"
-msgstr ""
+msgstr "Hur vet du det?"
 
 #: Liberty/scenarios/liberty8.cfg:335
 msgid ""
@@ -1166,6 +1490,9 @@ msgid ""
 "live in Aldril after orcs massacred many in our village.  We grew up around "
 "here, and we learned many things."
 msgstr ""
+"Det hände när jag var ung, Min far - din farfar - förde med sig din far och "
+"mig för att bo i Aldril efter orcher hade massakrerat många i vår by. Vi "
+"växte upp i dessa trakter och lärde oss många saker."
 
 #: Liberty/scenarios/liberty8.cfg:340
 msgid ""
@@ -1174,97 +1501,113 @@ msgid ""
 "centuries of war, made it necessary to install supports to hold up the "
 "middle."
 msgstr ""
+"Under borgen är ett system av katacomber som förenar alla fyra tornen med "
+"kärntornet i mitten. Katakomberna har växt med åren och i kombination med "
+"århundraden med krig har det blivit nödvändigt att stötta upp mitten."
 
 #: Liberty/scenarios/liberty8.cfg:357
 msgid ""
 "I hope you're right.  In a few hours, night will fall, and will find out."
 msgstr ""
+"Jag hoppas att du har rätt. Om några timmar faller skymningen och vi får "
+"reda på det."
 
 #: Liberty/scenarios/liberty8.cfg:362
 msgid ""
 "We must be cautious.  Look there, a substantial orc force is also advancing "
 "on Halstead.  They must think Wesnoth's army is spread out right now."
 msgstr ""
+"Vi måste vara försiktiga. Titta där, en större orchstyrka avancerar också "
+"mot Halstead. De tror säkert att Wesnoths armé är utspridd för närvarande."
 
 #: Liberty/scenarios/liberty8.cfg:367
 msgid "Heh.  They're in for a surprise.  This may work to our advantage."
 msgstr ""
+"Heh. De kommer att få sig en överraskning. Detta kan vara till vår fördel."
 
 #: Liberty/scenarios/liberty8.cfg:386
 msgid "Look in the distance... riders approach!"
-msgstr ""
+msgstr "Se där borta... det kommer ryttare!"
 
 #: Liberty/scenarios/liberty8.cfg:396
 msgid "Who is it?"
-msgstr ""
+msgstr "Vem är det?"
 
 #: Liberty/scenarios/liberty8.cfg:401
 msgid "Help, I hope.  Circumstances cannot afford to get much more dire."
-msgstr ""
+msgstr "Hjälp, hoppas jag. Vi klarar inte sämre förutsättningar."
 
 #: Liberty/scenarios/liberty8.cfg:408
 msgid "Riders approach from the northwest!  Stand fast, men."
-msgstr ""
+msgstr "Det kommer ryttare från nordväst! Håll positionerna män."
 
 #: Liberty/scenarios/liberty8.cfg:429
 msgid "Sound the advance!"
-msgstr ""
+msgstr "Signalera attack!"
 
 #: Liberty/scenarios/liberty8.cfg:434
 msgid ""
 "Knights of Elensefar, behold the battle has already begun!  Make camp here.  "
 "Then, we CHARGE!"
 msgstr ""
+"Elensefars riddare, se striden har redan börjat! Slå läger här.  Sen så "
+"STORMAR vi!"
 
 #: Liberty/scenarios/liberty8.cfg:443
 msgid ""
 "Amazing.  Lord Maddock sent his home guard... his finest troops!  Elensefar "
 "must be defenseless now.  More hinges on this battle than I thought."
 msgstr ""
+"Fantastiskt. Furst Maddock har skickat sin hird... hans bästa krigare! "
+"Elensefar måste vara helt skyddslös nu, den här striden är mycket mer "
+"avgörande än vad jag först trodde."
 
 #: Liberty/scenarios/liberty8.cfg:448
 msgid ""
 "Baldras, Gwydion is Lord Maddock's son.  This battle isn't just about "
 "Annuvin anymore."
 msgstr ""
+"Baldras, Gwydion är furst Maddocks son. Den här striden är inte längre "
+"enbart om Annuvin."
 
 #: Liberty/scenarios/liberty8.cfg:461
 msgid ""
 "That afternoon, another advance element of the main Wesnoth army arrived..."
-msgstr ""
+msgstr "Den kvällen anlände ännu en förstyrka av Wesnoths huvudarmé..."
 
 #: Liberty/scenarios/liberty8.cfg:529
 msgid ""
 "I think... I think they're trying to storm Halstead itself... the fools!"
 msgstr ""
+"Jag tror... jag tror att de försöker storma själva Halstead... idioter!"
 
 #: Liberty/scenarios/liberty8.cfg:547
 msgid "They have breached the fortess gate!  Repulse them!"
-msgstr ""
+msgstr "De har tagit sig igenom fortets portar! Slå tillbaka dem!"
 
 #: Liberty/scenarios/liberty8.cfg:564
 msgid "I'm inside the tower!  I'm going down to the catacombs - cover me."
-msgstr ""
+msgstr "Jag är inne i tornet! Jag tar mig ner i katakomberna nu, skydda mig."
 
 #: Liberty/scenarios/liberty8.cfg:575
 msgid "After about an hour..."
-msgstr ""
+msgstr "Efter ungefär en timme..."
 
 #: Liberty/scenarios/liberty8.cfg:585
 msgid "It's done."
-msgstr ""
+msgstr "Det är gjort."
 
 #: Liberty/scenarios/liberty8.cfg:613
 msgid "The stronghold of Halstead began to shake..."
-msgstr ""
+msgstr "Halsteads fäste började skaka..."
 
 #: Liberty/scenarios/liberty8.cfg:618
 msgid "We cannot stay here.  The fortress has started to collapse!"
-msgstr ""
+msgstr "Vi kan inte stanna kvar här. Fortet har börjat falla samman!"
 
 #: Liberty/scenarios/liberty8.cfg:653
 msgid "I think it's working!  Everybody get clear NOW!"
-msgstr ""
+msgstr "Jag tror att det fungerar! Akta, alla ut härifrån NU!"
 
 #: Liberty/scenarios/liberty8.cfg:704
 msgid ""
@@ -1273,10 +1616,14 @@ msgid ""
 "sides, while the remainder came to rest several hundred feet below ground, "
 "in the bowels of the hollowed-out mountain."
 msgstr ""
+"Med en hejdundrande jordbävning och ett moln av damm, så störtade tusentals "
+"ton sten och trä ihop över sig självt. En del störtade ner från de branta "
+"sidorna, medans resten kom att vila flera tiotals meter under jordens yta i "
+"den ihåliga kullen."
 
 #: Liberty/scenarios/liberty8.cfg:709
 msgid "No one inside the fortress would make it out alive."
-msgstr ""
+msgstr "Ingen i fortet hade en chans att ta sig ut levande."
 
 #: Liberty/scenarios/liberty8.cfg:740
 msgid ""
@@ -1284,52 +1631,63 @@ msgid ""
 "arrived from Weldyn.  The battle was soon finished.  Every last man from the "
 "province of Annuvin was executed."
 msgstr ""
+"Efter mer än en veckas häftiga strider så anlände merparten av Wesnoths "
+"huvudarmé från Weldyn. Striden var snart avgjord. Varenda man från provinsen "
+"Annuvin blev avrättade."
 
 #: Liberty/scenarios/liberty8.cfg:765
 msgid "Men, help me out of here!  I am trapped under this rubble."
-msgstr ""
+msgstr "Mannar, hjälp mig komma loss. Jag sitter fast härunder rasmassorna."
 
 #: Liberty/scenarios/liberty8.cfg:771
 msgid ""
 "No one was able to get to Baldras in time.  He and many of his companions "
 "died that day beneath the stronghold of Halstead."
 msgstr ""
+"Ingen hann fram till Baldras i tid. Han och många av hans följeslagare dog "
+"under fästningen den dagen."
 
 #: Liberty/scenarios/liberty8.cfg:776
 msgid "I hope this sacrifice is not in vain... we will never find out."
 msgstr ""
+"Jag hoppas att vårt offer inte har varit förgäves... men vi kommer aldrig "
+"att få veta."
 
 #: Liberty/scenarios/liberty8.cfg:783
 msgid "Our dream of freedom... gone...  Uungh."
-msgstr ""
+msgstr "Våra frihetsdrömmar.... försvunna... Uungh."
 
 #: Liberty/scenarios/liberty8.cfg:802
 msgid "Uncle!"
-msgstr ""
+msgstr "Farbror!"
 
 #: Liberty/scenarios/liberty8.cfg:807
 msgid "NO!"
-msgstr ""
+msgstr "NEJ!"
 
 #: Liberty/scenarios/liberty8.cfg:812
 msgid "I promised your father I would watch after you... and I failed."
-msgstr ""
+msgstr "Jag lovade din far att se efter dig... och jag har misslyckats."
 
 #: Liberty/scenarios/liberty8.cfg:817
 msgid ""
 "But we are so close to the end.  We must finish this.  I am sorry you will "
 "not be able to enjoy our freedom.  Goodbye, Harper."
 msgstr ""
+"Men vi är så nära slutet, vi måste fullgöra vad vi har startat. I beklagar "
+"att du inte har möjlighet att njuta av vår frihet. Farväl Harper."
 
 #: Liberty/scenarios/liberty8.cfg:832
 msgid ""
 "Carry on, my friends.  Fighting by your side is the most honorable thing I "
 "have done..."
 msgstr ""
+"Fortsätt ni, mina vänner. Att slåss på samma sida som er har varit det "
+"noblaste jag någonsin har gjort..."
 
 #: Liberty/scenarios/liberty8.cfg:847
 msgid "Your reign of terror is over, General."
-msgstr ""
+msgstr "General, ditt terrorvälde är över nu."
 
 #: Liberty/scenarios/liberty8.cfg:852
 msgid ""
@@ -1337,32 +1695,42 @@ msgid ""
 "This small victory today is a reprieve from the unimaginable pain you will "
 "suffer when her wrath finally meets up with you."
 msgstr ""
+"Du kommer aldrig att kunna sätta dig upp mot Asheviere. Hon besitter för "
+"mycket makt... Dagens lilla seger är bara ett undantag från den obeskrivliga "
+"smärta som hennes vrede kommer att utsätta dig för när den hinner ifatt dig."
 
 #: Liberty/scenarios/liberty8.cfg:864
 msgid ""
 "This was no small victory.  You underestimate the power of love for freedom."
 msgstr ""
+"Det här var inte någon liten seger. Du förstår inte hur kraftig vår "
+"frihetstörst är."
 
 #: Liberty/scenarios/liberty8.cfg:869
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... unngh.."
 msgstr ""
+"Du... underskattar... hur skrupelös och ambitiös din drottning är...unngh.."
 
 #: Liberty/scenarios/liberty8.cfg:877
 msgid ""
 "Small victory?  Bah!  Now we will raze this fortress into the dust from "
 "whence it came."
 msgstr ""
+"Liten seger? Bah! Nu ska vi rasera det här fortet till den mark som det kom "
+"ifrån."
 
 #: Liberty/scenarios/liberty9.cfg:5
 msgid "Liberty: Epilogue"
-msgstr ""
+msgstr "frihet: Epilog"
 
 #: Liberty/scenarios/liberty9.cfg:12
 msgid ""
 "The rest of the battle was a blur.  The shock of what had happened stunned "
 "everybody."
 msgstr ""
+"Resten av striden var som en dimma. Chocken över vad som hade hänt förlamade "
+"alla."
 
 #: Liberty/scenarios/liberty9.cfg:16
 msgid ""
@@ -1370,6 +1738,9 @@ msgid ""
 "night.  The spectacle of Halstead's destruction kept them in a daze that "
 "slowly wore off as they made their way north."
 msgstr ""
+"Baldras och hans män flydde från västra Wesnoths slätter i skydd av mörkret. "
+"Halsteads förstörelse hade gett dem en kraftig chock som gradvis släppte "
+"under deras marsch norrut."
 
 #: Liberty/scenarios/liberty9.cfg:25
 msgid ""
@@ -1378,6 +1749,9 @@ msgid ""
 "were not heard from again.  At the time, Baldras thought this was odd "
 "behavior when he heard about it."
 msgstr ""
+"Ryttarna från Elense besegrade orcharmén, som var liten, och skickade den "
+"tillbaka över den stora floden. Orcherna skingrades över landsbygden och "
+"hördes inte av igen. Baldras blev förvånad när han hörde talas om det."
 
 #: Liberty/scenarios/liberty9.cfg:35
 msgid ""
@@ -1387,6 +1761,11 @@ msgid ""
 "columns.  Soldiers dropped dead where they stood, slain by unseen "
 "assassins.  Fear of an undead menace spread through the ranks."
 msgstr ""
+"När huvuddelen av Ashevieres armé började närma sig Halsteads ruiner så "
+"började det hända mystiska saker. Varje natt så försvann det manskap, vissa "
+"återfanns hackade till blodiga bitar. Oförklarlig otur drabbade de "
+"marscherande trupperna. Soldater dog på sina poster, dödade av osedda "
+"lönnmördare. Det spred sig en skräck för det vandöda hotet."
 
 #: Liberty/scenarios/liberty9.cfg:45
 msgid ""
@@ -1396,6 +1775,11 @@ msgid ""
 "command the entire countryside was cursed.  He quickly retreated to the "
 "traditional border and set up strong defenses against the west."
 msgstr ""
+"När Wesnoths armé fann ruinerna efter det mäktiga fortet Halstead, så var "
+"det för mycket. Deras oförmåga att förstå hur något sådant kunde hända, "
+"kombinerat med den osynliga terrorn som förföljde dem, övertygade Ashevieres "
+"befälhavare att hela landsbygden var förbannad. Han retirerade snabbt till "
+"den traditionella gränsen och satte upp starka försvarssystem mot väster."
 
 #: Liberty/scenarios/liberty9.cfg:57
 msgid ""
@@ -1404,6 +1788,10 @@ msgid ""
 "men were successfully using tactics Baldras had mastered and used during his "
 "resistance."
 msgstr ""
+"Baldras hade just korsat den stora floden när ryktena om nattliga förföljare "
+"kom till hans kännedom. Med viss förnöjsamhet så insåg han att furst "
+"Maddocks män framgångsrikt använde taktik som Baldras själv hade bemästrat "
+"under sin tid som motståndsman."
 
 #: Liberty/scenarios/liberty9.cfg:62
 msgid ""
@@ -1411,28 +1799,39 @@ msgid ""
 "ground.  In a panic, they raced through the forest to Delwyn.  It was "
 "likewise devestated.  However, they did find one clue as to what happened..."
 msgstr ""
+"Bönderna som hade blivit fredlösa nådde slutligen fram till Dallben. Byn "
+"hade blivit nerbränd till grunden. I panik så skyndade de till Delwyn. Det "
+"var också förstört, men de lyckades hitta en ledtråd till vad som hade "
+"hänt..."
 
 #: Liberty/scenarios/liberty9.cfg:75
 msgid ""
 "...a grimy note nailed to a charred post that read, 'Baldras, You would have "
 "been proud.  We gave 'em hell.  But in the end, it wasn't enough.'"
 msgstr ""
+"...en solkig lapp var fastnaglad vid en vidbränd vägskylt, 'Baldras, du "
+"skulle ha varit stolt. Vi kämpade tappert, men till slut, så var de oss "
+"övermäktiga.'"
 
 #: Liberty/scenarios/liberty9.cfg:79
 msgid ""
 "'We fled like criminals in the night, but we made sure that no one would "
 "harass us anymore.'  "
 msgstr ""
+"'Vi flydde som kriminella i natten, men vi säkerställde att vi inte skulle "
+"kunna bli ofredade mera."
 
 #: Liberty/scenarios/liberty9.cfg:83
 msgid ""
 "'If you wish to find us, head west.  When you reach the land's end, just "
 "keep going.  See you soon, old friend.  - Relnan' "
 msgstr ""
+"'Om du önskar hitta oss så färdas västerut. När du kommer tills lands end så "
+"fortsätt bara. Vi ses snart, gamle vän - Relnan'"
 
 #: Liberty/units/Bandit-peasant.cfg:5
 msgid "Village Elder"
-msgstr ""
+msgstr "Byäldste"
 
 #: Liberty/units/Bandit-peasant.cfg:18
 msgid ""
@@ -1440,6 +1839,8 @@ msgid ""
 "guided by a group of elders, who are the village's wisest and most "
 "experienced residents."
 msgstr ""
+"Varenda en av de byar som ligger utspridda över Wesnoths landsbygd leds av "
+"en grupp med byäldste, vilka är byns visaste och mest erfarna invånare."
 
 #: Liberty/units/Outlaw-peasant.cfg:22 Liberty/units/Outlaw-peasant.cfg:89
 #: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
@@ -1448,7 +1849,7 @@ msgstr ""
 #: Liberty/units/Fugitive.cfg:88 Liberty/units/Highwayman-peasant.cfg:21
 #: Liberty/units/Outlaw.cfg:28 Liberty/units/Outlaw.cfg:103
 msgid "mace"
-msgstr ""
+msgstr "morgonstjärna"
 
 #: Liberty/units/Bone_Knight.cfg:48 Liberty/units/Outlaw-peasant.cfg:23
 #: Liberty/units/Outlaw-peasant.cfg:41 Liberty/units/Outlaw-peasant.cfg:90
@@ -1465,20 +1866,22 @@ msgstr ""
 #: Liberty/units/Outlaw.cfg:47 Liberty/units/Outlaw.cfg:104
 #: Liberty/units/Outlaw.cfg:122
 msgid "impact"
-msgstr ""
+msgstr "kross"
 
 #: Liberty/units/Bandit.cfg:5
 msgid "Bandit"
-msgstr ""
+msgstr "Bandit"
 
 #: Liberty/units/Bandit.cfg:24
 msgid ""
 "Armed with heavy mace, Bandits are adept at robbing and killing at night."
 msgstr ""
+"Beväpnad med en kraftig morgonstjärna är banditerna duktiga på att rånmörda "
+"i skydd av mörkret."
 
 #: Liberty/units/Bone_Knight.cfg:5 Liberty/units/Bone_Knight2.cfg:5
 msgid "Bone Knight"
-msgstr ""
+msgstr "Skelettryttare"
 
 #: Liberty/units/Bone_Knight.cfg:27 Liberty/units/Skeleton_Rider2.cfg:27
 #: Liberty/units/Skeleton_Rider.cfg:27 Liberty/units/Bone_Knight2.cfg:27
@@ -1487,13 +1890,16 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Dessa krigare, en gång i tiden kända över hela slätten, rider på sina "
+"skeletthästar med hjälp av ohelig magi. Deras syfte är att sprida skräck och "
+"förstörelse."
 
 #: Liberty/units/Skeleton-dummy.cfg:26 Liberty/units/Revenant-dummy1.cfg:25
 #: Liberty/units/Bone_Knight.cfg:30 Liberty/units/Skeleton_Rider2.cfg:30
 #: Liberty/units/Skeleton_Rider.cfg:30 Liberty/units/Bone_Knight2.cfg:30
 #: Liberty/units/Revenant-dummy2.cfg:25
 msgid "axe"
-msgstr ""
+msgstr "yxa"
 
 #: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
 #: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
@@ -1505,24 +1911,24 @@ msgstr ""
 #: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
 #: Liberty/units/Revenant-dummy2.cfg:26
 msgid "blade"
-msgstr ""
+msgstr "blad"
 
 #: Liberty/units/Bone_Knight.cfg:47 Liberty/units/Bone_Knight2.cfg:47
 msgid "trample"
-msgstr ""
+msgstr "springa ner"
 
 #: Liberty/units/Bone_Knight.cfg:52 Liberty/units/Bone_Knight2.cfg:52
 msgid "charge"
-msgstr ""
+msgstr "storma"
 
 #: Liberty/units/Death_Squire.cfg:5
 msgid "Death Squire"
-msgstr ""
+msgstr "Dödsväpnare"
 
 #: Liberty/units/Death_Squire.cfg:18 Liberty/units/Shadow_Mage.cfg:16
 #: Liberty/units/Shadow_Lord.cfg:56
 msgid "leadership"
-msgstr ""
+msgstr "ledarskap"
 
 #: Liberty/units/Death_Squire.cfg:20
 msgid ""
@@ -1532,24 +1938,31 @@ msgid ""
 "pick up a good deal of the Knight's power, including the ability to command "
 "underlings."
 msgstr ""
+"Ibland så är kraftfulla krigare och generaler så uppfyllda av hat och ångest "
+"så att de inte kan släppa taget om livet, dessa återkommer som dödsriddare. "
+"Dödsväpnare tjänare dem under tiden som dessa samlar nog ohelig kraft för "
+"att själva bli dödsriddare. Under tiden så lär dom sig en hel del av "
+"dödsriddarnas färdigheter, bland annat att kommendera undersåtar."
 
 #: Liberty/units/Human-ranger.cfg:32 Liberty/units/Death_Squire.cfg:23
 msgid "sword"
-msgstr ""
+msgstr "svärd"
 
 #: Liberty/units/Footpad-peasant.cfg:5
 msgid "Young Peasant"
-msgstr ""
+msgstr "Bonddräng"
 
 #: Liberty/units/Footpad-peasant.cfg:18
 msgid ""
 "The scruffy-haired peasant youth are much like the young people living "
 "elsewhere in Wesnoth: reckless, cocky, and eager to explore."
 msgstr ""
+"Dessa unga krulltottar till bönder liknar vilken ungdom som helst, dom är "
+"dumdristiga, kaxiga och utforskar gärna nya saker."
 
 #: Liberty/units/Thug-peasant.cfg:21 Liberty/units/Footpad-peasant.cfg:21
 msgid "club"
-msgstr ""
+msgstr "klubba"
 
 #: Liberty/units/Outlaw-peasant.cfg:40 Liberty/units/Outlaw-peasant.cfg:107
 #: Liberty/units/Fugitive-peasant.cfg:40
@@ -1557,11 +1970,11 @@ msgstr ""
 #: Liberty/units/Fugitive.cfg:40 Liberty/units/Fugitive.cfg:106
 #: Liberty/units/Outlaw.cfg:46 Liberty/units/Outlaw.cfg:121
 msgid "sling"
-msgstr ""
+msgstr "slunga"
 
 #: Liberty/units/Fugitive-peasant.cfg:5
 msgid "Night Patrolman"
-msgstr ""
+msgstr "Nattpatrullman"
 
 #: Liberty/units/Fugitive-peasant.cfg:19
 msgid ""
@@ -1569,10 +1982,13 @@ msgid ""
 "orc raids.  Some of these join the Wesnoth army, while others join the core "
 "of the village's night patrol."
 msgstr ""
+"Varje by har en grupp med duktiga krigare som ser försvarar den mot "
+"orchräder. Vissa av dessa går med i Wesnoths armé, medas andra utgör kärnan "
+"i de nattliga patrullrundorna i byn."
 
 #: Liberty/units/Fugitive-peasant.cfg:77
 msgid "female^Night Patrolman"
-msgstr ""
+msgstr "Nattpatrullkvinna"
 
 #: Liberty/units/Fugitive-peasant.cfg:91
 msgid ""
@@ -1581,6 +1997,10 @@ msgid ""
 "of the village's night patrol.  She may look tough, but beneath that rough "
 "exterior is a dedicated and hard-working young woman."
 msgstr ""
+"Varje by har en grupp med duktiga krigare som ser försvarar den mot "
+"orchräder. Vissa av dessa går med i Wesnoths armé, medas andra utgör kärnan "
+"i de nattliga patrullrundorna i byn. Hon ser kanske tuff ut, men under den "
+"råbarkade ytan finns en hårt arbetande och hängiven ung kvinna."
 
 #: Liberty/units/Fugitive.cfg:19
 msgid ""
@@ -1589,10 +2009,14 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
+"Återfallsförbytare har blivit ökända hos myndigheterna både på grund av sin "
+"stridsvana och sin förmåga att undvika att bli fångade. Farliga och "
+"skoningslösa är de och är svårslagna i sitt rätta element, men de är inte "
+"någon match för professionella polisstyrkor."
 
 #: Liberty/units/Fugitive.cfg:71
 msgid "female^Fugitive"
-msgstr ""
+msgstr "Flykting"
 
 #: Liberty/units/Fugitive.cfg:85
 msgid ""
@@ -1600,10 +2024,13 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
+"Återfallsförbytare har blivit ökända hos myndigheterna både på grund av sin "
+"stridsvana och sin förmåga att undvika att bli fångade. Både skrämmande och "
+"vackra är deras farlighet enbart överträffad av deras skönhet."
 
 #: Liberty/units/Highwayman-peasant.cfg:5
 msgid "Senior Village Elder"
-msgstr ""
+msgstr "Äldre byäldste"
 
 #: Liberty/units/Highwayman-peasant.cfg:18
 msgid ""
@@ -1611,20 +2038,24 @@ msgid ""
 "the senior elders have the responsibility for the community's livelihood "
 "placed squarely on their shoulders."
 msgstr ""
+"Hela byn litar på sina byäldste för vägledning. Både starka och visa har de "
+"äldsta i byn ensamt ansvar för byns uppehälle och överlevnad."
 
 #: Liberty/units/Highwayman.cfg:5
 msgid "Highwayman"
-msgstr ""
+msgstr "Landsvägsrånare"
 
 #: Liberty/units/Highwayman.cfg:18
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
+"Beväpnad med en morgonstjärna är dessa rånare  de sista du skulle vilja möta "
+"på en övergiven väg efter mörkrets inbrott."
 
 #: Liberty/units/Human-ranger.cfg:5
 msgid "Ranger"
-msgstr ""
+msgstr "Utbygdsjägare"
 
 #: Liberty/units/Human-ranger.cfg:18
 msgid ""
@@ -1633,26 +2064,30 @@ msgid ""
 "the cover of night.  Most rulers are afraid of rangers and would rather put "
 "them in the dungeon than put their abilities to use."
 msgstr ""
+"Utbygdsjägare är vilda män som har bemästrat skogar och kullar. De är "
+"fantastiska spårare, scouter och bågskyttar, de förflyttar sig fritt efter "
+"nattens intrång. De flesta regenter är rädda för utbygdsjägarna och placerar "
+"dem hellre i en fängelsehåla än använder deras färdigheter."
 
 #: Liberty/units/Human-ranger.cfg:54 Liberty/units/Poacher-peasant.cfg:43
 #: Liberty/units/Huntsman.cfg:47 Liberty/units/Trapper.cfg:49
 #: Liberty/units/Huntsman-peasant.cfg:49 Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
-msgstr ""
+msgstr "båge"
 
 #: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:44
 #: Liberty/units/Huntsman.cfg:48 Liberty/units/Trapper.cfg:50
 #: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
-msgstr ""
+msgstr "stick"
 
 #: Liberty/units/Human-ranger.cfg:57
 msgid "marksman"
-msgstr ""
+msgstr "prickskytt"
 
 #: Liberty/units/Huntsman.cfg:5 Liberty/units/Huntsman-peasant.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "Jägare"
 
 #: Liberty/units/Huntsman-peasant.cfg:18
 msgid ""
@@ -1660,12 +2095,15 @@ msgid ""
 "wilderness homes.  They can bullseye wamprats and track anything that moves "
 "in their territory.  They are highly skilled at hunting at night."
 msgstr ""
+"Jägarna har tillbringat sina dagar i skogarna och träsken runt deras "
+"vildmarkshem. De kan pricka träskråttor och spåra vad som än rör sig i deras "
+"marker. De är ytterst skickliga på att jaga på nätterna."
 
 #: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Huntsman.cfg:30
 #: Liberty/units/Trapper.cfg:32 Liberty/units/Huntsman-peasant.cfg:32
 #: Liberty/units/Trapper-peasant.cfg:26
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #: Liberty/units/Huntsman.cfg:18
 msgid ""
@@ -1674,10 +2112,14 @@ msgid ""
 "including people.  Bandit gangs hire them for their ability to bring down "
 "any prey."
 msgstr ""
+"Jägarna har spenderat sina dagar i skogarna och träsken runt deras "
+"vildmarkshem. De kan spåra vad som än rör sig i deras marker, till och med "
+"människor. Banditgäng brukar hyra in dem då de värdesätter deras förmåga att "
+"fälla alla byten."
 
 #: Liberty/units/Outlaw-peasant.cfg:5
 msgid "Night Watchman"
-msgstr ""
+msgstr "Nattvakt"
 
 #: Liberty/units/Outlaw-peasant.cfg:19
 msgid ""
@@ -1685,10 +2127,12 @@ msgid ""
 "marauders, both human and otherwise, that prowl the Wesnoth countryside at "
 "night."
 msgstr ""
+"Nattvakterna är män och kvinnor som vaktar byarna mot rövare, både mänskliga "
+"och andra, vilka strövar runt Wesnoth på nätterna."
 
 #: Liberty/units/Outlaw-peasant.cfg:71
 msgid "female^Night Watchman"
-msgstr ""
+msgstr "Nattvakt"
 
 #: Liberty/units/Outlaw-peasant.cfg:85
 msgid ""
@@ -1696,30 +2140,33 @@ msgid ""
 "marauders, both human and otherwise, that prowl the Wesnoth countryside at "
 "night.  Female watchmen look good while doing it."
 msgstr ""
+"Nattvakterna är män och kvinnor som vaktar byarna mot rövare, både mänskliga "
+"och andra, vilka strövar runt Wesnoth på nätterna. Kvinnliga nattvakter ser "
+"bra ut medan de gör detta."
 
 #: Liberty/units/Outlaw.cfg:25
 msgid "Outlaws fight better at night."
-msgstr ""
+msgstr "Laglösa slåss bättre på natten"
 
 #: Liberty/units/Outlaw.cfg:77
 msgid "female^Outlaw"
-msgstr ""
+msgstr "Laglös"
 
 #: Liberty/units/Outlaw.cfg:99
 msgid "Outlaws fight better at night. Female Outlaws look good while doing it."
-msgstr ""
+msgstr "Laglösa slåss bättre på natten. De kvinnliga ser bra ut samtidigt"
 
 #: Liberty/units/Poacher-peasant.cfg:5
 msgid "Peasant Hunter"
-msgstr ""
+msgstr "Jagande bonde"
 
 #: Liberty/units/Poacher-peasant.cfg:18
 msgid "Villages rely on hunters to bring in a majority of the food supply."
-msgstr ""
+msgstr "En stor del av byarnas mat kommer från dessa jägare."
 
 #: Liberty/units/Revenant-dummy1.cfg:5 Liberty/units/Revenant-dummy2.cfg:5
 msgid "Revenant"
-msgstr ""
+msgstr "Gengångare"
 
 #: Liberty/units/Revenant-dummy1.cfg:17 Liberty/units/Revenant-dummy2.cfg:17
 msgid ""
@@ -1727,57 +2174,60 @@ msgid ""
 "warriors' will and soul are all but lost, their fighting skills certainly "
 "remain with the Revenant."
 msgstr ""
+"Gengångare är odöda varelser som har blivit frammanade från en gång mäktiga "
+"krigare. Medan deras själar och viljor är bortblåsta så har deras förmåga "
+"att slåss blivit väl bevarad."
 
 #: Liberty/units/Rogue_Mage.cfg:5
 msgid "Rogue Mage"
-msgstr ""
+msgstr "Magikerlymmel"
 
 #: Liberty/units/Rogue_Mage.cfg:22 Liberty/units/Shadow_Mage.cfg:28
 msgid "short sword"
-msgstr ""
+msgstr "kortsvärd"
 
 #: Liberty/units/Rogue_Mage.cfg:54
 msgid "missile"
-msgstr ""
+msgstr "missil"
 
 #: Liberty/units/Rogue_Mage.cfg:55 Liberty/units/Shadow_Mage.cfg:52
 #: Liberty/units/Shadow_Lord.cfg:102
 msgid "cold"
-msgstr ""
+msgstr "frost"
 
 #: Liberty/units/Rogue_Mage.cfg:57 Liberty/units/Shadow_Mage.cfg:31
 #: Liberty/units/Shadow_Mage.cfg:54 Liberty/units/Shadow_Lord.cfg:71
 #: Liberty/units/Shadow_Lord.cfg:104 Liberty/units/Shadow_Lord.cfg:143
 msgid "magical"
-msgstr ""
+msgstr "magisk"
 
 #: Liberty/units/Shadow_Lord.cfg:5
 msgid "Shadow Lord"
-msgstr ""
+msgstr "Skuggfurste"
 
 #: Liberty/units/Shadow_Lord.cfg:68
 msgid "astral blade"
-msgstr ""
+msgstr "andeklinga"
 
 #: Liberty/units/Shadow_Lord.cfg:101
 msgid "shadow bolt"
-msgstr ""
+msgstr "skuggblixt"
 
 #: Liberty/units/Shadow_Lord.cfg:140
 msgid "shadow blast"
-msgstr ""
+msgstr "skuggblästring"
 
 #: Liberty/units/Shadow_Mage.cfg:5
 msgid "Shadow Mage"
-msgstr ""
+msgstr "Skuggmagiker"
 
 #: Liberty/units/Shadow_Mage.cfg:51
 msgid "ice blast"
-msgstr ""
+msgstr "Isblästring"
 
 #: Liberty/units/Skeleton-dummy.cfg:5
 msgid "Skeleton"
-msgstr ""
+msgstr "Skelett"
 
 #: Liberty/units/Skeleton-dummy.cfg:18
 msgid ""
@@ -1785,20 +2235,24 @@ msgid ""
 "dark magics. Like all undead, they are especially vulnerable to fire and "
 "holy spells, but resistant to bladed weapons."
 msgstr ""
+"Skelett är krigare som har blivit slaktade i strid och återupplivade av "
+"magiker. Så som alla vandöda, så är de extra känsliga för eld och heliga "
+"besvärjelser, men motståndskraftiga mot vapen med klingor."
 
 #: Liberty/units/Skeleton_Rider2.cfg:5 Liberty/units/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
-msgstr ""
+msgstr "Skelettridare"
 
 #: Liberty/units/Thug-peasant.cfg:18
 msgid ""
 "Peasants live in the small hamlets and villages scattered across the Wesnoth "
 "countryside."
 msgstr ""
+"Bönder bor i de små byar som finns utspridda över hela Wesnoths landsbyggd."
 
 #: Liberty/units/Trapper-peasant.cfg:5
 msgid "Peasant Trapper"
-msgstr ""
+msgstr "Bondepälsjägare"
 
 #: Liberty/units/Trapper-peasant.cfg:18
 msgid ""
@@ -1806,13 +2260,18 @@ msgid ""
 "Their hunting experience makes them most valuable at night and in forests "
 "and swamps."
 msgstr ""
+"Pälsjägare är skickliga jägare som förser flera byar med mat och pälsar. "
+"Deras jakterfarenhet gör dem effektivast på kvällar och nätter i skog och "
+"träsk."
 
 #: Liberty/units/Trapper.cfg:5
 msgid "Trapper"
-msgstr ""
+msgstr "Pälsjägare"
 
 #: Liberty/units/Trapper.cfg:24
 msgid ""
 "Trappers usually work supplying food for bandits and outlaws. Their hunting "
 "experience makes them most valuable at night and in forests and swamps."
 msgstr ""
+"Pälsjägare arbetar oftast med att skaffa mat åt banditer och rövare. Deras "
+"jakterfarenhet gör dem effektivast på kvällar och nätter i skog och träsk."
