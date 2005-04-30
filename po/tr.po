@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-25 21:43+0200\n"
+"POT-Creation-Date: 2005-04-30 13:33+0200\n"
 "PO-Revision-Date: 2005-04-25 21:43+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -11,54 +11,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: Liberty.cfg:11
+#: Liberty.cfg:10
 msgid "Liberty"
 msgstr ""
 
-#: Liberty.cfg:18
+#: Liberty.cfg:15
 msgid "(Easy)"
 msgstr ""
 
-#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:18
+#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:15
 msgid "Peasant"
 msgstr ""
 
-#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:19
+#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:16
 msgid "Outlaw"
 msgstr ""
 
-#: Liberty.cfg:19
+#: Liberty.cfg:16
 msgid "(Normal)"
 msgstr ""
 
-#: Liberty.cfg:20
+#: Liberty.cfg:17
 msgid "(Hard)"
 msgstr ""
 
-#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:20
+#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:17
 msgid "Fugitive"
 msgstr ""
 
-#: Liberty.cfg:24
+#: Liberty.cfg:20
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
-"but hopefully heroes in ours.  Version 1.10, 5 Apr 2005.  For BFW 0.8.9+"
+"but hopefully heroes in ours.  Version 1.11, 30 Apr 2005.  For BFW 0.9.1+"
 msgstr ""
 
-#: Liberty.cfg:174
+#: Liberty.cfg:172
 msgid "Tell my wife... that I loved her!"
 msgstr ""
 
-#: Liberty.cfg:188
+#: Liberty.cfg:186
 msgid "Unngh... Now our people may never be free..."
 msgstr ""
 
-#: Liberty.cfg:202
+#: Liberty.cfg:200
 msgid "I am finished... will we ever be free?"
 msgstr ""
 
-#: Liberty.cfg:216
+#: Liberty.cfg:214
 msgid "How can this be?  We have lost."
 msgstr ""
 
@@ -101,112 +101,112 @@ msgid ""
 "rule, especially not to this pretender..."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:129
+#: Liberty/scenarios/liberty1.cfg:128
 msgid "Defeat all of the Goblin marauders"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:133
+#: Liberty/scenarios/liberty1.cfg:132
 msgid "Goblins reach the village of Dallben"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:137 Liberty/scenarios/liberty5.cfg:91
+#: Liberty/scenarios/liberty1.cfg:136 Liberty/scenarios/liberty5.cfg:91
 #: Liberty/scenarios/liberty3.cfg:119 Liberty/scenarios/liberty4.cfg:106
 #: Liberty/scenarios/liberty6.cfg:154 Liberty/scenarios/liberty8.cfg:163
 #: Liberty/scenarios/liberty2.cfg:80 Liberty/scenarios/liberty7.cfg:99
 msgid "Death of Baldras"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:141 Liberty/scenarios/liberty5.cfg:95
+#: Liberty/scenarios/liberty1.cfg:140 Liberty/scenarios/liberty5.cfg:95
 #: Liberty/scenarios/liberty3.cfg:123 Liberty/scenarios/liberty4.cfg:110
 #: Liberty/scenarios/liberty6.cfg:158 Liberty/scenarios/liberty2.cfg:84
 #: Liberty/scenarios/liberty7.cfg:103
 msgid "Death of Harper"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:145 Liberty/scenarios/liberty5.cfg:99
+#: Liberty/scenarios/liberty1.cfg:144 Liberty/scenarios/liberty5.cfg:99
 #: Liberty/scenarios/liberty3.cfg:131 Liberty/scenarios/liberty4.cfg:118
 #: Liberty/scenarios/liberty6.cfg:162 Liberty/scenarios/liberty8.cfg:167
 #: Liberty/scenarios/liberty2.cfg:88 Liberty/scenarios/liberty7.cfg:107
 msgid "Turns run out"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:192
+#: Liberty/scenarios/liberty1.cfg:191
 msgid ""
 "As long as the council of orcs does not provide us with sufficent forces out "
 "here in the wilderness, we look to these foolish humans to feed our wolves "
 "and slake the thirst of our blades."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:197
+#: Liberty/scenarios/liberty1.cfg:196
 msgid ""
 "Ride you worms, I want to finish our raid before the hunting party returns "
 "to the human village."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:227
+#: Liberty/scenarios/liberty1.cfg:226
 msgid ""
 "Look, goblin riders approach!  You were right, they were going to raid "
 "Dallben while we were gone."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:232
+#: Liberty/scenarios/liberty1.cfg:231
 msgid ""
 "We must stop them before they reach the village.  Damn the crown, they have "
 "long since forgotten about us out here."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:237
+#: Liberty/scenarios/liberty1.cfg:236
 msgid ""
 "Goblins do not do well without their leader.  If we can bring him down, we "
 "may stop them."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:242
+#: Liberty/scenarios/liberty1.cfg:241
 msgid ""
 "That goblin leader is heading full-speed straight for Dallben.  We'll need "
 "to chase him down if we're going to stop them."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:247
+#: Liberty/scenarios/liberty1.cfg:246
 msgid ""
 "Do it.  Try to hold them back until us old timers can get there and finish "
 "them off.  I have a feeling if you can distract the leader, the rest of them "
 "will be thrown into confusion."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:252
+#: Liberty/scenarios/liberty1.cfg:251
 msgid ""
 "And Harper... don't get yourself killed.  I'm responsible for you now that "
 "your father is gone, and I won't dishonor his memory by breaking my promise "
 "to keep you safe."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:257
+#: Liberty/scenarios/liberty1.cfg:256
 msgid "...I know...  Alright now, let's stop these goblins!"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:279
+#: Liberty/scenarios/liberty1.cfg:278
 msgid ""
 "We are barely able to survive these orc raids.  We lost two men last week, "
 "more today... yet Weldyn does nothing!"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:284
+#: Liberty/scenarios/liberty1.cfg:283
 msgid ""
 "The King stopped sending patrols out here once the war started.  Once that "
 "happened, the burden fell to us.  We are citizens of Wesnoth, and as long as "
 "her banner flies we will resist the horde."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:289
+#: Liberty/scenarios/liberty1.cfg:288
 msgid "The banner will fly over a ghost town if help does not come soon."
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:317
+#: Liberty/scenarios/liberty1.cfg:316
 msgid "Halt!"
 msgstr ""
 
-#: Liberty/scenarios/liberty1.cfg:334
+#: Liberty/scenarios/liberty1.cfg:333
 msgid ""
 "The goblins reached the village!  There will surely be nothing left when "
 "they are done destroying it."
@@ -1096,55 +1096,55 @@ msgstr ""
 msgid "Destroy the stronghold of Halstead"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:271
+#: Liberty/scenarios/liberty8.cfg:270
 msgid "There it is.  The stronghold of Halstead."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:276
+#: Liberty/scenarios/liberty8.cfg:275
 msgid ""
 "Look at how tall it is!  Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:281
+#: Liberty/scenarios/liberty8.cfg:280
 msgid ""
 "That may not be too far from the truth.  During the time of the Great Kings "
 "of Wesnoth, this land was tamed with powerful magic.  Wizards of an ancient "
 "era forged the walls of Halstead from the rock below."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:286
+#: Liberty/scenarios/liberty8.cfg:285
 msgid ""
 "I don't see how we can bring it down.  They are already invincible in there!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:298
+#: Liberty/scenarios/liberty8.cfg:297
 msgid ""
 "No, my young friend.  Halstead indeed has a weakness.  Among my many assets "
 "is access to a wealth of secrets few in Wesnoth are privy to."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:303
+#: Liberty/scenarios/liberty8.cfg:302
 msgid ""
 "You see, the mountain on which the fort was built is solid, but the castle "
 "on top has been built and rebuilt many times over the ages.  It is not as "
 "indestructible as you might think."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:308
+#: Liberty/scenarios/liberty8.cfg:307
 msgid ""
 "Beneath the structure is a system of catacombs that connects all four towers "
 "to the central keep.  Over time, after many wars, supports were required to "
 "hold up the middle."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:313 Liberty/scenarios/liberty8.cfg:345
+#: Liberty/scenarios/liberty8.cfg:312 Liberty/scenarios/liberty8.cfg:344
 msgid ""
 "So... we can knock out the supports and bring down the stronghold of "
 "Halstead.  Would it really work?"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:318 Liberty/scenarios/liberty8.cfg:350
+#: Liberty/scenarios/liberty8.cfg:317 Liberty/scenarios/liberty8.cfg:349
 msgid ""
 "I believe it will.  Each tower has a passage down to the catacombs.  If we "
 "can reach the center of each tower, one of our men can escape down to the "
@@ -1152,22 +1152,22 @@ msgid ""
 "demolish no less than all four supports to raze the fortress."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:325
+#: Liberty/scenarios/liberty8.cfg:324
 msgid "No, young one.  Halstead indeed has a weakness."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:330
+#: Liberty/scenarios/liberty8.cfg:329
 msgid "How do you know?"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:335
+#: Liberty/scenarios/liberty8.cfg:334
 msgid ""
 "When I was a boy, my father - your grandfather - brought your dad and me to "
 "live in Aldril after orcs massacred many in our village.  We grew up around "
 "here, and we learned many things."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:340
+#: Liberty/scenarios/liberty8.cfg:339
 msgid ""
 "Beneath the structure is a system of catacombs that connects all four towers "
 "to the central keep.  The catacombs growing over time, combined with "
@@ -1175,98 +1175,98 @@ msgid ""
 "middle."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:357
+#: Liberty/scenarios/liberty8.cfg:356
 msgid ""
 "I hope you're right.  In a few hours, night will fall, and will find out."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:362
+#: Liberty/scenarios/liberty8.cfg:361
 msgid ""
 "We must be cautious.  Look there, a substantial orc force is also advancing "
 "on Halstead.  They must think Wesnoth's army is spread out right now."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:367
+#: Liberty/scenarios/liberty8.cfg:366
 msgid "Heh.  They're in for a surprise.  This may work to our advantage."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:386
+#: Liberty/scenarios/liberty8.cfg:385
 msgid "Look in the distance... riders approach!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:396
+#: Liberty/scenarios/liberty8.cfg:395
 msgid "Who is it?"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:401
+#: Liberty/scenarios/liberty8.cfg:400
 msgid "Help, I hope.  Circumstances cannot afford to get much more dire."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:408
+#: Liberty/scenarios/liberty8.cfg:407
 msgid "Riders approach from the northwest!  Stand fast, men."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:429
+#: Liberty/scenarios/liberty8.cfg:428
 msgid "Sound the advance!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:434
+#: Liberty/scenarios/liberty8.cfg:433
 msgid ""
 "Knights of Elensefar, behold the battle has already begun!  Make camp here.  "
 "Then, we CHARGE!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:443
+#: Liberty/scenarios/liberty8.cfg:442
 msgid ""
 "Amazing.  Lord Maddock sent his home guard... his finest troops!  Elensefar "
 "must be defenseless now.  More hinges on this battle than I thought."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:448
+#: Liberty/scenarios/liberty8.cfg:447
 msgid ""
 "Baldras, Gwydion is Lord Maddock's son.  This battle isn't just about "
 "Annuvin anymore."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:461
+#: Liberty/scenarios/liberty8.cfg:460
 msgid ""
 "That afternoon, another advance element of the main Wesnoth army arrived..."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:529
+#: Liberty/scenarios/liberty8.cfg:528
 msgid ""
 "I think... I think they're trying to storm Halstead itself... the fools!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:547
+#: Liberty/scenarios/liberty8.cfg:546
 msgid "They have breached the fortess gate!  Repulse them!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:564
+#: Liberty/scenarios/liberty8.cfg:563
 msgid "I'm inside the tower!  I'm going down to the catacombs - cover me."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:575
+#: Liberty/scenarios/liberty8.cfg:574
 msgid "After about an hour..."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:585
+#: Liberty/scenarios/liberty8.cfg:584
 msgid "It's done."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:613
+#: Liberty/scenarios/liberty8.cfg:612
 msgid "The stronghold of Halstead began to shake..."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:618
+#: Liberty/scenarios/liberty8.cfg:617
 msgid "We cannot stay here.  The fortress has started to collapse!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:653
+#: Liberty/scenarios/liberty8.cfg:652
 msgid "I think it's working!  Everybody get clear NOW!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:704
+#: Liberty/scenarios/liberty8.cfg:703
 msgid ""
 "With a thunderous earthquake and billowing of dust, thousands of tons of "
 "stone and wood crashed in on itself.  Some of it tumbled down the steep "
@@ -1274,81 +1274,81 @@ msgid ""
 "in the bowels of the hollowed-out mountain."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:709
+#: Liberty/scenarios/liberty8.cfg:708
 msgid "No one inside the fortress would make it out alive."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:740
+#: Liberty/scenarios/liberty8.cfg:739
 msgid ""
 "After more than a week of fierce fighting, the main body of Asheviere's host "
 "arrived from Weldyn.  The battle was soon finished.  Every last man from the "
 "province of Annuvin was executed."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:765
+#: Liberty/scenarios/liberty8.cfg:764
 msgid "Men, help me out of here!  I am trapped under this rubble."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:771
+#: Liberty/scenarios/liberty8.cfg:770
 msgid ""
 "No one was able to get to Baldras in time.  He and many of his companions "
 "died that day beneath the stronghold of Halstead."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:776
+#: Liberty/scenarios/liberty8.cfg:775
 msgid "I hope this sacrifice is not in vain... we will never find out."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:783
+#: Liberty/scenarios/liberty8.cfg:782
 msgid "Our dream of freedom... gone...  Uungh."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:802
+#: Liberty/scenarios/liberty8.cfg:801
 msgid "Uncle!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:807
+#: Liberty/scenarios/liberty8.cfg:806
 msgid "NO!"
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:812
+#: Liberty/scenarios/liberty8.cfg:811
 msgid "I promised your father I would watch after you... and I failed."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:817
+#: Liberty/scenarios/liberty8.cfg:816
 msgid ""
 "But we are so close to the end.  We must finish this.  I am sorry you will "
 "not be able to enjoy our freedom.  Goodbye, Harper."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:832
+#: Liberty/scenarios/liberty8.cfg:831
 msgid ""
 "Carry on, my friends.  Fighting by your side is the most honorable thing I "
 "have done..."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:847
+#: Liberty/scenarios/liberty8.cfg:846
 msgid "Your reign of terror is over, General."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:852
+#: Liberty/scenarios/liberty8.cfg:851
 msgid ""
 "You will never successfully oppose Asheviere.  Her power is too great...  "
 "This small victory today is a reprieve from the unimaginable pain you will "
 "suffer when her wrath finally meets up with you."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:864
+#: Liberty/scenarios/liberty8.cfg:863
 msgid ""
 "This was no small victory.  You underestimate the power of love for freedom."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:869
+#: Liberty/scenarios/liberty8.cfg:868
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... unngh.."
 msgstr ""
 
-#: Liberty/scenarios/liberty8.cfg:877
+#: Liberty/scenarios/liberty8.cfg:876
 msgid ""
 "Small victory?  Bah!  Now we will raze this fortress into the dust from "
 "whence it came."
@@ -1409,7 +1409,7 @@ msgstr ""
 msgid ""
 "The peasants-turned-outlaws finally reached Dallben.  It was burnt to the "
 "ground.  In a panic, they raced through the forest to Delwyn.  It was "
-"likewise devestated.  However, they did find one clue as to what happened..."
+"likewise devastated.  However, they did find one clue as to what happened..."
 msgstr ""
 
 #: Liberty/scenarios/liberty9.cfg:75
@@ -1496,7 +1496,7 @@ msgid "axe"
 msgstr ""
 
 #: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
-#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
+#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:34
 #: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
 #: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
 #: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
@@ -1533,7 +1533,7 @@ msgid ""
 "underlings."
 msgstr ""
 
-#: Liberty/units/Human-ranger.cfg:32 Liberty/units/Death_Squire.cfg:23
+#: Liberty/units/Human-ranger.cfg:33 Liberty/units/Death_Squire.cfg:23
 msgid "sword"
 msgstr ""
 
@@ -1626,7 +1626,7 @@ msgstr ""
 msgid "Ranger"
 msgstr ""
 
-#: Liberty/units/Human-ranger.cfg:18
+#: Liberty/units/Human-ranger.cfg:19
 msgid ""
 "Rangers are wild men and masters of forest and hills.  They are excellent "
 "trackers, scouts, and archers, moving freely through the countryside under "
@@ -1634,19 +1634,19 @@ msgid ""
 "them in the dungeon than put their abilities to use."
 msgstr ""
 
-#: Liberty/units/Human-ranger.cfg:54 Liberty/units/Poacher-peasant.cfg:43
+#: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:43
 #: Liberty/units/Huntsman.cfg:47 Liberty/units/Trapper.cfg:49
 #: Liberty/units/Huntsman-peasant.cfg:49 Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr ""
 
-#: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:44
+#: Liberty/units/Human-ranger.cfg:56 Liberty/units/Poacher-peasant.cfg:44
 #: Liberty/units/Huntsman.cfg:48 Liberty/units/Trapper.cfg:50
 #: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr ""
 
-#: Liberty/units/Human-ranger.cfg:57
+#: Liberty/units/Human-ranger.cfg:58
 msgid "marksman"
 msgstr ""
 

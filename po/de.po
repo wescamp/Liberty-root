@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Liberty 1.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-25 21:43+0200\n"
-"PO-Revision-Date: 2005-04-22 20:51+0100\n"
+"POT-Creation-Date: 2005-04-30 13:33+0200\n"
+"PO-Revision-Date: 2005-04-30 13:36+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -13,58 +13,58 @@ msgstr ""
 "X-Poedit-Language: German\n"
 "X-Poedit-Country: GERMANY\n"
 
-#: Liberty.cfg:11
+#: Liberty.cfg:10
 msgid "Liberty"
 msgstr "Freiheit"
 
-#: Liberty.cfg:18
+#: Liberty.cfg:15
 msgid "(Easy)"
 msgstr "(leicht)"
 
-#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:18
+#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:15
 msgid "Peasant"
 msgstr "Bauer"
 
-#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:19
+#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:16
 msgid "Outlaw"
 msgstr "Geächteter"
 
-#: Liberty.cfg:19
+#: Liberty.cfg:16
 msgid "(Normal)"
 msgstr "(normal)"
 
-#: Liberty.cfg:20
+#: Liberty.cfg:17
 msgid "(Hard)"
 msgstr "(schwierig)"
 
-#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:20
+#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:17
 msgid "Fugitive"
 msgstr "Flüchtling"
 
-#: Liberty.cfg:24
+#: Liberty.cfg:20
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
-"but hopefully heroes in ours.  Version 1.10, 5 Apr 2005.  For BFW 0.8.9+"
+"but hopefully heroes in ours.  Version 1.11, 30 Apr 2005.  For BFW 0.9.1+"
 msgstr ""
 "Die Chroniken darüber, wie eine bestimmte Gruppe von Wesnothiern von ihrem "
 "Herrscher betrogen wurde und beschloss, zurück zu schlagen. Dies machte sie "
 "zu Geächteten in den Augen der Herrscher, jedoch hoffentlich zu Helden in "
-"den unseren. Version 1.10, 5 Apr 2005. Für BFW 0.8.9+"
+"den unseren. Version 1.11, 30 Apr 2005. Für BFW 0.9.1+"
 
-#: Liberty.cfg:174
+#: Liberty.cfg:172
 msgid "Tell my wife... that I loved her!"
 msgstr "Sagt meiner Frau... das ich sie geliebt habe!"
 
-#: Liberty.cfg:188
+#: Liberty.cfg:186
 msgid "Unngh... Now our people may never be free..."
 msgstr "Arrgh... Nun werden unsere Leute nie die Freiheit erlangen..."
 
-#: Liberty.cfg:202
+#: Liberty.cfg:200
 msgid "I am finished... will we ever be free?"
 msgstr "Ich bin am Ende... werden wir jemals frei sein?"
 
-#: Liberty.cfg:216
+#: Liberty.cfg:214
 msgid "How can this be?  We have lost."
 msgstr "Wie ist dies möglich? Wir haben verloren."
 
@@ -126,36 +126,36 @@ msgstr ""
 "Eigenständigkeit aufzugeben, insbesondere nicht an diese unrechtmäßige "
 "Herrscherin..."
 
-#: Liberty/scenarios/liberty1.cfg:129
+#: Liberty/scenarios/liberty1.cfg:128
 msgid "Defeat all of the Goblin marauders"
 msgstr "Besiege alle Goblin-Plünderer"
 
-#: Liberty/scenarios/liberty1.cfg:133
+#: Liberty/scenarios/liberty1.cfg:132
 msgid "Goblins reach the village of Dallben"
 msgstr "Goblins erreichen das Dorf Dallben"
 
-#: Liberty/scenarios/liberty1.cfg:137 Liberty/scenarios/liberty5.cfg:91
+#: Liberty/scenarios/liberty1.cfg:136 Liberty/scenarios/liberty5.cfg:91
 #: Liberty/scenarios/liberty3.cfg:119 Liberty/scenarios/liberty4.cfg:106
 #: Liberty/scenarios/liberty6.cfg:154 Liberty/scenarios/liberty8.cfg:163
 #: Liberty/scenarios/liberty2.cfg:80 Liberty/scenarios/liberty7.cfg:99
 msgid "Death of Baldras"
 msgstr "Tod von Baldras"
 
-#: Liberty/scenarios/liberty1.cfg:141 Liberty/scenarios/liberty5.cfg:95
+#: Liberty/scenarios/liberty1.cfg:140 Liberty/scenarios/liberty5.cfg:95
 #: Liberty/scenarios/liberty3.cfg:123 Liberty/scenarios/liberty4.cfg:110
 #: Liberty/scenarios/liberty6.cfg:158 Liberty/scenarios/liberty2.cfg:84
 #: Liberty/scenarios/liberty7.cfg:103
 msgid "Death of Harper"
 msgstr "Tod von Harper"
 
-#: Liberty/scenarios/liberty1.cfg:145 Liberty/scenarios/liberty5.cfg:99
+#: Liberty/scenarios/liberty1.cfg:144 Liberty/scenarios/liberty5.cfg:99
 #: Liberty/scenarios/liberty3.cfg:131 Liberty/scenarios/liberty4.cfg:118
 #: Liberty/scenarios/liberty6.cfg:162 Liberty/scenarios/liberty8.cfg:167
 #: Liberty/scenarios/liberty2.cfg:88 Liberty/scenarios/liberty7.cfg:107
 msgid "Turns run out"
 msgstr "Rundenlimit überschritten"
 
-#: Liberty/scenarios/liberty1.cfg:192
+#: Liberty/scenarios/liberty1.cfg:191
 msgid ""
 "As long as the council of orcs does not provide us with sufficent forces out "
 "here in the wilderness, we look to these foolish humans to feed our wolves "
@@ -165,7 +165,7 @@ msgstr ""
 "Kräften versorgt, müssen wir uns an diese törichten Menschen halten, um "
 "unsere Wölfe zu füttern und den Durst unserer Klingen zu stillen."
 
-#: Liberty/scenarios/liberty1.cfg:197
+#: Liberty/scenarios/liberty1.cfg:196
 msgid ""
 "Ride you worms, I want to finish our raid before the hunting party returns "
 "to the human village."
@@ -173,7 +173,7 @@ msgstr ""
 "Reitet, ihr Würmer! Ich will diesen Raubzug beenden bevor die Jäger zum Dorf "
 "zurückkehren."
 
-#: Liberty/scenarios/liberty1.cfg:227
+#: Liberty/scenarios/liberty1.cfg:226
 msgid ""
 "Look, goblin riders approach!  You were right, they were going to raid "
 "Dallben while we were gone."
@@ -181,7 +181,7 @@ msgstr ""
 "Seht, Goblinreiter nähern sich! Du hattest recht, sie wollten Dallben "
 "ausrauben während wir abwesend sind."
 
-#: Liberty/scenarios/liberty1.cfg:232
+#: Liberty/scenarios/liberty1.cfg:231
 msgid ""
 "We must stop them before they reach the village.  Damn the crown, they have "
 "long since forgotten about us out here."
@@ -189,7 +189,7 @@ msgstr ""
 "Wir müssen sie aufhalten bevor sie das Dorf erreichen. Verflucht sei die "
 "Krone! Sie haben uns hier draußen längst vergessen."
 
-#: Liberty/scenarios/liberty1.cfg:237
+#: Liberty/scenarios/liberty1.cfg:236
 msgid ""
 "Goblins do not do well without their leader.  If we can bring him down, we "
 "may stop them."
@@ -197,7 +197,7 @@ msgstr ""
 "Goblins sind ohne Anführer relativ hilflos. Wenn wir ihn besiegen, könnten "
 "wir sie stoppen."
 
-#: Liberty/scenarios/liberty1.cfg:242
+#: Liberty/scenarios/liberty1.cfg:241
 msgid ""
 "That goblin leader is heading full-speed straight for Dallben.  We'll need "
 "to chase him down if we're going to stop them."
@@ -205,7 +205,7 @@ msgstr ""
 "Der Anführer der Goblins versucht Dallben so schnell wie möglich zu "
 "erreichen. Wir werden ihn verfolgen müssen, wenn wir sie aufhalten wollen."
 
-#: Liberty/scenarios/liberty1.cfg:247
+#: Liberty/scenarios/liberty1.cfg:246
 msgid ""
 "Do it.  Try to hold them back until us old timers can get there and finish "
 "them off.  I have a feeling if you can distract the leader, the rest of them "
@@ -215,7 +215,7 @@ msgstr ""
 "erledigen können. Ich hab das Gefühl, wenn ihr den Anführer ablenken könnt, "
 "wird der Rest von ihnen die Ordnung verlieren."
 
-#: Liberty/scenarios/liberty1.cfg:252
+#: Liberty/scenarios/liberty1.cfg:251
 msgid ""
 "And Harper... don't get yourself killed.  I'm responsible for you now that "
 "your father is gone, and I won't dishonor his memory by breaking my promise "
@@ -225,11 +225,11 @@ msgstr ""
 "gegangen ist, für dich verantwortlich und ich werde sein Vermächtnis nicht "
 "entehren, indem ich mein Versprechen dich zu schützen breche."
 
-#: Liberty/scenarios/liberty1.cfg:257
+#: Liberty/scenarios/liberty1.cfg:256
 msgid "...I know...  Alright now, let's stop these goblins!"
 msgstr "...Ich weiß... Los jetzt, lasst uns diese Goblins aufhalten!"
 
-#: Liberty/scenarios/liberty1.cfg:279
+#: Liberty/scenarios/liberty1.cfg:278
 msgid ""
 "We are barely able to survive these orc raids.  We lost two men last week, "
 "more today... yet Weldyn does nothing!"
@@ -238,7 +238,7 @@ msgstr ""
 "letzte Woche zwei Männer verloren, heute weitere... trotzdem handelt Weldyn "
 "überhaupt nicht!"
 
-#: Liberty/scenarios/liberty1.cfg:284
+#: Liberty/scenarios/liberty1.cfg:283
 msgid ""
 "The King stopped sending patrols out here once the war started.  Once that "
 "happened, the burden fell to us.  We are citizens of Wesnoth, and as long as "
@@ -248,16 +248,16 @@ msgstr ""
 "In diesem Moment ging die Last auf uns über. Wir sind Bürger von Wesnoth und "
 "solange das Banner weht, werden wir der Horde widerstehen. "
 
-#: Liberty/scenarios/liberty1.cfg:289
+#: Liberty/scenarios/liberty1.cfg:288
 msgid "The banner will fly over a ghost town if help does not come soon."
 msgstr ""
 "Das Banner wird über einer Geisterstadt wehen, wenn nicht bald Hilfe kommt."
 
-#: Liberty/scenarios/liberty1.cfg:317
+#: Liberty/scenarios/liberty1.cfg:316
 msgid "Halt!"
 msgstr "Halt!"
 
-#: Liberty/scenarios/liberty1.cfg:334
+#: Liberty/scenarios/liberty1.cfg:333
 msgid ""
 "The goblins reached the village!  There will surely be nothing left when "
 "they are done destroying it."
@@ -1441,11 +1441,11 @@ msgstr ""
 msgid "Destroy the stronghold of Halstead"
 msgstr "Zerstöre die Festung von Halstead"
 
-#: Liberty/scenarios/liberty8.cfg:271
+#: Liberty/scenarios/liberty8.cfg:270
 msgid "There it is.  The stronghold of Halstead."
 msgstr "Das ist sie. Die Festung von Halstead."
 
-#: Liberty/scenarios/liberty8.cfg:276
+#: Liberty/scenarios/liberty8.cfg:275
 msgid ""
 "Look at how tall it is!  Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
@@ -1453,7 +1453,7 @@ msgstr ""
 "Seht euch an wie groß sie ist! Diese Türme scheinen aus dem Boden zu kommen, "
 "als wären sie direkt aus der Erde emporgestiegen."
 
-#: Liberty/scenarios/liberty8.cfg:281
+#: Liberty/scenarios/liberty8.cfg:280
 msgid ""
 "That may not be too far from the truth.  During the time of the Great Kings "
 "of Wesnoth, this land was tamed with powerful magic.  Wizards of an ancient "
@@ -1464,14 +1464,14 @@ msgstr ""
 "Zauberer längst vergangener Zeiten formten die Mauern von Halstead aus den "
 "natürlichen Felsen unterhalb."
 
-#: Liberty/scenarios/liberty8.cfg:286
+#: Liberty/scenarios/liberty8.cfg:285
 msgid ""
 "I don't see how we can bring it down.  They are already invincible in there!"
 msgstr ""
 "Ich kann nicht erkennen, wie wir es zerstören können. Sie sind bereits "
 "unbesiegbar darinnen."
 
-#: Liberty/scenarios/liberty8.cfg:298
+#: Liberty/scenarios/liberty8.cfg:297
 msgid ""
 "No, my young friend.  Halstead indeed has a weakness.  Among my many assets "
 "is access to a wealth of secrets few in Wesnoth are privy to."
@@ -1480,7 +1480,7 @@ msgstr ""
 "vielen Besitztümern ist auch der Zugang zu vielen Geheimnissen, die nur "
 "wenigen in Wesnoth bekannt sind."
 
-#: Liberty/scenarios/liberty8.cfg:303
+#: Liberty/scenarios/liberty8.cfg:302
 msgid ""
 "You see, the mountain on which the fort was built is solid, but the castle "
 "on top has been built and rebuilt many times over the ages.  It is not as "
@@ -1490,7 +1490,7 @@ msgstr ""
 "wurde mit der Zeit wieder und wieder auf- und umgebaut. Sie ist nicht so "
 "unzerstörbar wie es den Anschein hat."
 
-#: Liberty/scenarios/liberty8.cfg:308
+#: Liberty/scenarios/liberty8.cfg:307
 msgid ""
 "Beneath the structure is a system of catacombs that connects all four towers "
 "to the central keep.  Over time, after many wars, supports were required to "
@@ -1500,7 +1500,7 @@ msgstr ""
 "Burgfried verbinden. Mit der Zeit, nach vielen Kriegen, wurden Stützen "
 "notwendig um den Mittelteil zu halten."
 
-#: Liberty/scenarios/liberty8.cfg:313 Liberty/scenarios/liberty8.cfg:345
+#: Liberty/scenarios/liberty8.cfg:312 Liberty/scenarios/liberty8.cfg:344
 msgid ""
 "So... we can knock out the supports and bring down the stronghold of "
 "Halstead.  Would it really work?"
@@ -1508,7 +1508,7 @@ msgstr ""
 "Also... wir können die Stützen zerstören und damit die Festung Halstead "
 "niederreißen. Würde es wirklich funktionieren?"
 
-#: Liberty/scenarios/liberty8.cfg:318 Liberty/scenarios/liberty8.cfg:350
+#: Liberty/scenarios/liberty8.cfg:317 Liberty/scenarios/liberty8.cfg:349
 msgid ""
 "I believe it will.  Each tower has a passage down to the catacombs.  If we "
 "can reach the center of each tower, one of our men can escape down to the "
@@ -1520,15 +1520,15 @@ msgstr ""
 "Berges entkommen und die Stütze zerstören. Ich bin sicher, wir müssen nicht "
 "weniger als alle vier Stützen zerstören, um die Festung hernieder zu reißen."
 
-#: Liberty/scenarios/liberty8.cfg:325
+#: Liberty/scenarios/liberty8.cfg:324
 msgid "No, young one.  Halstead indeed has a weakness."
 msgstr "Nein, junger Freund. Halstead hat tatsächlich einen Schwachpunkt."
 
-#: Liberty/scenarios/liberty8.cfg:330
+#: Liberty/scenarios/liberty8.cfg:329
 msgid "How do you know?"
 msgstr "Woher weißt du dies?"
 
-#: Liberty/scenarios/liberty8.cfg:335
+#: Liberty/scenarios/liberty8.cfg:334
 msgid ""
 "When I was a boy, my father - your grandfather - brought your dad and me to "
 "live in Aldril after orcs massacred many in our village.  We grew up around "
@@ -1538,7 +1538,7 @@ msgstr ""
 "Vater und mich nach Aldril, da Orks unser Dorf niedergemetzelt hatten. Wir "
 "wuchsen in dieser Gegend auf und lernten viele Dinge."
 
-#: Liberty/scenarios/liberty8.cfg:340
+#: Liberty/scenarios/liberty8.cfg:339
 msgid ""
 "Beneath the structure is a system of catacombs that connects all four towers "
 "to the central keep.  The catacombs growing over time, combined with "
@@ -1550,14 +1550,14 @@ msgstr ""
 "worden, zusammen mit Jahrhunderten des Krieges, schuf dies die Notwendigkeit "
 "Stützen zu installieren, um den Mittelteil zu halten."
 
-#: Liberty/scenarios/liberty8.cfg:357
+#: Liberty/scenarios/liberty8.cfg:356
 msgid ""
 "I hope you're right.  In a few hours, night will fall, and will find out."
 msgstr ""
 "Ich hoffe du hast Recht. In ein paar Stunden bricht die Nacht an und wir "
 "werden es herausfinden."
 
-#: Liberty/scenarios/liberty8.cfg:362
+#: Liberty/scenarios/liberty8.cfg:361
 msgid ""
 "We must be cautious.  Look there, a substantial orc force is also advancing "
 "on Halstead.  They must think Wesnoth's army is spread out right now."
@@ -1566,35 +1566,35 @@ msgstr ""
 "Halstead ebenfalls an. Sie müssen glauben Wesnoths Armee ist derzeit weit "
 "verstreut."
 
-#: Liberty/scenarios/liberty8.cfg:367
+#: Liberty/scenarios/liberty8.cfg:366
 msgid "Heh.  They're in for a surprise.  This may work to our advantage."
 msgstr ""
 "Ha. Sie werden eine Überraschung erleben. Dies könnte sich zu unserem "
 "Vorteil auswirken."
 
-#: Liberty/scenarios/liberty8.cfg:386
+#: Liberty/scenarios/liberty8.cfg:385
 msgid "Look in the distance... riders approach!"
 msgstr "Seht, in der Ferne... Reiter nähern sich!"
 
-#: Liberty/scenarios/liberty8.cfg:396
+#: Liberty/scenarios/liberty8.cfg:395
 msgid "Who is it?"
 msgstr "Wer ist es?"
 
-#: Liberty/scenarios/liberty8.cfg:401
+#: Liberty/scenarios/liberty8.cfg:400
 msgid "Help, I hope.  Circumstances cannot afford to get much more dire."
 msgstr ""
 "Hilfe, hoffe ich. Die Umstände erlauben es nicht noch viel schlimmer zu "
 "werden."
 
-#: Liberty/scenarios/liberty8.cfg:408
+#: Liberty/scenarios/liberty8.cfg:407
 msgid "Riders approach from the northwest!  Stand fast, men."
 msgstr "Reiter nähern sich vom Nordwesten! Haltet die Stellung Männer."
 
-#: Liberty/scenarios/liberty8.cfg:429
+#: Liberty/scenarios/liberty8.cfg:428
 msgid "Sound the advance!"
 msgstr "Blast zum Angriff!"
 
-#: Liberty/scenarios/liberty8.cfg:434
+#: Liberty/scenarios/liberty8.cfg:433
 msgid ""
 "Knights of Elensefar, behold the battle has already begun!  Make camp here.  "
 "Then, we CHARGE!"
@@ -1602,7 +1602,7 @@ msgstr ""
 "Ritter von Elensefar, seht der Kampf hat bereits begonnen. Schlagt das Lager "
 "auf. Dann, blast zum ANGRIFF!"
 
-#: Liberty/scenarios/liberty8.cfg:443
+#: Liberty/scenarios/liberty8.cfg:442
 msgid ""
 "Amazing.  Lord Maddock sent his home guard... his finest troops!  Elensefar "
 "must be defenseless now.  More hinges on this battle than I thought."
@@ -1611,7 +1611,7 @@ msgstr ""
 "Truppen! Elensefar muss nun ohne Verteidigung sein. Von dieser Schlacht "
 "hängt mehr ab als ich dachte."
 
-#: Liberty/scenarios/liberty8.cfg:448
+#: Liberty/scenarios/liberty8.cfg:447
 msgid ""
 "Baldras, Gwydion is Lord Maddock's son.  This battle isn't just about "
 "Annuvin anymore."
@@ -1619,52 +1619,52 @@ msgstr ""
 "Baldras, Gwydion ist der Sohn Lord Maddocks. Dieser Kampf geht nicht länger "
 "nur um Annuvin."
 
-#: Liberty/scenarios/liberty8.cfg:461
+#: Liberty/scenarios/liberty8.cfg:460
 msgid ""
 "That afternoon, another advance element of the main Wesnoth army arrived..."
 msgstr ""
 "Am Nachmittag traf eine weitere vorgelagerte Division der Streitkräfte "
 "Wesnoths ein..."
 
-#: Liberty/scenarios/liberty8.cfg:529
+#: Liberty/scenarios/liberty8.cfg:528
 msgid ""
 "I think... I think they're trying to storm Halstead itself... the fools!"
 msgstr ""
 "Ich denke... ich denke sie versuchen Halstead selbst zu stürmen... diese "
 "Verrückten!"
 
-#: Liberty/scenarios/liberty8.cfg:547
+#: Liberty/scenarios/liberty8.cfg:546
 msgid "They have breached the fortess gate!  Repulse them!"
 msgstr "Sie haben die Tore der Festung durchbrochen! Werft sie zurück!"
 
-#: Liberty/scenarios/liberty8.cfg:564
+#: Liberty/scenarios/liberty8.cfg:563
 msgid "I'm inside the tower!  I'm going down to the catacombs - cover me."
 msgstr ""
 "Ich bin innerhalb des Turms! Ich steige jetzt in die Katakomben hinab - gebt "
 "mir Deckung."
 
-#: Liberty/scenarios/liberty8.cfg:575
+#: Liberty/scenarios/liberty8.cfg:574
 msgid "After about an hour..."
 msgstr "Nach ungefähr einer Stunde..."
 
-#: Liberty/scenarios/liberty8.cfg:585
+#: Liberty/scenarios/liberty8.cfg:584
 msgid "It's done."
 msgstr "Es ist getan."
 
-#: Liberty/scenarios/liberty8.cfg:613
+#: Liberty/scenarios/liberty8.cfg:612
 msgid "The stronghold of Halstead began to shake..."
 msgstr "Die Festung Halstead begann zu beben..."
 
-#: Liberty/scenarios/liberty8.cfg:618
+#: Liberty/scenarios/liberty8.cfg:617
 msgid "We cannot stay here.  The fortress has started to collapse!"
 msgstr ""
 "Wir können nicht hier verbleiben. Die Festung hat begonnen zusammenzubrechen."
 
-#: Liberty/scenarios/liberty8.cfg:653
+#: Liberty/scenarios/liberty8.cfg:652
 msgid "I think it's working!  Everybody get clear NOW!"
 msgstr "Ich denke es funktioniert! Alle verlassen die Festung JETZT!"
 
-#: Liberty/scenarios/liberty8.cfg:704
+#: Liberty/scenarios/liberty8.cfg:703
 msgid ""
 "With a thunderous earthquake and billowing of dust, thousands of tons of "
 "stone and wood crashed in on itself.  Some of it tumbled down the steep "
@@ -1676,11 +1676,11 @@ msgstr ""
 "während der Rest mehrere hundert Fuß tief im Boden zum Stehen kam, im Innern "
 "des ausgehöhlten Berges."
 
-#: Liberty/scenarios/liberty8.cfg:709
+#: Liberty/scenarios/liberty8.cfg:708
 msgid "No one inside the fortress would make it out alive."
 msgstr "Niemand innerhalb der Festung kann es lebend hinaus geschafft haben."
 
-#: Liberty/scenarios/liberty8.cfg:740
+#: Liberty/scenarios/liberty8.cfg:739
 msgid ""
 "After more than a week of fierce fighting, the main body of Asheviere's host "
 "arrived from Weldyn.  The battle was soon finished.  Every last man from the "
@@ -1690,11 +1690,11 @@ msgstr ""
 "Ashieveres Truppen Weldyn. Der Kampf war schnell zu Ende. Jeder einzelne "
 "Bewohner der Provinz Annuvin wurde exekutiert."
 
-#: Liberty/scenarios/liberty8.cfg:765
+#: Liberty/scenarios/liberty8.cfg:764
 msgid "Men, help me out of here!  I am trapped under this rubble."
 msgstr "Männer, helft mir hier hinaus! Ich bin unter diesem Schutt gefangen."
 
-#: Liberty/scenarios/liberty8.cfg:771
+#: Liberty/scenarios/liberty8.cfg:770
 msgid ""
 "No one was able to get to Baldras in time.  He and many of his companions "
 "died that day beneath the stronghold of Halstead."
@@ -1702,29 +1702,29 @@ msgstr ""
 "Niemand konnte Baldras rechtzeitig erreichen. Er und viele seiner Begleiter "
 "starben an diesem Tag unter der Festung Halstead."
 
-#: Liberty/scenarios/liberty8.cfg:776
+#: Liberty/scenarios/liberty8.cfg:775
 msgid "I hope this sacrifice is not in vain... we will never find out."
 msgstr ""
 "Ich hoffe dieses Opfer war nicht vergebens... wir werden es nie erfahren."
 
-#: Liberty/scenarios/liberty8.cfg:783
+#: Liberty/scenarios/liberty8.cfg:782
 msgid "Our dream of freedom... gone...  Uungh."
 msgstr "Unser Traum von Frieden... vorbei... Aargh."
 
-#: Liberty/scenarios/liberty8.cfg:802
+#: Liberty/scenarios/liberty8.cfg:801
 msgid "Uncle!"
 msgstr "Onkel!"
 
-#: Liberty/scenarios/liberty8.cfg:807
+#: Liberty/scenarios/liberty8.cfg:806
 msgid "NO!"
 msgstr "NEIN!"
 
-#: Liberty/scenarios/liberty8.cfg:812
+#: Liberty/scenarios/liberty8.cfg:811
 msgid "I promised your father I would watch after you... and I failed."
 msgstr ""
 "Ich versprach deinem Vater ich würde nach dir sehen... und ich habe versagt."
 
-#: Liberty/scenarios/liberty8.cfg:817
+#: Liberty/scenarios/liberty8.cfg:816
 msgid ""
 "But we are so close to the end.  We must finish this.  I am sorry you will "
 "not be able to enjoy our freedom.  Goodbye, Harper."
@@ -1732,7 +1732,7 @@ msgstr ""
 "Aber wir sind so nah am Ziel. Wir müssen dies zu Ende bringen. Ich bedauere, "
 "dass du deine Freiheit nicht wirst genießen können. Auf Wiedersehen, Harper."
 
-#: Liberty/scenarios/liberty8.cfg:832
+#: Liberty/scenarios/liberty8.cfg:831
 msgid ""
 "Carry on, my friends.  Fighting by your side is the most honorable thing I "
 "have done..."
@@ -1740,11 +1740,11 @@ msgstr ""
 "Macht weiter, meine Freunde. An eurer Seite zu kämpfen, ist das ehrbarste "
 "was ich je getan habe..."
 
-#: Liberty/scenarios/liberty8.cfg:847
+#: Liberty/scenarios/liberty8.cfg:846
 msgid "Your reign of terror is over, General."
 msgstr "Eure Schreckensherrschaft ist vorbei, General."
 
-#: Liberty/scenarios/liberty8.cfg:852
+#: Liberty/scenarios/liberty8.cfg:851
 msgid ""
 "You will never successfully oppose Asheviere.  Her power is too great...  "
 "This small victory today is a reprieve from the unimaginable pain you will "
@@ -1755,20 +1755,20 @@ msgstr ""
 "die unvorstellbare Schmerzen, die ihr erleiden werdet wenn ihr Zorn euch "
 "schlussendlich einholt."
 
-#: Liberty/scenarios/liberty8.cfg:864
+#: Liberty/scenarios/liberty8.cfg:863
 msgid ""
 "This was no small victory.  You underestimate the power of love for freedom."
 msgstr ""
 "Dies war kein kleiner Sieg. Ihr unterschätzt die Macht des Drangs nach "
 "Frieden."
 
-#: Liberty/scenarios/liberty8.cfg:869
+#: Liberty/scenarios/liberty8.cfg:868
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... unngh.."
 msgstr ""
 "Ihr... unterschätzt die... Grausamkeit und Begierde eurer Königin... aargh..."
 
-#: Liberty/scenarios/liberty8.cfg:877
+#: Liberty/scenarios/liberty8.cfg:876
 msgid ""
 "Small victory?  Bah!  Now we will raze this fortress into the dust from "
 "whence it came."
@@ -1857,7 +1857,7 @@ msgstr ""
 msgid ""
 "The peasants-turned-outlaws finally reached Dallben.  It was burnt to the "
 "ground.  In a panic, they raced through the forest to Delwyn.  It was "
-"likewise devestated.  However, they did find one clue as to what happened..."
+"likewise devastated.  However, they did find one clue as to what happened..."
 msgstr ""
 "Die Geächteten die wieder zu Bauern wurden erreichten Dallben. Es war "
 "komplett Niedergebrannt. Sie rannten panisch durch den Wald nach Delwyn. Es "
@@ -1963,7 +1963,7 @@ msgid "axe"
 msgstr "Axt"
 
 #: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
-#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:33
+#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:34
 #: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
 #: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
 #: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
@@ -2005,7 +2005,7 @@ msgstr ""
 "Währenddessen erwerben sie einen Großteil der Macht des Ritters, unter "
 "anderem die Fähigkeit Untergebene zu führen."
 
-#: Liberty/units/Human-ranger.cfg:32 Liberty/units/Death_Squire.cfg:23
+#: Liberty/units/Human-ranger.cfg:33 Liberty/units/Death_Squire.cfg:23
 msgid "sword"
 msgstr "Schwert"
 
@@ -2122,7 +2122,7 @@ msgstr ""
 msgid "Ranger"
 msgstr "Waldhüter"
 
-#: Liberty/units/Human-ranger.cfg:18
+#: Liberty/units/Human-ranger.cfg:19
 msgid ""
 "Rangers are wild men and masters of forest and hills.  They are excellent "
 "trackers, scouts, and archers, moving freely through the countryside under "
@@ -2135,19 +2135,19 @@ msgstr ""
 "und würden sie lieber in den Kerker sperren, als sich ihre Fähigkeiten zu "
 "Nutze zu machen."
 
-#: Liberty/units/Human-ranger.cfg:54 Liberty/units/Poacher-peasant.cfg:43
+#: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:43
 #: Liberty/units/Huntsman.cfg:47 Liberty/units/Trapper.cfg:49
 #: Liberty/units/Huntsman-peasant.cfg:49 Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr "Bogen"
 
-#: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:44
+#: Liberty/units/Human-ranger.cfg:56 Liberty/units/Poacher-peasant.cfg:44
 #: Liberty/units/Huntsman.cfg:48 Liberty/units/Trapper.cfg:50
 #: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr "Stich"
 
-#: Liberty/units/Human-ranger.cfg:57
+#: Liberty/units/Human-ranger.cfg:58
 msgid "marksman"
 msgstr "Schießkunst"
 
@@ -2355,159 +2355,3 @@ msgstr ""
 
 #~ msgid "skirmisher"
 #~ msgstr "Plänkler"
-
-# Gehört eh nicht dazu, Scott vergisst nur immer die Avatar.cfg raus zu nehmen.
-#~ msgid "godlike powers"
-#~ msgstr "godlike powers"
-
-#~ msgid "fire"
-#~ msgstr "Feuer"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat all of the Orc marauders\n"
-#~ "Defeat:\n"
-#~ "#Orcs reach the village of Dallben\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Besieget alle orkischen Plünderer\n"
-#~ "Niederlage:\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Orks erreichen das Dorf Dallben\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill the Wesnoth army captain, Tarwen\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Tötet den Anführer der Armee Wesnoths, Tarwen\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat both enemy leaders\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Death of Relnan\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Besiegt beide gegnerischen Anführer\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Relnan fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat the enemy general\n"
-#~ "#\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Death of Maddock\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Besiegt den gegnerischen General\n"
-#~ "#\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Maddock fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Locate the leader of the insurgency\n"
-#~ "#\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Findet den Anführer des Widerstands\n"
-#~ "#\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Defeat the Lich Lords\n"
-#~ "#\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Besiege die Lich Lords\n"
-#~ "#\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill all enemy forces\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Death of Harper\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Besiege alle gegnerischen Streitkräfte\n"
-#~ "Niederlage:\n"
-#~ "#Baldras fällt in der Schlacht\n"
-#~ "#Harper fällt in der Schlacht\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Destroy the stronghold of Halstead\n"
-#~ "Defeat:\n"
-#~ "#Death of Baldras\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Sieg:\n"
-#~ "@Zerstöre die Festung Halstead\n"
-#~ "Niederlage:\n"
-#~ "#Tod von Baldras\n"
-#~ "#Rundenlimit überschritten"
-
-#~ msgid "Footpad"
-#~ msgstr "Straßenräuber"
