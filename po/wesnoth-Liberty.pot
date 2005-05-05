@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-30 13:33+0200\n"
+"POT-Creation-Date: 2005-05-05 10:21+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "Peasant"
 msgstr ""
 
-#: ./Liberty/units/Outlaw.cfg:5 ./Liberty.cfg:16
+#: ./Liberty.cfg:16
 msgid "Outlaw"
 msgstr ""
 
@@ -1046,20 +1046,12 @@ msgstr ""
 msgid "Each of the villages scattered across the Wesnoth countryside is usually guided by a group of elders, who are the village's wisest and most experienced residents."
 msgstr ""
 
-#: ./Liberty/units/Outlaw-peasant.cfg:22 ./Liberty/units/Outlaw-peasant.cfg:89 ./Liberty/units/Fugitive-peasant.cfg:22 ./Liberty/units/Fugitive-peasant.cfg:95 ./Liberty/units/Bandit-peasant.cfg:21 ./Liberty/units/Bandit.cfg:27 ./Liberty/units/Highwayman.cfg:21 ./Liberty/units/Fugitive.cfg:22 ./Liberty/units/Fugitive.cfg:88 ./Liberty/units/Highwayman-peasant.cfg:21 ./Liberty/units/Outlaw.cfg:28 ./Liberty/units/Outlaw.cfg:103
+#: ./Liberty/units/Outlaw-peasant.cfg:22 ./Liberty/units/Outlaw-peasant.cfg:89 ./Liberty/units/Fugitive-peasant.cfg:22 ./Liberty/units/Fugitive-peasant.cfg:95 ./Liberty/units/Bandit-peasant.cfg:21 ./Liberty/units/Highwayman.cfg:21 ./Liberty/units/Fugitive.cfg:22 ./Liberty/units/Fugitive.cfg:88 ./Liberty/units/Highwayman-peasant.cfg:21
 msgid "mace"
 msgstr ""
 
-#: ./Liberty/units/Bone_Knight.cfg:48 ./Liberty/units/Outlaw-peasant.cfg:23 ./Liberty/units/Outlaw-peasant.cfg:41 ./Liberty/units/Outlaw-peasant.cfg:90 ./Liberty/units/Outlaw-peasant.cfg:108 ./Liberty/units/Thug-peasant.cfg:22 ./Liberty/units/Fugitive-peasant.cfg:23 ./Liberty/units/Fugitive-peasant.cfg:41 ./Liberty/units/Fugitive-peasant.cfg:96 ./Liberty/units/Fugitive-peasant.cfg:114 ./Liberty/units/Bone_Knight2.cfg:48 ./Liberty/units/Bandit-peasant.cfg:22 ./Liberty/units/Footpad-peasant.cfg:22 ./Liberty/units/Footpad-peasant.cfg:40 ./Liberty/units/Bandit.cfg:28 ./Liberty/units/Highwayman.cfg:22 ./Liberty/units/Shadow_Lord.cfg:141 ./Liberty/units/Fugitive.cfg:23 ./Liberty/units/Fugitive.cfg:41 ./Liberty/units/Fugitive.cfg:89 ./Liberty/units/Fugitive.cfg:107 ./Liberty/units/Highwayman-peasant.cfg:22 ./Liberty/units/Outlaw.cfg:29 ./Liberty/units/Outlaw.cfg:47 ./Liberty/units/Outlaw.cfg:104 ./Liberty/units/Outlaw.cfg:122
+#: ./Liberty/units/Bone_Knight.cfg:48 ./Liberty/units/Outlaw-peasant.cfg:23 ./Liberty/units/Outlaw-peasant.cfg:41 ./Liberty/units/Outlaw-peasant.cfg:90 ./Liberty/units/Outlaw-peasant.cfg:108 ./Liberty/units/Thug-peasant.cfg:22 ./Liberty/units/Fugitive-peasant.cfg:23 ./Liberty/units/Fugitive-peasant.cfg:41 ./Liberty/units/Fugitive-peasant.cfg:96 ./Liberty/units/Fugitive-peasant.cfg:114 ./Liberty/units/Bone_Knight2.cfg:48 ./Liberty/units/Bandit-peasant.cfg:22 ./Liberty/units/Footpad-peasant.cfg:22 ./Liberty/units/Footpad-peasant.cfg:40 ./Liberty/units/Highwayman.cfg:22 ./Liberty/units/Shadow_Lord.cfg:141 ./Liberty/units/Fugitive.cfg:23 ./Liberty/units/Fugitive.cfg:41 ./Liberty/units/Fugitive.cfg:89 ./Liberty/units/Fugitive.cfg:107 ./Liberty/units/Highwayman-peasant.cfg:22
 msgid "impact"
-msgstr ""
-
-#: ./Liberty/units/Bandit.cfg:5
-msgid "Bandit"
-msgstr ""
-
-#: ./Liberty/units/Bandit.cfg:24
-msgid "Armed with heavy mace, Bandits are adept at robbing and killing at night."
 msgstr ""
 
 #: ./Liberty/units/Bone_Knight.cfg:5 ./Liberty/units/Bone_Knight2.cfg:5
@@ -1070,11 +1062,11 @@ msgstr ""
 msgid "Once great warriors across the plains, these mounted riders atop their skeletal horses were raised from the ground by unholy magic to spread fear and destruction."
 msgstr ""
 
-#: ./Liberty/units/Skeleton-dummy.cfg:26 ./Liberty/units/Revenant-dummy1.cfg:25 ./Liberty/units/Bone_Knight.cfg:30 ./Liberty/units/Skeleton_Rider2.cfg:30 ./Liberty/units/Skeleton_Rider.cfg:30 ./Liberty/units/Bone_Knight2.cfg:30 ./Liberty/units/Revenant-dummy2.cfg:25
+#: ./Liberty/units/Revenant-dummy1.cfg:25 ./Liberty/units/Bone_Knight.cfg:30 ./Liberty/units/Skeleton_Rider2.cfg:30 ./Liberty/units/Skeleton_Rider.cfg:30 ./Liberty/units/Bone_Knight2.cfg:30
 msgid "axe"
 msgstr ""
 
-#: ./Liberty/units/Skeleton-dummy.cfg:27 ./Liberty/units/Revenant-dummy1.cfg:26 ./Liberty/units/Bone_Knight.cfg:31 ./Liberty/units/Human-ranger.cfg:34 ./Liberty/units/Poacher-peasant.cfg:27 ./Liberty/units/Skeleton_Rider2.cfg:31 ./Liberty/units/Rogue_Mage.cfg:23 ./Liberty/units/Huntsman.cfg:31 ./Liberty/units/Death_Squire.cfg:24 ./Liberty/units/Trapper.cfg:33 ./Liberty/units/Huntsman-peasant.cfg:33 ./Liberty/units/Skeleton_Rider.cfg:31 ./Liberty/units/Bone_Knight2.cfg:31 ./Liberty/units/Shadow_Mage.cfg:29 ./Liberty/units/Shadow_Lord.cfg:69 ./Liberty/units/Trapper-peasant.cfg:27 ./Liberty/units/Revenant-dummy2.cfg:26
+#: ./Liberty/units/Revenant-dummy1.cfg:26 ./Liberty/units/Bone_Knight.cfg:31 ./Liberty/units/Human-ranger.cfg:34 ./Liberty/units/Poacher-peasant.cfg:27 ./Liberty/units/Skeleton_Rider2.cfg:31 ./Liberty/units/Rogue_Mage.cfg:23 ./Liberty/units/Huntsman.cfg:31 ./Liberty/units/Death_Squire.cfg:24 ./Liberty/units/Huntsman-peasant.cfg:33 ./Liberty/units/Skeleton_Rider.cfg:31 ./Liberty/units/Bone_Knight2.cfg:31 ./Liberty/units/Shadow_Mage.cfg:29 ./Liberty/units/Shadow_Lord.cfg:69 ./Liberty/units/Trapper-peasant.cfg:27
 msgid "blade"
 msgstr ""
 
@@ -1114,7 +1106,7 @@ msgstr ""
 msgid "club"
 msgstr ""
 
-#: ./Liberty/units/Outlaw-peasant.cfg:40 ./Liberty/units/Outlaw-peasant.cfg:107 ./Liberty/units/Fugitive-peasant.cfg:40 ./Liberty/units/Fugitive-peasant.cfg:113 ./Liberty/units/Footpad-peasant.cfg:39 ./Liberty/units/Fugitive.cfg:40 ./Liberty/units/Fugitive.cfg:106 ./Liberty/units/Outlaw.cfg:46 ./Liberty/units/Outlaw.cfg:121
+#: ./Liberty/units/Outlaw-peasant.cfg:40 ./Liberty/units/Outlaw-peasant.cfg:107 ./Liberty/units/Fugitive-peasant.cfg:40 ./Liberty/units/Fugitive-peasant.cfg:113 ./Liberty/units/Footpad-peasant.cfg:39 ./Liberty/units/Fugitive.cfg:40 ./Liberty/units/Fugitive.cfg:106
 msgid "sling"
 msgstr ""
 
@@ -1170,11 +1162,11 @@ msgstr ""
 msgid "Rangers are wild men and masters of forest and hills.  They are excellent trackers, scouts, and archers, moving freely through the countryside under the cover of night.  Most rulers are afraid of rangers and would rather put them in the dungeon than put their abilities to use."
 msgstr ""
 
-#: ./Liberty/units/Human-ranger.cfg:55 ./Liberty/units/Poacher-peasant.cfg:43 ./Liberty/units/Huntsman.cfg:47 ./Liberty/units/Trapper.cfg:49 ./Liberty/units/Huntsman-peasant.cfg:49 ./Liberty/units/Trapper-peasant.cfg:43
+#: ./Liberty/units/Human-ranger.cfg:55 ./Liberty/units/Poacher-peasant.cfg:43 ./Liberty/units/Huntsman.cfg:47 ./Liberty/units/Huntsman-peasant.cfg:49 ./Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr ""
 
-#: ./Liberty/units/Human-ranger.cfg:56 ./Liberty/units/Poacher-peasant.cfg:44 ./Liberty/units/Huntsman.cfg:48 ./Liberty/units/Trapper.cfg:50 ./Liberty/units/Huntsman-peasant.cfg:50 ./Liberty/units/Trapper-peasant.cfg:44
+#: ./Liberty/units/Human-ranger.cfg:56 ./Liberty/units/Poacher-peasant.cfg:44 ./Liberty/units/Huntsman.cfg:48 ./Liberty/units/Huntsman-peasant.cfg:50 ./Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr ""
 
@@ -1190,7 +1182,7 @@ msgstr ""
 msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes.  They can bullseye wamprats and track anything that moves in their territory.  They are highly skilled at hunting at night."
 msgstr ""
 
-#: ./Liberty/units/Poacher-peasant.cfg:26 ./Liberty/units/Huntsman.cfg:30 ./Liberty/units/Trapper.cfg:32 ./Liberty/units/Huntsman-peasant.cfg:32 ./Liberty/units/Trapper-peasant.cfg:26
+#: ./Liberty/units/Poacher-peasant.cfg:26 ./Liberty/units/Huntsman.cfg:30 ./Liberty/units/Huntsman-peasant.cfg:32 ./Liberty/units/Trapper-peasant.cfg:26
 msgid "dagger"
 msgstr ""
 
@@ -1214,18 +1206,6 @@ msgstr ""
 msgid "The night watchmen are men and women who protect the villages from marauders, both human and otherwise, that prowl the Wesnoth countryside at night.  Female watchmen look good while doing it."
 msgstr ""
 
-#: ./Liberty/units/Outlaw.cfg:25
-msgid "Outlaws fight better at night."
-msgstr ""
-
-#: ./Liberty/units/Outlaw.cfg:77
-msgid "female^Outlaw"
-msgstr ""
-
-#: ./Liberty/units/Outlaw.cfg:99
-msgid "Outlaws fight better at night. Female Outlaws look good while doing it."
-msgstr ""
-
 #: ./Liberty/units/Poacher-peasant.cfg:5
 msgid "Peasant Hunter"
 msgstr ""
@@ -1234,11 +1214,11 @@ msgstr ""
 msgid "Villages rely on hunters to bring in a majority of the food supply."
 msgstr ""
 
-#: ./Liberty/units/Revenant-dummy1.cfg:5 ./Liberty/units/Revenant-dummy2.cfg:5
+#: ./Liberty/units/Revenant-dummy1.cfg:5
 msgid "Revenant"
 msgstr ""
 
-#: ./Liberty/units/Revenant-dummy1.cfg:17 ./Liberty/units/Revenant-dummy2.cfg:17
+#: ./Liberty/units/Revenant-dummy1.cfg:17
 msgid "Revenants are undead creatures raised from once mighty warriors. While the warriors' will and soul are all but lost, their fighting skills certainly remain with the Revenant."
 msgstr ""
 
@@ -1286,14 +1266,6 @@ msgstr ""
 msgid "ice blast"
 msgstr ""
 
-#: ./Liberty/units/Skeleton-dummy.cfg:5
-msgid "Skeleton"
-msgstr ""
-
-#: ./Liberty/units/Skeleton-dummy.cfg:18
-msgid "Skeletons are warriors who have been slain in battle and brought back by dark magics. Like all undead, they are especially vulnerable to fire and holy spells, but resistant to bladed weapons."
-msgstr ""
-
 #: ./Liberty/units/Skeleton_Rider2.cfg:5 ./Liberty/units/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
 msgstr ""
@@ -1308,13 +1280,5 @@ msgstr ""
 
 #: ./Liberty/units/Trapper-peasant.cfg:18
 msgid "Trappers are skilled hunters who supply food and furs for several villages. Their hunting experience makes them most valuable at night and in forests and swamps."
-msgstr ""
-
-#: ./Liberty/units/Trapper.cfg:5
-msgid "Trapper"
-msgstr ""
-
-#: ./Liberty/units/Trapper.cfg:24
-msgid "Trappers usually work supplying food for bandits and outlaws. Their hunting experience makes them most valuable at night and in forests and swamps."
 msgstr ""
 
