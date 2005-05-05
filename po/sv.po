@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-04-30 13:33+0200\n"
-"PO-Revision-Date: 2005-05-03 16:33+0200\n"
+"POT-Creation-Date: 2005-05-05 10:21+0200\n"
+"PO-Revision-Date: 2005-05-05 02:15+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "(Lätt)"
 msgid "Peasant"
 msgstr "Bonde"
 
-#: Liberty/units/Outlaw.cfg:5 Liberty.cfg:16
+#: Liberty.cfg:16
 msgid "Outlaw"
 msgstr "Fredlös"
 
@@ -1843,10 +1843,9 @@ msgstr ""
 
 #: Liberty/units/Outlaw-peasant.cfg:22 Liberty/units/Outlaw-peasant.cfg:89
 #: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
-#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Bandit.cfg:27
-#: Liberty/units/Highwayman.cfg:21 Liberty/units/Fugitive.cfg:22
-#: Liberty/units/Fugitive.cfg:88 Liberty/units/Highwayman-peasant.cfg:21
-#: Liberty/units/Outlaw.cfg:28 Liberty/units/Outlaw.cfg:103
+#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Highwayman.cfg:21
+#: Liberty/units/Fugitive.cfg:22 Liberty/units/Fugitive.cfg:88
+#: Liberty/units/Highwayman-peasant.cfg:21
 msgid "mace"
 msgstr "spikklubba"
 
@@ -1857,26 +1856,12 @@ msgstr "spikklubba"
 #: Liberty/units/Fugitive-peasant.cfg:96
 #: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bone_Knight2.cfg:48
 #: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Footpad-peasant.cfg:22
-#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Bandit.cfg:28
-#: Liberty/units/Highwayman.cfg:22 Liberty/units/Shadow_Lord.cfg:141
-#: Liberty/units/Fugitive.cfg:23 Liberty/units/Fugitive.cfg:41
-#: Liberty/units/Fugitive.cfg:89 Liberty/units/Fugitive.cfg:107
-#: Liberty/units/Highwayman-peasant.cfg:22 Liberty/units/Outlaw.cfg:29
-#: Liberty/units/Outlaw.cfg:47 Liberty/units/Outlaw.cfg:104
-#: Liberty/units/Outlaw.cfg:122
+#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Highwayman.cfg:22
+#: Liberty/units/Shadow_Lord.cfg:141 Liberty/units/Fugitive.cfg:23
+#: Liberty/units/Fugitive.cfg:41 Liberty/units/Fugitive.cfg:89
+#: Liberty/units/Fugitive.cfg:107 Liberty/units/Highwayman-peasant.cfg:22
 msgid "impact"
 msgstr "kross"
-
-#: Liberty/units/Bandit.cfg:5
-msgid "Bandit"
-msgstr "Bandit"
-
-#: Liberty/units/Bandit.cfg:24
-msgid ""
-"Armed with heavy mace, Bandits are adept at robbing and killing at night."
-msgstr ""
-"Beväpnade med kraftiga spikklubbor är banditerna duktiga på att rånmörda i "
-"skydd av mörkret."
 
 #: Liberty/units/Bone_Knight.cfg:5 Liberty/units/Bone_Knight2.cfg:5
 msgid "Bone Knight"
@@ -1893,22 +1878,19 @@ msgstr ""
 "skeletthästar med hjälp av vanhelig magi. Deras syfte är att sprida skräck "
 "och förstörelse."
 
-#: Liberty/units/Skeleton-dummy.cfg:26 Liberty/units/Revenant-dummy1.cfg:25
-#: Liberty/units/Bone_Knight.cfg:30 Liberty/units/Skeleton_Rider2.cfg:30
-#: Liberty/units/Skeleton_Rider.cfg:30 Liberty/units/Bone_Knight2.cfg:30
-#: Liberty/units/Revenant-dummy2.cfg:25
+#: Liberty/units/Revenant-dummy1.cfg:25 Liberty/units/Bone_Knight.cfg:30
+#: Liberty/units/Skeleton_Rider2.cfg:30 Liberty/units/Skeleton_Rider.cfg:30
+#: Liberty/units/Bone_Knight2.cfg:30
 msgid "axe"
 msgstr "yxa"
 
-#: Liberty/units/Skeleton-dummy.cfg:27 Liberty/units/Revenant-dummy1.cfg:26
-#: Liberty/units/Bone_Knight.cfg:31 Liberty/units/Human-ranger.cfg:34
-#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Skeleton_Rider2.cfg:31
-#: Liberty/units/Rogue_Mage.cfg:23 Liberty/units/Huntsman.cfg:31
-#: Liberty/units/Death_Squire.cfg:24 Liberty/units/Trapper.cfg:33
+#: Liberty/units/Revenant-dummy1.cfg:26 Liberty/units/Bone_Knight.cfg:31
+#: Liberty/units/Human-ranger.cfg:34 Liberty/units/Poacher-peasant.cfg:27
+#: Liberty/units/Skeleton_Rider2.cfg:31 Liberty/units/Rogue_Mage.cfg:23
+#: Liberty/units/Huntsman.cfg:31 Liberty/units/Death_Squire.cfg:24
 #: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
 #: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
 #: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
-#: Liberty/units/Revenant-dummy2.cfg:26
 msgid "blade"
 msgstr "hugg"
 
@@ -1967,7 +1949,6 @@ msgstr "klubba"
 #: Liberty/units/Fugitive-peasant.cfg:40
 #: Liberty/units/Fugitive-peasant.cfg:113 Liberty/units/Footpad-peasant.cfg:39
 #: Liberty/units/Fugitive.cfg:40 Liberty/units/Fugitive.cfg:106
-#: Liberty/units/Outlaw.cfg:46 Liberty/units/Outlaw.cfg:121
 msgid "sling"
 msgstr "slunga"
 
@@ -2049,8 +2030,8 @@ msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
-"Beväpnade med en tunga spikklubbor är rövarna de sista du skulle vilja möta "
-"på en övergiven väg efter mörkrets inbrott."
+"Beväpnade med tunga spikklubbor som de är, så är rövarna de sista du vill "
+"möta på en ödslig väg sent på natten."
 
 #: Liberty/units/Human-ranger.cfg:5
 msgid "Ranger"
@@ -2069,14 +2050,14 @@ msgstr ""
 "dem hellre i en fängelsehåla än använder deras färdigheter."
 
 #: Liberty/units/Human-ranger.cfg:55 Liberty/units/Poacher-peasant.cfg:43
-#: Liberty/units/Huntsman.cfg:47 Liberty/units/Trapper.cfg:49
-#: Liberty/units/Huntsman-peasant.cfg:49 Liberty/units/Trapper-peasant.cfg:43
+#: Liberty/units/Huntsman.cfg:47 Liberty/units/Huntsman-peasant.cfg:49
+#: Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr "båge"
 
 #: Liberty/units/Human-ranger.cfg:56 Liberty/units/Poacher-peasant.cfg:44
-#: Liberty/units/Huntsman.cfg:48 Liberty/units/Trapper.cfg:50
-#: Liberty/units/Huntsman-peasant.cfg:50 Liberty/units/Trapper-peasant.cfg:44
+#: Liberty/units/Huntsman.cfg:48 Liberty/units/Huntsman-peasant.cfg:50
+#: Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr "stick"
 
@@ -2099,8 +2080,7 @@ msgstr ""
 "vad som än rör sig i deras marker."
 
 #: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Huntsman.cfg:30
-#: Liberty/units/Trapper.cfg:32 Liberty/units/Huntsman-peasant.cfg:32
-#: Liberty/units/Trapper-peasant.cfg:26
+#: Liberty/units/Huntsman-peasant.cfg:32 Liberty/units/Trapper-peasant.cfg:26
 msgid "dagger"
 msgstr "dolk"
 
@@ -2143,18 +2123,6 @@ msgstr ""
 "mänskliga och andra, som stryker runt i Wesnoth på nätterna. De kvinnliga "
 "ser bra ut samtidigt."
 
-#: Liberty/units/Outlaw.cfg:25
-msgid "Outlaws fight better at night."
-msgstr "Fredlösa slåss bättre på natten."
-
-#: Liberty/units/Outlaw.cfg:77
-msgid "female^Outlaw"
-msgstr "Fredlös"
-
-#: Liberty/units/Outlaw.cfg:99
-msgid "Outlaws fight better at night. Female Outlaws look good while doing it."
-msgstr "Fredlösa slåss bättre på natten. De kvinnliga ser bra ut samtidigt."
-
 #: Liberty/units/Poacher-peasant.cfg:5
 msgid "Peasant Hunter"
 msgstr "Jagande bonde"
@@ -2163,11 +2131,11 @@ msgstr "Jagande bonde"
 msgid "Villages rely on hunters to bring in a majority of the food supply."
 msgstr "En stor del av byarnas mat kommer från byarnas jägare."
 
-#: Liberty/units/Revenant-dummy1.cfg:5 Liberty/units/Revenant-dummy2.cfg:5
+#: Liberty/units/Revenant-dummy1.cfg:5
 msgid "Revenant"
 msgstr "Gengångare"
 
-#: Liberty/units/Revenant-dummy1.cfg:17 Liberty/units/Revenant-dummy2.cfg:17
+#: Liberty/units/Revenant-dummy1.cfg:17
 msgid ""
 "Revenants are undead creatures raised from once mighty warriors. While the "
 "warriors' will and soul are all but lost, their fighting skills certainly "
@@ -2223,20 +2191,6 @@ msgstr "Skuggmagiker"
 msgid "ice blast"
 msgstr "froststöt"
 
-#: Liberty/units/Skeleton-dummy.cfg:5
-msgid "Skeleton"
-msgstr "Skelett"
-
-#: Liberty/units/Skeleton-dummy.cfg:18
-msgid ""
-"Skeletons are warriors who have been slain in battle and brought back by "
-"dark magics. Like all undead, they are especially vulnerable to fire and "
-"holy spells, but resistant to bladed weapons."
-msgstr ""
-"Skelett är krigare som har dödats i strid och återuppväckts av svart magi. "
-"Såsom alla vandöda så är de extra känsliga för eld och heliga besvärjelser, "
-"men motståndskraftiga mot huggvapen."
-
 #: Liberty/units/Skeleton_Rider2.cfg:5 Liberty/units/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
 msgstr "Skelettryttare"
@@ -2262,15 +2216,45 @@ msgstr ""
 "Deras jakterfarenhet gör dem som mest effektiva kvällar och nätter i skog "
 "och träsk."
 
-#: Liberty/units/Trapper.cfg:5
-msgid "Trapper"
-msgstr "Pälsjägare"
+#~ msgid "Bandit"
+#~ msgstr "Bandit"
 
-#: Liberty/units/Trapper.cfg:24
-msgid ""
-"Trappers usually work supplying food for bandits and outlaws. Their hunting "
-"experience makes them most valuable at night and in forests and swamps."
-msgstr ""
-"Pälsjägare arbetar oftast med att skaffa mat åt banditer och fredlösa. Deras "
-"jakterfarenhet gör dem som mest effektiva kvällar och nätter i skog och "
-"träsk."
+#~ msgid ""
+#~ "Armed with heavy mace, Bandits are adept at robbing and killing at night."
+#~ msgstr ""
+#~ "Beväpnade med tunga spikklubbor är banditerna experter på att råna och "
+#~ "mörda på natten."
+
+#~ msgid "Outlaws fight better at night."
+#~ msgstr "Fredlösa slåss bättre på natten."
+
+#~ msgid "female^Outlaw"
+#~ msgstr "Fredlös"
+
+#~ msgid ""
+#~ "Outlaws fight better at night. Female Outlaws look good while doing it."
+#~ msgstr "Fredlösa slåss bättre på natten. De kvinnliga ser bra ut samtidigt."
+
+#~ msgid "Skeleton"
+#~ msgstr "Skelett"
+
+#~ msgid ""
+#~ "Skeletons are warriors who have been slain in battle and brought back by "
+#~ "dark magics. Like all undead, they are especially vulnerable to fire and "
+#~ "holy spells, but resistant to bladed weapons."
+#~ msgstr ""
+#~ "Skelett är krigare som har dödats i strid och återuppväckts av svart "
+#~ "magi. Såsom alla vandöda så är de extra känsliga för eld och heliga "
+#~ "besvärjelser, men motståndskraftiga mot huggvapen."
+
+#~ msgid "Trapper"
+#~ msgstr "Pälsjägare"
+
+#~ msgid ""
+#~ "Trappers usually work supplying food for bandits and outlaws. Their "
+#~ "hunting experience makes them most valuable at night and in forests and "
+#~ "swamps."
+#~ msgstr ""
+#~ "Pälsjägare arbetar oftast med att skaffa mat åt banditer och fredlösa. "
+#~ "Deras jakterfarenhet gör dem som mest effektiva kvällar och nätter i skog "
+#~ "och träsk."
