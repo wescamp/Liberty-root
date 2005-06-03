@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 10:21+0200\n"
-"PO-Revision-Date: 2005-05-30 14:21+0200\n"
+"PO-Revision-Date: 2005-06-03 01:03+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -719,7 +719,7 @@ msgid ""
 "damn moonless night!  Did you hear something?"
 msgstr ""
 "Om vi låter honom slinka in i staden så kommer det att vara våra huvuden på "
-"pålar... Förbannade månlösa nätter! ...hörde du något?"
+"pålar... Förbannade månlösa nätter! ...Hörde du något?"
 
 #: Liberty/scenarios/liberty5.cfg:232
 msgid "Umm, I don't know.  It is pitch black out there..."
@@ -1273,7 +1273,7 @@ msgid ""
 "the Wesnoth army.  Strike fast, strike silent... and leave no one alive."
 msgstr ""
 "När vi är klara så kommer ingen att frukta öppna vägar och natthimlen mer än "
-"Wesnoths armé. Slå till snabbt, tyst...och lämna ingen vid liv."
+"Wesnoths armé. Slå till snabbt, tyst... Och lämna ingen vid liv."
 
 #: Liberty/scenarios/liberty7.cfg:313
 msgid "It's an ambush!  Hold your ground!"
@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: Liberty/scenarios/liberty8.cfg:782
 msgid "Our dream of freedom... gone...  Uungh."
-msgstr "Våra frihetsdrömmar...borta... Uungh."
+msgstr "Våra frihetsdrömmar... Borta... Uungh."
 
 #: Liberty/scenarios/liberty8.cfg:801
 msgid "Uncle!"
