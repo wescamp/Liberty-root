@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-04 09:37+0200\n"
-"PO-Revision-Date: 2005-06-03 01:03+0200\n"
+"PO-Revision-Date: 2005-06-04 19:01+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -41,15 +41,14 @@ msgid "Fugitive"
 msgstr "Flykting"
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
 "but hopefully heroes in ours.  Version 1.12, 4 Jun 2005.  For BFW 0.9.1+"
 msgstr ""
-"Detta är krönikorna över hur en grupp av wesnother blev förrådda av sin "
+"Detta är krönikorna över hur en grupp wesnother blev förrådda av sin "
 "härskare och bestämde sig för att slåss tillbaka. Detta gjorde dem fredlösa "
-"i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.11, 30 apr "
+"i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.12, 4 juni "
 "2005, för BFW 0.9.1+"
 
 #: Liberty.cfg:173
@@ -1543,7 +1542,7 @@ msgstr "Det kommer ryttare från nordväst! Håll positionerna, mannar."
 
 #: Liberty/scenarios/liberty8.cfg:423
 msgid "Elense Vanguard Rider"
-msgstr ""
+msgstr "Elensisk förtruppsryttare"
 
 #: Liberty/scenarios/liberty8.cfg:426
 msgid "Sound the advance!"
