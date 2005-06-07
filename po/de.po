@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Liberty 1.0\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-04 09:37+0200\n"
-"PO-Revision-Date: 2005-04-30 13:36+0100\n"
+"PO-Revision-Date: 2005-06-07 22:28+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,6 @@ msgid "Fugitive"
 msgstr "Flüchtling"
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
@@ -51,7 +50,7 @@ msgstr ""
 "Die Chroniken darüber, wie eine bestimmte Gruppe von Wesnothiern von ihrem "
 "Herrscher betrogen wurde und beschloss, zurück zu schlagen. Dies machte sie "
 "zu Geächteten in den Augen der Herrscher, jedoch hoffentlich zu Helden in "
-"den unseren. Version 1.11, 30 Apr 2005. Für BFW 0.9.1+"
+"den unseren. Version 1.12, 04 Jun 2005. Für BFW 0.9.1+"
 
 #: Liberty.cfg:173
 msgid "Tell my wife... that I loved her!"
@@ -1593,7 +1592,7 @@ msgstr "Reiter nähern sich vom Nordwesten! Haltet die Stellung Männer."
 
 #: Liberty/scenarios/liberty8.cfg:423
 msgid "Elense Vanguard Rider"
-msgstr ""
+msgstr "Elensischer Reiter"
 
 #: Liberty/scenarios/liberty8.cfg:426
 msgid "Sound the advance!"
