@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-06-04 09:37+0200\n"
-"PO-Revision-Date: 2005-06-04 19:01+0200\n"
+"PO-Revision-Date: 2005-06-14 00:56+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -2057,7 +2057,7 @@ msgstr ""
 #: Liberty/units/Huntsman.cfg:47 Liberty/units/Huntsman-peasant.cfg:49
 #: Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
-msgstr "båge"
+msgstr "pilbåge"
 
 #: Liberty/units/Human-ranger.cfg:56 Liberty/units/Poacher-peasant.cfg:44
 #: Liberty/units/Huntsman.cfg:48 Liberty/units/Huntsman-peasant.cfg:50
@@ -2193,7 +2193,7 @@ msgstr "Skuggmagiker"
 
 #: Liberty/units/Shadow_Mage.cfg:51
 msgid "ice blast"
-msgstr "froststöt"
+msgstr "isstöt"
 
 #: Liberty/units/Skeleton_Rider2.cfg:5 Liberty/units/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
