@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-25 13:37+0200\n"
-"PO-Revision-Date: 2005-07-02 12:08+0200\n"
+"PO-Revision-Date: 2005-07-25 14:18+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,6 @@ msgid "Fugitive"
 msgstr "Flykting"
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
@@ -49,8 +48,8 @@ msgid ""
 msgstr ""
 "Detta är krönikorna över hur en grupp wesnother blev förrådda av sin "
 "härskare och bestämde sig för att slåss tillbaka. Detta gjorde dem fredlösa "
-"i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.12, 4 juni "
-"2005, för BFW 0.9.1+"
+"i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.13, 25 juli "
+"2005, för BFW 0.9.3+"
 
 #: Liberty.cfg:207
 msgid "Tell my wife... that I loved her!"
@@ -73,7 +72,6 @@ msgid "The Raid"
 msgstr "Räden"
 
 #: Liberty/scenarios/liberty1.cfg:28
-#, fuzzy
 msgid ""
 "Many years ago, during the reign of King Garard II, the border towns of "
 "Delwyn and Dallben in the province of Annuvin were growing increasingly "
@@ -336,7 +334,6 @@ msgid "We must tell the people of Delwyn about this."
 msgstr "Vi måste underrätta Delwyn om detta."
 
 #: Liberty/scenarios/liberty2.cfg:480
-#, fuzzy
 msgid ""
 "That is true.  We have always flown to their aid, and they ours.  This is "
 "something we should face together."
@@ -1084,13 +1081,12 @@ msgid "Agreed.  Good luck and farewell to you, Master Baldras."
 msgstr "Överenskommet. Lycka till och farväl, mäster Baldras."
 
 #: Liberty/scenarios/liberty6.cfg:400
-#, fuzzy
 msgid ""
 "Send your men with us.  They will be valuable help as we \n"
 "prepare for the assault from the Wesnoth army garrison."
 msgstr ""
 "Skicka dina män med oss. De kommer att vara värdefull hjälp när vi "
-"förbereder oss mot attacken från garnisonen från Wesnoth."
+"förbereder oss mot attacken från Wesnoth-garnisonen."
 
 #: Liberty/scenarios/liberty6.cfg:405
 msgid ""
