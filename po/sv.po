@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-07-25 13:37+0200\n"
+"POT-Creation-Date: 2005-09-19 15:58+0200\n"
 "PO-Revision-Date: 2005-07-25 14:18+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -41,29 +41,52 @@ msgid "Fugitive"
 msgstr "Flykting"
 
 #: Liberty.cfg:20
+#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
-"but hopefully heroes in ours.  Version 1.13, 25 Jul 2005.  For BFW 0.9.3+"
+"but hopefully heroes in ours.  Version"
 msgstr ""
 "Detta är krönikorna över hur en grupp wesnother blev förrådda av sin "
 "härskare och bestämde sig för att slåss tillbaka. Detta gjorde dem fredlösa "
 "i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.13, 25 juli "
 "2005, för BFW 0.9.3+"
 
-#: Liberty.cfg:207
+#: Liberty.cfg:20
+msgid "  For BFW"
+msgstr ""
+
+#: Liberty.cfg:193
+msgid "Holy Ankh"
+msgstr ""
+
+#: Liberty.cfg:196
+msgid ""
+"You find a hefty pendant among the bones.  It glows brightly when you pick "
+"it up!"
+msgstr ""
+
+#: Liberty.cfg:197
+msgid "There are some bones here.  There appears to be something among them."
+msgstr ""
+
+#: Liberty.cfg:209
+msgid "holy ankh"
+msgstr ""
+
+#: Liberty.cfg:259
 msgid "Tell my wife... that I loved her!"
 msgstr "Säg till min fru...att jag älskade henne!"
 
-#: Liberty.cfg:222
+#: Liberty.cfg:274
 msgid "Unngh... Now our people may never be free..."
 msgstr "Unngh... Nu kan vårt folk aldrig bli fritt..."
 
-#: Liberty.cfg:237
+#: Liberty.cfg:289
 msgid "I am finished... will we ever be free?"
 msgstr "Jag är besegrad... Kommer vi någonsin bli fria?"
 
-#: Liberty.cfg:252
+#: Liberty.cfg:304
 msgid "How can this be?  We have lost."
 msgstr "Hur kunde det här hända? Vi har förlorat."
 
@@ -871,7 +894,7 @@ msgstr ""
 msgid "Lead the way..."
 msgstr "Visa vägen..."
 
-#: Liberty/scenarios/liberty5.cfg:481 Liberty/scenarios/liberty6.cfg:452
+#: Liberty/scenarios/liberty5.cfg:481 Liberty/scenarios/liberty6.cfg:458
 msgid ""
 "We have spent too much time here.  Surely the Queen's forces have returned "
 "to Dallben.  Our mission is unfinished, but we must return to fight a "
@@ -893,11 +916,11 @@ msgstr "Skymning"
 msgid "Defeat the Lich Lords"
 msgstr "Besegra häxmästarna"
 
-#: Liberty/scenarios/liberty6.cfg:228
+#: Liberty/scenarios/liberty6.cfg:234
 msgid "The leader, I presume."
 msgstr "Ledaren, förmodar jag."
 
-#: Liberty/scenarios/liberty6.cfg:233
+#: Liberty/scenarios/liberty6.cfg:239
 msgid ""
 "I am Helicrom, and you should not be so glib.  I control dangerous men.  My "
 "henchmen can slip unseen through any city, rob a man while he sleeps, or "
@@ -909,11 +932,11 @@ msgstr ""
 "sover, eller anfalla en karavan. Måhända att det inte är speciellt ädelt, "
 "men vår verksamhet kräver mycket guld."
 
-#: Liberty/scenarios/liberty6.cfg:238
+#: Liberty/scenarios/liberty6.cfg:244
 msgid "Your pursuits?"
 msgstr "Er verksamhet?"
 
-#: Liberty/scenarios/liberty6.cfg:243
+#: Liberty/scenarios/liberty6.cfg:249
 msgid ""
 "The former King's magic ministry kept a tight control on the training and "
 "employment of mages in Wesnoth.  Those of us who dared to... depart from the "
@@ -925,13 +948,13 @@ msgstr ""
 "vågade...avvika från läroplanen. Vi är fredlösa för att vi söker bemästra "
 "skuggmagi. Vår tystnad och beskydd är inte billigt."
 
-#: Liberty/scenarios/liberty6.cfg:248
+#: Liberty/scenarios/liberty6.cfg:254
 msgid "I have heard of you.  Necromancers.  Barely human scum, I say."
 msgstr ""
 "Jag har hört talas om er. Nekromantiker. Knappt mänskligt drägg, skulle jag "
 "vilja påstå."
 
-#: Liberty/scenarios/liberty6.cfg:253
+#: Liberty/scenarios/liberty6.cfg:259
 msgid ""
 "Wrong.  Necromancers become slaves to their Lich masters and eventually lose "
 "their humanity.  We have found that practicing the dark arts is not as "
@@ -945,11 +968,11 @@ msgstr ""
 "är en av de hemligheter som vi önskar att upptäcka. Alltså existerar vi "
 "mellan ljus och mörker, tillhörande varken den ena eller den andra världen."
 
-#: Liberty/scenarios/liberty6.cfg:258
+#: Liberty/scenarios/liberty6.cfg:264
 msgid "Fine, then.  Why do you want to help us?"
 msgstr "Ja, då så. Varför vill du hjälpa oss?"
 
-#: Liberty/scenarios/liberty6.cfg:263
+#: Liberty/scenarios/liberty6.cfg:269
 msgid ""
 "We don't.  You have sought US out.  But, I do know of your situation and am "
 "willing to help.  The throne of Wesnoth, under a King or Queen, is a cow we "
@@ -959,7 +982,7 @@ msgstr ""
 "villig att hjälpa till. Wesnoths tron, oberoende av om det är en kung eller "
 "drottning på den, är en instans som mår bra av lite motion, så att säga."
 
-#: Liberty/scenarios/liberty6.cfg:268
+#: Liberty/scenarios/liberty6.cfg:274
 msgid ""
 "Carcyn is always foggy as of late because these woods have recently become "
 "home to some powerful Liches.  Our experiments may have actually aroused "
@@ -970,7 +993,7 @@ msgstr ""
 "att det är våra experiment som har väckt dem från deras sömn... Men vi vet "
 "inte säkert."
 
-#: Liberty/scenarios/liberty6.cfg:273
+#: Liberty/scenarios/liberty6.cfg:279
 msgid ""
 "So now you need to defend your rear as well as your front... I see your "
 "predicament.  My men will wipe this land clean if you can help us defend our "
@@ -980,14 +1003,14 @@ msgstr ""
 "Mina mannar kommer att rensa ut det här området om ni kan hjälpa oss att "
 "försvara vårt hemland."
 
-#: Liberty/scenarios/liberty6.cfg:297
+#: Liberty/scenarios/liberty6.cfg:303
 msgid ""
 "Look there... the canyon valley lies in perpetual darkness... a sign of true "
 "evil. "
 msgstr ""
 "Titta där... Dalen ligger i ständigt mörker... Ett tecken på sann ondska."
 
-#: Liberty/scenarios/liberty6.cfg:315
+#: Liberty/scenarios/liberty6.cfg:321
 msgid ""
 "The defeat of the evil Liches infesting the Gray Woods was a bittersweet "
 "victory."
@@ -995,11 +1018,11 @@ msgstr ""
 "Att nedgöra de häxmästare som infekterat de Grå skogarna var en bitterljuv "
 "seger."
 
-#: Liberty/scenarios/liberty6.cfg:319
+#: Liberty/scenarios/liberty6.cfg:325
 msgid "With Helicrom dead, the guild of shadow magic was thrown into disarray."
 msgstr "När Helicrom dog så föll skuggmagikernas gille i oordning."
 
-#: Liberty/scenarios/liberty6.cfg:323
+#: Liberty/scenarios/liberty6.cfg:329
 msgid ""
 "The remaining members were very grateful and offered Baldras a sizeable sum "
 "of gold for his help."
@@ -1007,7 +1030,7 @@ msgstr ""
 "De kvarvarande medlemmarna var väldigt tacksamma och erbjöd Baldras en "
 "ansenlig summa pengar för hans hjälp."
 
-#: Liberty/scenarios/liberty6.cfg:327
+#: Liberty/scenarios/liberty6.cfg:333
 msgid ""
 "It was not the help he was hoping for, but he knew it would have to be "
 "enough for the coming conflict."
@@ -1015,7 +1038,7 @@ msgstr ""
 "Det var inte den hjälp han hade hoppats på, men han visste att det måste "
 "räcka för den stundande konflikten."
 
-#: Liberty/scenarios/liberty6.cfg:343
+#: Liberty/scenarios/liberty6.cfg:349
 msgid ""
 "The Liches are dead and I am very grateful.  With the undead driven out, we "
 "may live here in relative peace and pursue our studies."
@@ -1023,7 +1046,7 @@ msgstr ""
 "Häxmästarna är döda och jag är mycket tacksam. Nu när de vandöda är utdrivna "
 "så kan vi leva i relativ fred och fördjupa oss i våra studier."
 
-#: Liberty/scenarios/liberty6.cfg:348
+#: Liberty/scenarios/liberty6.cfg:354
 msgid ""
 "Studies?  Peace?  You mean to continue feeding off of the lawful citizens of "
 "Wesnoth.  There will be no peace for them."
@@ -1031,7 +1054,7 @@ msgstr ""
 "Studier? Fred? Du menar att ni skall fortsätta leva av de laglydiga "
 "medborgarna i Wesnoth. Det kommer inte att vara fred för dem."
 
-#: Liberty/scenarios/liberty6.cfg:353
+#: Liberty/scenarios/liberty6.cfg:359
 msgid ""
 "No one here is in a position to be dispensing moral judgments.  Regardless, "
 "you cannot overestimate the value of the service you have performed here "
@@ -1041,7 +1064,7 @@ msgstr ""
 "helst så går det inte att överskatta den hjälp som ni har gett oss här idag. "
 "Jag kommer att hjälpa er efter bästa förmåga."
 
-#: Liberty/scenarios/liberty6.cfg:358
+#: Liberty/scenarios/liberty6.cfg:364
 msgid ""
 "I was planning on giving you gold.  Any good army is well financed, and with "
 "the Liches gone we can now spare it."
@@ -1049,7 +1072,7 @@ msgstr ""
 "Jag hade planerat att ge er guld. Varje bra armé är välfinansierad och nu "
 "när häxmästarna är borta så kan vi avvara det."
 
-#: Liberty/scenarios/liberty6.cfg:363
+#: Liberty/scenarios/liberty6.cfg:369
 msgid ""
 "But, I think it would help you more if I lent you some of my men to join you "
 "on your adventures.  The Queen has been sending mages out here, and my men "
@@ -1059,7 +1082,7 @@ msgstr ""
 "mina män följa med på era äventyr. Drottningen har börjat skicka ut magiker "
 "hit och mina män längtar efter att få ge igen."
 
-#: Liberty/scenarios/liberty6.cfg:368
+#: Liberty/scenarios/liberty6.cfg:374
 msgid ""
 "On the other hand, if I keep the full force of my organization here, we "
 "might be able to regroup and join you on the battlefield when the time comes."
@@ -1068,19 +1091,19 @@ msgstr ""
 "här, så kan vi omgruppera och ansluta oss till er på slagfältet när den "
 "tiden kommer."
 
-#: Liberty/scenarios/liberty6.cfg:373
+#: Liberty/scenarios/liberty6.cfg:379
 msgid "I leave it to you to decide."
 msgstr "Jag överlåter valet till dig."
 
-#: Liberty/scenarios/liberty6.cfg:375
+#: Liberty/scenarios/liberty6.cfg:381
 msgid "I will take the gold.  How does 500 sound?"
 msgstr "Jag väljer guldet. Hur låter det med 500?"
 
-#: Liberty/scenarios/liberty6.cfg:380
+#: Liberty/scenarios/liberty6.cfg:386
 msgid "Agreed.  Good luck and farewell to you, Master Baldras."
 msgstr "Överenskommet. Lycka till och farväl, mäster Baldras."
 
-#: Liberty/scenarios/liberty6.cfg:400
+#: Liberty/scenarios/liberty6.cfg:406
 msgid ""
 "Send your men with us.  They will be valuable help as we \n"
 "prepare for the assault from the Wesnoth army garrison."
@@ -1088,19 +1111,19 @@ msgstr ""
 "Skicka dina män med oss. De kommer att vara värdefull hjälp när vi "
 "förbereder oss mot attacken från Wesnoth-garnisonen."
 
-#: Liberty/scenarios/liberty6.cfg:405
+#: Liberty/scenarios/liberty6.cfg:411
 msgid ""
 "Done.  My finest mages and thieves are at your disposal.  Use them well."
 msgstr ""
 "Avgjort. Mina bästa magiker och tjuvar står till ditt förfogande. Använd dem "
 "väl."
 
-#: Liberty/scenarios/liberty6.cfg:421
+#: Liberty/scenarios/liberty6.cfg:427
 msgid "I wish you to join us in battle against the Queen's forces."
 msgstr ""
 "Jag vill att ni ansluter er till oss i slaget mot drottningens trupper."
 
-#: Liberty/scenarios/liberty6.cfg:426
+#: Liberty/scenarios/liberty6.cfg:432
 msgid ""
 "Alright.  I need time to clean up this forest and recall my men from the "
 "countryside.  We will be ready to march in 7 days.  All now hinges on you!  "
@@ -1110,7 +1133,7 @@ msgstr ""
 "från landsbygden. Vi kommer att vara redo att marschera om sju dagar. Allt "
 "hänger på dig nu! Tills vi ses igen..."
 
-#: Liberty/scenarios/liberty6.cfg:472
+#: Liberty/scenarios/liberty6.cfg:478
 msgid "My men... have failed to protect me!  I am a goner..."
 msgstr "Mina mannar...har misslyckats med att skydda mig! Jag är förlorad..."
 
@@ -1861,7 +1884,7 @@ msgstr "spikklubba"
 #: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bone_Knight2.cfg:48
 #: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Footpad-peasant.cfg:22
 #: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Highwayman.cfg:29
-#: Liberty/units/Shadow_Lord.cfg:141 Liberty/units/Fugitive.cfg:29
+#: Liberty/units/Shadow_Lord.cfg:144 Liberty/units/Fugitive.cfg:29
 #: Liberty/units/Fugitive.cfg:47 Liberty/units/Fugitive.cfg:101
 #: Liberty/units/Fugitive.cfg:119 Liberty/units/Highwayman-peasant.cfg:22
 msgid "impact"
@@ -1894,7 +1917,7 @@ msgstr "yxa"
 #: Liberty/units/Huntsman.cfg:37 Liberty/units/Death_Squire.cfg:24
 #: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
 #: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
-#: Liberty/units/Shadow_Lord.cfg:69 Liberty/units/Trapper-peasant.cfg:27
+#: Liberty/units/Shadow_Lord.cfg:70 Liberty/units/Trapper-peasant.cfg:27
 msgid "blade"
 msgstr "hugg"
 
@@ -2161,13 +2184,13 @@ msgid "missile"
 msgstr "projektil"
 
 #: Liberty/units/Rogue_Mage.cfg:55 Liberty/units/Shadow_Mage.cfg:52
-#: Liberty/units/Shadow_Lord.cfg:102
+#: Liberty/units/Shadow_Lord.cfg:104
 msgid "cold"
 msgstr "frost"
 
 #: Liberty/units/Rogue_Mage.cfg:57 Liberty/units/Shadow_Mage.cfg:31
-#: Liberty/units/Shadow_Mage.cfg:54 Liberty/units/Shadow_Lord.cfg:71
-#: Liberty/units/Shadow_Lord.cfg:104 Liberty/units/Shadow_Lord.cfg:143
+#: Liberty/units/Shadow_Mage.cfg:54 Liberty/units/Shadow_Lord.cfg:72
+#: Liberty/units/Shadow_Lord.cfg:106 Liberty/units/Shadow_Lord.cfg:146
 msgid "magical"
 msgstr "magisk"
 
@@ -2175,15 +2198,15 @@ msgstr "magisk"
 msgid "Shadow Lord"
 msgstr "Skuggfurste"
 
-#: Liberty/units/Shadow_Lord.cfg:68
+#: Liberty/units/Shadow_Lord.cfg:68 Liberty/units/Shadow_Lord.cfg:69
 msgid "astral blade"
 msgstr "andeklinga"
 
-#: Liberty/units/Shadow_Lord.cfg:101
+#: Liberty/units/Shadow_Lord.cfg:102 Liberty/units/Shadow_Lord.cfg:103
 msgid "shadow bolt"
 msgstr "skuggblixt"
 
-#: Liberty/units/Shadow_Lord.cfg:140
+#: Liberty/units/Shadow_Lord.cfg:142 Liberty/units/Shadow_Lord.cfg:143
 msgid "shadow blast"
 msgstr "skuggstöt"
 
