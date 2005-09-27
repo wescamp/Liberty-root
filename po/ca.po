@@ -42,7 +42,6 @@ msgid "Fugitive"
 msgstr "Fugitiu"
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
@@ -50,30 +49,30 @@ msgid ""
 msgstr ""
 "Cròniques sobre com un xicotet grup d'habitants de Wesnoth van ser traïts "
 "pel seu governant i van decidir plantar-li cara. Açò els va convertir en "
-"proscrits segons la Corona, però herois davant els nostres ulls. Versió "
-"1.13, 25 Jul 2005. Requereix BpW 0.9.3+."
+"proscrits segons la Corona, però herois davant els nostres ulls. Versió"
 
 #: Liberty.cfg:20
 msgid "  For BFW"
-msgstr ""
+msgstr " Per a BpW"
 
 #: Liberty.cfg:193
 msgid "Holy Ankh"
-msgstr ""
+msgstr "Creu sagrada"
 
 #: Liberty.cfg:196
 msgid ""
 "You find a hefty pendant among the bones.  It glows brightly when you pick "
 "it up!"
 msgstr ""
+"Trobeu un robust penjoll entre els ossos. Brilla fortament quan l'agafeu."
 
 #: Liberty.cfg:197
 msgid "There are some bones here.  There appears to be something among them."
-msgstr ""
+msgstr "Hi ha alguns ossos per aquí. Sembla que també hi ha alguna altra cosa."
 
 #: Liberty.cfg:209
 msgid "holy ankh"
-msgstr ""
+msgstr "creu sagrada"
 
 #: Liberty.cfg:259
 msgid "Tell my wife... that I loved her!"
