@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-19 15:58+0200\n"
-"PO-Revision-Date: 2005-07-25 14:18+0200\n"
+"PO-Revision-Date: 2005-10-04 17:18+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Liberty.cfg:10
 msgid "Liberty"
@@ -41,7 +41,6 @@ msgid "Fugitive"
 msgstr "Flykting"
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid ""
 "The chronicles of how a certain group of Wesnothians were betrayed by their "
 "ruler and decided to fight back. This made them outlaws in the crown's eyes, "
@@ -49,30 +48,31 @@ msgid ""
 msgstr ""
 "Detta är krönikorna över hur en grupp wesnother blev förrådda av sin "
 "härskare och bestämde sig för att slåss tillbaka. Detta gjorde dem fredlösa "
-"i kronans ögon, men förhoppningsvis hjältar i våra. Version 1.13, 25 juli "
-"2005, för BFW 0.9.3+"
+"i kronans ögon, men förhoppningsvis hjältar i våra. Version "
 
 #: Liberty.cfg:20
 msgid "  For BFW"
-msgstr ""
+msgstr " För BFW"
 
 #: Liberty.cfg:193
 msgid "Holy Ankh"
-msgstr ""
+msgstr "Helig Ankh"
 
 #: Liberty.cfg:196
 msgid ""
 "You find a hefty pendant among the bones.  It glows brightly when you pick "
 "it up!"
 msgstr ""
+"Du finner en juvel bland benen. Den ger ifrån sig ett kraftigt sken när du "
+"plockar upp den!"
 
 #: Liberty.cfg:197
 msgid "There are some bones here.  There appears to be something among them."
-msgstr ""
+msgstr "Det ligger några ben här. Det ser ut att ligga något bland dem."
 
 #: Liberty.cfg:209
 msgid "holy ankh"
-msgstr ""
+msgstr "helig ankh"
 
 #: Liberty.cfg:259
 msgid "Tell my wife... that I loved her!"
