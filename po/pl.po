@@ -649,7 +649,7 @@ msgstr "Licze są matwe i za to jestem bardzo wdzięczny. Po wypędzeniu nieumar
 
 #: Liberty/scenarios/liberty6.cfg:354
 msgid "Studies?  Peace?  You mean to continue feeding off of the lawful citizens of Wesnoth.  There will be no peace for them."
-msgstr "Nauka? Pokój? Masz na myśli kontynuację tuczenia  praworządnych obywateli Wesnoth. Nie będzie dla nich pokoju."
+msgstr "Nauka? Pokój? Masz na myśli kontynuację życia na koszt  praworządnych obywateli Wesnoth. Nie będzie dla nich pokoju."
 
 #: Liberty/scenarios/liberty6.cfg:359
 msgid "No one here is in a position to be dispensing moral judgments.  Regardless, you cannot overestimate the value of the service you have performed here today.  I will help you to the utmost of my ability."
