@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-19 15:58+0200\n"
+"POT-Creation-Date: 2006-01-10 19:07+0100\n"
 "PO-Revision-Date: 2005-07-03 14:34+0100\n"
 "Last-Translator: Maarten Albrecht <maartenalbrecht@gmail.com>\n"
 "Language-Team: none\n"
@@ -1889,23 +1889,23 @@ msgstr ""
 
 #: Liberty/units/Outlaw-peasant.cfg:22 Liberty/units/Outlaw-peasant.cfg:89
 #: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
-#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Highwayman.cfg:28
-#: Liberty/units/Fugitive.cfg:28 Liberty/units/Fugitive.cfg:100
+#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Highwayman.cfg:34
+#: Liberty/units/Fugitive.cfg:34 Liberty/units/Fugitive.cfg:108
 #: Liberty/units/Highwayman-peasant.cfg:21
 msgid "mace"
 msgstr "goedendag"
 
-#: Liberty/units/Bone_Knight.cfg:48 Liberty/units/Outlaw-peasant.cfg:23
+#: Liberty/units/Bone_Knight.cfg:54 Liberty/units/Outlaw-peasant.cfg:23
 #: Liberty/units/Outlaw-peasant.cfg:41 Liberty/units/Outlaw-peasant.cfg:90
 #: Liberty/units/Outlaw-peasant.cfg:108 Liberty/units/Thug-peasant.cfg:22
 #: Liberty/units/Fugitive-peasant.cfg:23 Liberty/units/Fugitive-peasant.cfg:41
 #: Liberty/units/Fugitive-peasant.cfg:96
-#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bone_Knight2.cfg:48
+#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bone_Knight2.cfg:54
 #: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Footpad-peasant.cfg:22
-#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Highwayman.cfg:29
-#: Liberty/units/Shadow_Lord.cfg:144 Liberty/units/Fugitive.cfg:29
-#: Liberty/units/Fugitive.cfg:47 Liberty/units/Fugitive.cfg:101
-#: Liberty/units/Fugitive.cfg:119 Liberty/units/Highwayman-peasant.cfg:22
+#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Highwayman.cfg:35
+#: Liberty/units/Shadow_Lord.cfg:144 Liberty/units/Fugitive.cfg:35
+#: Liberty/units/Fugitive.cfg:51 Liberty/units/Fugitive.cfg:109
+#: Liberty/units/Fugitive.cfg:125 Liberty/units/Highwayman-peasant.cfg:22
 msgid "impact"
 msgstr "impact"
 
@@ -1913,8 +1913,8 @@ msgstr "impact"
 msgid "Bone Knight"
 msgstr "Beenderridder"
 
-#: Liberty/units/Bone_Knight.cfg:27 Liberty/units/Skeleton_Rider2.cfg:27
-#: Liberty/units/Skeleton_Rider.cfg:27 Liberty/units/Bone_Knight2.cfg:27
+#: Liberty/units/Bone_Knight.cfg:26 Liberty/units/Skeleton_Rider2.cfg:26
+#: Liberty/units/Skeleton_Rider.cfg:26 Liberty/units/Bone_Knight2.cfg:26
 msgid ""
 "Once great warriors across the plains, these mounted riders atop their "
 "skeletal horses were raised from the ground by unholy magic to spread fear "
@@ -1924,27 +1924,27 @@ msgstr ""
 "en werden na hun dood door duistere magie weer tot leven gewekt om dood en "
 "verderf te zaaien."
 
-#: Liberty/units/Revenant-dummy1.cfg:25 Liberty/units/Bone_Knight.cfg:30
-#: Liberty/units/Skeleton_Rider2.cfg:30 Liberty/units/Skeleton_Rider.cfg:30
-#: Liberty/units/Bone_Knight2.cfg:30
+#: Liberty/units/Revenant-dummy1.cfg:32 Liberty/units/Bone_Knight.cfg:36
+#: Liberty/units/Skeleton_Rider2.cfg:36 Liberty/units/Skeleton_Rider.cfg:36
+#: Liberty/units/Bone_Knight2.cfg:36
 msgid "axe"
 msgstr "bijl"
 
-#: Liberty/units/Revenant-dummy1.cfg:26 Liberty/units/Bone_Knight.cfg:31
-#: Liberty/units/Human-ranger.cfg:40 Liberty/units/Poacher-peasant.cfg:27
-#: Liberty/units/Skeleton_Rider2.cfg:31 Liberty/units/Rogue_Mage.cfg:23
-#: Liberty/units/Huntsman.cfg:37 Liberty/units/Death_Squire.cfg:24
-#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:31
-#: Liberty/units/Bone_Knight2.cfg:31 Liberty/units/Shadow_Mage.cfg:29
+#: Liberty/units/Revenant-dummy1.cfg:33 Liberty/units/Bone_Knight.cfg:37
+#: Liberty/units/Human-ranger.cfg:53 Liberty/units/Poacher-peasant.cfg:27
+#: Liberty/units/Skeleton_Rider2.cfg:37 Liberty/units/Rogue_Mage.cfg:29
+#: Liberty/units/Huntsman.cfg:43 Liberty/units/Death_Squire.cfg:30
+#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:37
+#: Liberty/units/Bone_Knight2.cfg:37 Liberty/units/Shadow_Mage.cfg:35
 #: Liberty/units/Shadow_Lord.cfg:70 Liberty/units/Trapper-peasant.cfg:27
 msgid "blade"
 msgstr "kling"
 
-#: Liberty/units/Bone_Knight.cfg:47 Liberty/units/Bone_Knight2.cfg:47
+#: Liberty/units/Bone_Knight.cfg:53 Liberty/units/Bone_Knight2.cfg:53
 msgid "trample"
 msgstr "vertrappen"
 
-#: Liberty/units/Bone_Knight.cfg:52 Liberty/units/Bone_Knight2.cfg:52
+#: Liberty/units/Bone_Knight.cfg:58 Liberty/units/Bone_Knight2.cfg:58
 msgid "charge"
 msgstr "stormloop"
 
@@ -1952,12 +1952,12 @@ msgstr "stormloop"
 msgid "Death Squire"
 msgstr "Doodspage"
 
-#: Liberty/units/Death_Squire.cfg:18 Liberty/units/Shadow_Mage.cfg:16
-#: Liberty/units/Shadow_Lord.cfg:56
+#: Liberty/units/Death_Squire.cfg:17 Liberty/units/Shadow_Mage.cfg:15
+#: Liberty/units/Shadow_Lord.cfg:10
 msgid "leadership"
 msgstr "leiderschap"
 
-#: Liberty/units/Death_Squire.cfg:20
+#: Liberty/units/Death_Squire.cfg:19
 msgid ""
 "Sometimes the mightiest warriors and generals, cursed with hate and angst, "
 "came back to this world as Death Knights.  Death Squires serve them whilst "
@@ -1971,7 +1971,7 @@ msgstr ""
 "neveneffect pikken ze een aardig deel van de kracht van de ridder mee, zoals "
 "het vermogen onderdanen te commanderen."
 
-#: Liberty/units/Human-ranger.cfg:39 Liberty/units/Death_Squire.cfg:23
+#: Liberty/units/Human-ranger.cfg:52 Liberty/units/Death_Squire.cfg:29
 msgid "sword"
 msgstr "zwaard"
 
@@ -1994,7 +1994,7 @@ msgstr "knuppel"
 #: Liberty/units/Outlaw-peasant.cfg:40 Liberty/units/Outlaw-peasant.cfg:107
 #: Liberty/units/Fugitive-peasant.cfg:40
 #: Liberty/units/Fugitive-peasant.cfg:113 Liberty/units/Footpad-peasant.cfg:39
-#: Liberty/units/Fugitive.cfg:46 Liberty/units/Fugitive.cfg:118
+#: Liberty/units/Fugitive.cfg:50 Liberty/units/Fugitive.cfg:124
 msgid "sling"
 msgstr "slinger"
 
@@ -2028,7 +2028,7 @@ msgstr ""
 "anderen tot de kern van de nachtwacht van het dorp. Ze ziet er misschien "
 "ruig uit, maar onder dat ruige uiterlijk is ze een hardwerkende jonge vrouw."
 
-#: Liberty/units/Fugitive.cfg:25
+#: Liberty/units/Fugitive.cfg:24
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Dangerous and ruthless, they "
@@ -2040,11 +2040,11 @@ msgstr ""
 "gevangenname. Gevaarlijk en gewetenloos kunnen ze angstaanjagend zijn, maar "
 "voor de professionele wetshandhavers vormen ze geen bedreiging."
 
-#: Liberty/units/Fugitive.cfg:77
+#: Liberty/units/Fugitive.cfg:79
 msgid "female^Fugitive"
 msgstr "Voortvluchtige"
 
-#: Liberty/units/Fugitive.cfg:97
+#: Liberty/units/Fugitive.cfg:98
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
@@ -2072,7 +2072,7 @@ msgstr ""
 msgid "Highwayman"
 msgstr "Struikrover"
 
-#: Liberty/units/Highwayman.cfg:25
+#: Liberty/units/Highwayman.cfg:24
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
@@ -2084,7 +2084,7 @@ msgstr ""
 msgid "Ranger"
 msgstr "Doler"
 
-#: Liberty/units/Human-ranger.cfg:25
+#: Liberty/units/Human-ranger.cfg:23
 msgid ""
 "Rangers are wild men and masters of forest and hills.  They are excellent "
 "trackers, scouts, and archers, moving freely through the countryside under "
@@ -2097,19 +2097,19 @@ msgstr ""
 "voor dolers en zetten ze eerder in een kerker dan van hun vaardigheden "
 "gebruik te maken."
 
-#: Liberty/units/Human-ranger.cfg:61 Liberty/units/Poacher-peasant.cfg:43
-#: Liberty/units/Huntsman.cfg:53 Liberty/units/Huntsman-peasant.cfg:49
+#: Liberty/units/Human-ranger.cfg:74 Liberty/units/Poacher-peasant.cfg:43
+#: Liberty/units/Huntsman.cfg:59 Liberty/units/Huntsman-peasant.cfg:49
 #: Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr "boog"
 
-#: Liberty/units/Human-ranger.cfg:62 Liberty/units/Poacher-peasant.cfg:44
-#: Liberty/units/Huntsman.cfg:54 Liberty/units/Huntsman-peasant.cfg:50
+#: Liberty/units/Human-ranger.cfg:75 Liberty/units/Poacher-peasant.cfg:44
+#: Liberty/units/Huntsman.cfg:60 Liberty/units/Huntsman-peasant.cfg:50
 #: Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr "puntig"
 
-#: Liberty/units/Human-ranger.cfg:64
+#: Liberty/units/Human-ranger.cfg:77
 msgid "marksman"
 msgstr "scherpschutter"
 
@@ -2128,12 +2128,12 @@ msgstr ""
 "en kunnen wat dan ook opsporen dat zich in hun gebied begeeft. Ze zijn erg "
 "bedreven in de nachtelijke jacht."
 
-#: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Huntsman.cfg:36
+#: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Huntsman.cfg:42
 #: Liberty/units/Huntsman-peasant.cfg:32 Liberty/units/Trapper-peasant.cfg:26
 msgid "dagger"
 msgstr "dolk"
 
-#: Liberty/units/Huntsman.cfg:24
+#: Liberty/units/Huntsman.cfg:23
 msgid ""
 "Huntsmen have spent their lives in the backwoods and swamps of their "
 "wilderness homes.  They track anything that moves in their territory, "
@@ -2200,21 +2200,21 @@ msgstr ""
 msgid "Rogue Mage"
 msgstr "Schurkmagier"
 
-#: Liberty/units/Rogue_Mage.cfg:22 Liberty/units/Shadow_Mage.cfg:28
+#: Liberty/units/Rogue_Mage.cfg:28 Liberty/units/Shadow_Mage.cfg:34
 msgid "short sword"
 msgstr "kortzwaard"
 
-#: Liberty/units/Rogue_Mage.cfg:54
+#: Liberty/units/Rogue_Mage.cfg:60
 msgid "missile"
 msgstr "projectiel"
 
-#: Liberty/units/Rogue_Mage.cfg:55 Liberty/units/Shadow_Mage.cfg:52
+#: Liberty/units/Rogue_Mage.cfg:61 Liberty/units/Shadow_Mage.cfg:58
 #: Liberty/units/Shadow_Lord.cfg:104
 msgid "cold"
 msgstr "kou"
 
-#: Liberty/units/Rogue_Mage.cfg:57 Liberty/units/Shadow_Mage.cfg:31
-#: Liberty/units/Shadow_Mage.cfg:54 Liberty/units/Shadow_Lord.cfg:72
+#: Liberty/units/Rogue_Mage.cfg:63 Liberty/units/Shadow_Mage.cfg:37
+#: Liberty/units/Shadow_Mage.cfg:60 Liberty/units/Shadow_Lord.cfg:72
 #: Liberty/units/Shadow_Lord.cfg:106 Liberty/units/Shadow_Lord.cfg:146
 msgid "magical"
 msgstr "magisch"
@@ -2239,7 +2239,7 @@ msgstr "schaduwexplosie"
 msgid "Shadow Mage"
 msgstr "Schaduwmagier"
 
-#: Liberty/units/Shadow_Mage.cfg:51
+#: Liberty/units/Shadow_Mage.cfg:57
 msgid "ice blast"
 msgstr "ijsexplosie"
 
