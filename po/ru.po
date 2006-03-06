@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-10 19:07+0100\n"
+"POT-Creation-Date: 2006-03-06 13:46+0100\n"
 "PO-Revision-Date: 2005-09-25 08:41-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -151,24 +151,24 @@ msgstr "Победите всех мародеров Гоблинов"
 msgid "Goblins reach the village of Dallben"
 msgstr "Гоблины достигают деревни Доллбен"
 
-#: Liberty/scenarios/liberty1.cfg:131 Liberty/scenarios/liberty5.cfg:90
+#: Liberty/scenarios/liberty1.cfg:131 Liberty/scenarios/liberty2.cfg:79
 #: Liberty/scenarios/liberty3.cfg:118 Liberty/scenarios/liberty4.cfg:105
-#: Liberty/scenarios/liberty6.cfg:154 Liberty/scenarios/liberty8.cfg:162
-#: Liberty/scenarios/liberty2.cfg:79 Liberty/scenarios/liberty7.cfg:94
+#: Liberty/scenarios/liberty5.cfg:90 Liberty/scenarios/liberty6.cfg:154
+#: Liberty/scenarios/liberty7.cfg:94 Liberty/scenarios/liberty8.cfg:162
 msgid "Death of Baldras"
 msgstr "Смерть Болдраса"
 
-#: Liberty/scenarios/liberty1.cfg:135 Liberty/scenarios/liberty5.cfg:94
+#: Liberty/scenarios/liberty1.cfg:135 Liberty/scenarios/liberty2.cfg:83
 #: Liberty/scenarios/liberty3.cfg:122 Liberty/scenarios/liberty4.cfg:109
-#: Liberty/scenarios/liberty6.cfg:158 Liberty/scenarios/liberty2.cfg:83
+#: Liberty/scenarios/liberty5.cfg:94 Liberty/scenarios/liberty6.cfg:158
 #: Liberty/scenarios/liberty7.cfg:98
 msgid "Death of Harper"
 msgstr "Смерть Харпера"
 
-#: Liberty/scenarios/liberty1.cfg:139 Liberty/scenarios/liberty5.cfg:98
+#: Liberty/scenarios/liberty1.cfg:139 Liberty/scenarios/liberty2.cfg:87
 #: Liberty/scenarios/liberty3.cfg:130 Liberty/scenarios/liberty4.cfg:117
-#: Liberty/scenarios/liberty6.cfg:162 Liberty/scenarios/liberty8.cfg:166
-#: Liberty/scenarios/liberty2.cfg:87 Liberty/scenarios/liberty7.cfg:102
+#: Liberty/scenarios/liberty5.cfg:98 Liberty/scenarios/liberty6.cfg:162
+#: Liberty/scenarios/liberty7.cfg:102 Liberty/scenarios/liberty8.cfg:166
 msgid "Turns run out"
 msgstr "Ходы окончились"
 
@@ -268,11 +268,15 @@ msgstr ""
 msgid "The banner will fly over a ghost town if help does not come soon."
 msgstr "Он будет над заброшенным городом, если помощь не прийдёт скоро."
 
-#: Liberty/scenarios/liberty1.cfg:350
+#: Liberty/scenarios/liberty1.cfg:349
+msgid "Look!  Goblin riders are on the hunt - and heading right for Dallben!"
+msgstr ""
+
+#: Liberty/scenarios/liberty1.cfg:353
 msgid "Halt!"
 msgstr "Остановитесь!"
 
-#: Liberty/scenarios/liberty1.cfg:367
+#: Liberty/scenarios/liberty1.cfg:370
 msgid ""
 "The goblins reached the village!  There will surely be nothing left when "
 "they are done destroying it."
@@ -317,15 +321,31 @@ msgstr ""
 "Споря с Вами закончился. Ваш судья будет идти с нами, и мы не заботимся, "
 "мертв он или жив."
 
-#: Liberty/scenarios/liberty2.cfg:340
+#: Liberty/scenarios/liberty2.cfg:341
+msgid ""
+"You take your soldiers and tell this 'queen' of yours that Baldras is "
+"staying put.  I don't know who you are, but we don't like threats on our own "
+"land.  This is not how Wesnoth soldiers behave."
+msgstr ""
+
+#: Liberty/scenarios/liberty2.cfg:347
+#, fuzzy
+msgid ""
+"Harper, get out of here.  I see where this is going, and this is no battle "
+"for you."
+msgstr "Харпер, уйдите. Это не сражение для Вас."
+
+#: Liberty/scenarios/liberty2.cfg:352
 msgid "Guard the gate."
 msgstr "Защитите ворота"
 
-#: Liberty/scenarios/liberty2.cfg:376
-msgid "Harper, get out of here.  This is no battle for you."
-msgstr "Харпер, уйдите. Это не сражение для Вас."
+#: Liberty/scenarios/liberty2.cfg:387
+msgid ""
+"There will be no more warnings.  Present your magistrate.  I rescind the "
+"offer to take him dead or alive.  He will be leaving with us dead."
+msgstr ""
 
-#: Liberty/scenarios/liberty2.cfg:382
+#: Liberty/scenarios/liberty2.cfg:393
 msgid ""
 "I am the magistrate of Dallben, and it is YOU who will be leaving Dallben, "
 "be it dead or alive."
@@ -333,15 +353,15 @@ msgstr ""
 "Я - судья Доллбена, и зто ВЫ будете вынуждены покинуть Доллбен, быть Вы "
 "мертвой или живой."
 
-#: Liberty/scenarios/liberty2.cfg:398
+#: Liberty/scenarios/liberty2.cfg:409
 msgid "Get back, you cur!"
 msgstr "Возвратитесь, злая собака!"
 
-#: Liberty/scenarios/liberty2.cfg:451
+#: Liberty/scenarios/liberty2.cfg:462
 msgid "Get out of my village!"
 msgstr "Выйдите из моей деревни!"
 
-#: Liberty/scenarios/liberty2.cfg:461
+#: Liberty/scenarios/liberty2.cfg:472
 msgid ""
 "Our lives were hard when we were beneath the attention of the crown.  But "
 "now I fear things are worse."
@@ -349,11 +369,11 @@ msgstr ""
 "Наша жизнь были сложная, когда мы были на службе у короля. Но теперь я "
 "боюсь, что вудет хуже."
 
-#: Liberty/scenarios/liberty2.cfg:467
+#: Liberty/scenarios/liberty2.cfg:478
 msgid "We must tell the people of Delwyn about this."
 msgstr "Мы должны сказать людям Делвина об этом."
 
-#: Liberty/scenarios/liberty2.cfg:480
+#: Liberty/scenarios/liberty2.cfg:491
 msgid ""
 "That is true.  We have always flown to their aid, and they ours.  This is "
 "something we should face together."
@@ -361,7 +381,7 @@ msgstr ""
 "Верно. Мы всегда бежали помочь им, и они нам. Эту проблему мы должны "
 "встретить вместе."
 
-#: Liberty/scenarios/liberty2.cfg:486
+#: Liberty/scenarios/liberty2.cfg:497
 msgid ""
 "Alright.  We will go to Delwyn and determine how to handle this "
 "development.  I never thought Wesnoth would fall into darkness.  But now, "
@@ -373,7 +393,7 @@ msgstr ""
 "орки угрожают нашим странам, но и некоторая зловещая вещь случается с "
 "подъемом Королевы к трону."
 
-#: Liberty/scenarios/liberty2.cfg:492
+#: Liberty/scenarios/liberty2.cfg:503
 msgid ""
 "Today we may no longer be citizens of Wesnoth.  I pray it could be "
 "otherwise, but we are now Outlaws."
@@ -381,7 +401,7 @@ msgstr ""
 "Сегодня мы, возможно, больше не граждане Веснота. Я прошу, что это могло "
 "быть иначе, но мы - теперь Преступники."
 
-#: Liberty/scenarios/liberty2.cfg:538
+#: Liberty/scenarios/liberty2.cfg:549
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
 msgstr "О, нет! Мы исчерпали время, они прибыли с подкреплением..."
@@ -1863,25 +1883,25 @@ msgstr ""
 "управляется группой старших, которые являются самыми мудрыми и самыми "
 "опытными жителями деревни."
 
-#: Liberty/units/Outlaw-peasant.cfg:22 Liberty/units/Outlaw-peasant.cfg:89
-#: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
-#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Highwayman.cfg:34
-#: Liberty/units/Fugitive.cfg:34 Liberty/units/Fugitive.cfg:108
-#: Liberty/units/Highwayman-peasant.cfg:21
+#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Fugitive-peasant.cfg:22
+#: Liberty/units/Fugitive-peasant.cfg:95 Liberty/units/Fugitive.cfg:35
+#: Liberty/units/Fugitive.cfg:109 Liberty/units/Highwayman-peasant.cfg:21
+#: Liberty/units/Highwayman.cfg:34 Liberty/units/Outlaw-peasant.cfg:22
+#: Liberty/units/Outlaw-peasant.cfg:89
 msgid "mace"
 msgstr "булава"
 
-#: Liberty/units/Bone_Knight.cfg:54 Liberty/units/Outlaw-peasant.cfg:23
+#: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Bone_Knight.cfg:54
+#: Liberty/units/Bone_Knight2.cfg:54 Liberty/units/Footpad-peasant.cfg:22
+#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Fugitive-peasant.cfg:23
+#: Liberty/units/Fugitive-peasant.cfg:41 Liberty/units/Fugitive-peasant.cfg:96
+#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Fugitive.cfg:36
+#: Liberty/units/Fugitive.cfg:52 Liberty/units/Fugitive.cfg:110
+#: Liberty/units/Fugitive.cfg:126 Liberty/units/Highwayman-peasant.cfg:22
+#: Liberty/units/Highwayman.cfg:35 Liberty/units/Outlaw-peasant.cfg:23
 #: Liberty/units/Outlaw-peasant.cfg:41 Liberty/units/Outlaw-peasant.cfg:90
-#: Liberty/units/Outlaw-peasant.cfg:108 Liberty/units/Thug-peasant.cfg:22
-#: Liberty/units/Fugitive-peasant.cfg:23 Liberty/units/Fugitive-peasant.cfg:41
-#: Liberty/units/Fugitive-peasant.cfg:96
-#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bone_Knight2.cfg:54
-#: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Footpad-peasant.cfg:22
-#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Highwayman.cfg:35
-#: Liberty/units/Shadow_Lord.cfg:144 Liberty/units/Fugitive.cfg:35
-#: Liberty/units/Fugitive.cfg:51 Liberty/units/Fugitive.cfg:109
-#: Liberty/units/Fugitive.cfg:125 Liberty/units/Highwayman-peasant.cfg:22
+#: Liberty/units/Outlaw-peasant.cfg:108 Liberty/units/Shadow_Lord.cfg:144
+#: Liberty/units/Thug-peasant.cfg:22
 msgid "impact"
 msgstr "удар"
 
@@ -1889,8 +1909,8 @@ msgstr "удар"
 msgid "Bone Knight"
 msgstr "Рыцарь Кости"
 
-#: Liberty/units/Bone_Knight.cfg:26 Liberty/units/Skeleton_Rider2.cfg:26
-#: Liberty/units/Skeleton_Rider.cfg:26 Liberty/units/Bone_Knight2.cfg:26
+#: Liberty/units/Bone_Knight.cfg:26 Liberty/units/Bone_Knight2.cfg:26
+#: Liberty/units/Skeleton_Rider.cfg:26 Liberty/units/Skeleton_Rider2.cfg:26
 msgid ""
 "Once great warriors across the plains, these mounted riders atop their "
 "skeletal horses were raised from the ground by unholy magic to spread fear "
@@ -1900,19 +1920,19 @@ msgstr ""
 "были воспитаны от основания безобразным волшебством распространить опасение "
 "и разрушение."
 
-#: Liberty/units/Revenant-dummy1.cfg:32 Liberty/units/Bone_Knight.cfg:36
-#: Liberty/units/Skeleton_Rider2.cfg:36 Liberty/units/Skeleton_Rider.cfg:36
-#: Liberty/units/Bone_Knight2.cfg:36
+#: Liberty/units/Bone_Knight.cfg:36 Liberty/units/Bone_Knight2.cfg:36
+#: Liberty/units/Revenant-dummy1.cfg:32 Liberty/units/Skeleton_Rider.cfg:36
+#: Liberty/units/Skeleton_Rider2.cfg:36
 msgid "axe"
 msgstr "топор"
 
-#: Liberty/units/Revenant-dummy1.cfg:33 Liberty/units/Bone_Knight.cfg:37
-#: Liberty/units/Human-ranger.cfg:53 Liberty/units/Poacher-peasant.cfg:27
-#: Liberty/units/Skeleton_Rider2.cfg:37 Liberty/units/Rogue_Mage.cfg:29
-#: Liberty/units/Huntsman.cfg:43 Liberty/units/Death_Squire.cfg:30
-#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Skeleton_Rider.cfg:37
-#: Liberty/units/Bone_Knight2.cfg:37 Liberty/units/Shadow_Mage.cfg:35
-#: Liberty/units/Shadow_Lord.cfg:70 Liberty/units/Trapper-peasant.cfg:27
+#: Liberty/units/Bone_Knight.cfg:37 Liberty/units/Bone_Knight2.cfg:37
+#: Liberty/units/Death_Squire.cfg:30 Liberty/units/Human-ranger.cfg:54
+#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Huntsman.cfg:44
+#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Revenant-dummy1.cfg:33
+#: Liberty/units/Rogue_Mage.cfg:29 Liberty/units/Shadow_Lord.cfg:70
+#: Liberty/units/Shadow_Mage.cfg:35 Liberty/units/Skeleton_Rider.cfg:37
+#: Liberty/units/Skeleton_Rider2.cfg:37 Liberty/units/Trapper-peasant.cfg:27
 msgid "blade"
 msgstr "клинок"
 
@@ -1928,8 +1948,8 @@ msgstr "бросок"
 msgid "Death Squire"
 msgstr "Смертельный Сквайр"
 
-#: Liberty/units/Death_Squire.cfg:17 Liberty/units/Shadow_Mage.cfg:15
-#: Liberty/units/Shadow_Lord.cfg:10
+#: Liberty/units/Death_Squire.cfg:17 Liberty/units/Shadow_Lord.cfg:10
+#: Liberty/units/Shadow_Mage.cfg:15
 msgid "leadership"
 msgstr "лидер"
 
@@ -1947,7 +1967,7 @@ msgstr ""
 "Рыцарями. В процессе они собирают власть Рыцаря, включая способность "
 "командовать подчиненными."
 
-#: Liberty/units/Human-ranger.cfg:52 Liberty/units/Death_Squire.cfg:29
+#: Liberty/units/Death_Squire.cfg:29 Liberty/units/Human-ranger.cfg:53
 msgid "sword"
 msgstr "меч"
 
@@ -1964,14 +1984,14 @@ msgstr ""
 "живущих в другом месте в Весноте: опрометчивые, дерзкие, и нетерпеливые "
 "исследовать."
 
-#: Liberty/units/Thug-peasant.cfg:21 Liberty/units/Footpad-peasant.cfg:21
+#: Liberty/units/Footpad-peasant.cfg:21 Liberty/units/Thug-peasant.cfg:21
 msgid "club"
 msgstr "дубинка"
 
-#: Liberty/units/Outlaw-peasant.cfg:40 Liberty/units/Outlaw-peasant.cfg:107
-#: Liberty/units/Fugitive-peasant.cfg:40
-#: Liberty/units/Fugitive-peasant.cfg:113 Liberty/units/Footpad-peasant.cfg:39
-#: Liberty/units/Fugitive.cfg:50 Liberty/units/Fugitive.cfg:124
+#: Liberty/units/Footpad-peasant.cfg:39 Liberty/units/Fugitive-peasant.cfg:40
+#: Liberty/units/Fugitive-peasant.cfg:113 Liberty/units/Fugitive.cfg:51
+#: Liberty/units/Fugitive.cfg:125 Liberty/units/Outlaw-peasant.cfg:40
+#: Liberty/units/Outlaw-peasant.cfg:107
 msgid "sling"
 msgstr "праща"
 
@@ -2006,7 +2026,7 @@ msgstr ""
 "выглядеть жесткой, но ниже той грубой внешности - посвятившая себя и "
 "трудолюбивая молодая женщина."
 
-#: Liberty/units/Fugitive.cfg:24
+#: Liberty/units/Fugitive.cfg:25
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Dangerous and ruthless, they "
@@ -2018,11 +2038,11 @@ msgstr ""
 "безжалостные, они могут бояться в их элементе, но никаком реальном "
 "состязании для профессионального законо-поддерживателя."
 
-#: Liberty/units/Fugitive.cfg:79
+#: Liberty/units/Fugitive.cfg:80
 msgid "female^Fugitive"
 msgstr "female^Беглец"
 
-#: Liberty/units/Fugitive.cfg:98
+#: Liberty/units/Fugitive.cfg:99
 msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
@@ -2062,7 +2082,7 @@ msgstr ""
 msgid "Ranger"
 msgstr "Странник"
 
-#: Liberty/units/Human-ranger.cfg:23
+#: Liberty/units/Human-ranger.cfg:24
 msgid ""
 "Rangers are wild men and masters of forest and hills.  They are excellent "
 "trackers, scouts, and archers, moving freely through the countryside under "
@@ -2074,23 +2094,23 @@ msgstr ""
 "под прикрытием ночи. Большинство правителей боятся их и предпочитает "
 "поместить их в темницу, чем использовать их способности."
 
-#: Liberty/units/Human-ranger.cfg:74 Liberty/units/Poacher-peasant.cfg:43
-#: Liberty/units/Huntsman.cfg:59 Liberty/units/Huntsman-peasant.cfg:49
+#: Liberty/units/Human-ranger.cfg:75 Liberty/units/Huntsman-peasant.cfg:49
+#: Liberty/units/Huntsman.cfg:60 Liberty/units/Poacher-peasant.cfg:43
 #: Liberty/units/Trapper-peasant.cfg:43
 msgid "bow"
 msgstr "лук"
 
-#: Liberty/units/Human-ranger.cfg:75 Liberty/units/Poacher-peasant.cfg:44
-#: Liberty/units/Huntsman.cfg:60 Liberty/units/Huntsman-peasant.cfg:50
+#: Liberty/units/Human-ranger.cfg:76 Liberty/units/Huntsman-peasant.cfg:50
+#: Liberty/units/Huntsman.cfg:61 Liberty/units/Poacher-peasant.cfg:44
 #: Liberty/units/Trapper-peasant.cfg:44
 msgid "pierce"
 msgstr "пронзать"
 
-#: Liberty/units/Human-ranger.cfg:77
+#: Liberty/units/Human-ranger.cfg:78
 msgid "marksman"
 msgstr "cнайпер"
 
-#: Liberty/units/Huntsman.cfg:5 Liberty/units/Huntsman-peasant.cfg:5
+#: Liberty/units/Huntsman-peasant.cfg:5 Liberty/units/Huntsman.cfg:5
 msgid "Huntsman"
 msgstr "Охотник"
 
@@ -2104,12 +2124,12 @@ msgstr ""
 "отслеживать всё что двигается на их территории. Они высококвалифицированы "
 "при охоте ночью."
 
-#: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Huntsman.cfg:42
-#: Liberty/units/Huntsman-peasant.cfg:32 Liberty/units/Trapper-peasant.cfg:26
+#: Liberty/units/Huntsman-peasant.cfg:32 Liberty/units/Huntsman.cfg:43
+#: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Trapper-peasant.cfg:26
 msgid "dagger"
 msgstr "кинжал"
 
-#: Liberty/units/Huntsman.cfg:23
+#: Liberty/units/Huntsman.cfg:24
 msgid ""
 "Huntsmen have spent their lives in the backwoods and swamps of their "
 "wilderness homes.  They track anything that moves in their territory, "
@@ -2182,14 +2202,14 @@ msgstr "короткий меч"
 msgid "missile"
 msgstr "снаряд"
 
-#: Liberty/units/Rogue_Mage.cfg:61 Liberty/units/Shadow_Mage.cfg:58
-#: Liberty/units/Shadow_Lord.cfg:104
+#: Liberty/units/Rogue_Mage.cfg:61 Liberty/units/Shadow_Lord.cfg:104
+#: Liberty/units/Shadow_Mage.cfg:58
 msgid "cold"
 msgstr "холод"
 
-#: Liberty/units/Rogue_Mage.cfg:63 Liberty/units/Shadow_Mage.cfg:37
-#: Liberty/units/Shadow_Mage.cfg:60 Liberty/units/Shadow_Lord.cfg:72
+#: Liberty/units/Rogue_Mage.cfg:63 Liberty/units/Shadow_Lord.cfg:72
 #: Liberty/units/Shadow_Lord.cfg:106 Liberty/units/Shadow_Lord.cfg:146
+#: Liberty/units/Shadow_Mage.cfg:37 Liberty/units/Shadow_Mage.cfg:60
 msgid "magical"
 msgstr "магический"
 
@@ -2217,7 +2237,7 @@ msgstr "Теневой Маг"
 msgid "ice blast"
 msgstr "ледяной взрыв"
 
-#: Liberty/units/Skeleton_Rider2.cfg:5 Liberty/units/Skeleton_Rider.cfg:5
+#: Liberty/units/Skeleton_Rider.cfg:5 Liberty/units/Skeleton_Rider2.cfg:5
 msgid "Skeleton Rider"
 msgstr "Скелетный всадник"
 
