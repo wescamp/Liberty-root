@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-06 13:46+0100\n"
-"PO-Revision-Date: 2005-10-04 17:18+0200\n"
-"Last-Translator: tephlon\n"
+"POT-Creation-Date: 2006-03-13 13:46+0100\n"
+"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: Liberty.cfg:10
 msgid "Liberty"
@@ -20,7 +21,7 @@ msgstr "Frihet"
 msgid "(Easy)"
 msgstr "(Lätt)"
 
-#: Liberty/units/Thug-peasant.cfg:5 Liberty.cfg:15
+#: Liberty.cfg:15 Liberty/units/Thug-peasant.cfg:5
 msgid "Peasant"
 msgstr "Bonde"
 
@@ -36,7 +37,7 @@ msgstr "(Normal)"
 msgid "(Hard)"
 msgstr "(Svårt)"
 
-#: Liberty/units/Fugitive.cfg:5 Liberty.cfg:17
+#: Liberty.cfg:17 Liberty/units/Fugitive.cfg:5
 msgid "Fugitive"
 msgstr "Flykting"
 
@@ -272,7 +273,7 @@ msgstr "Banéret kommer att vaja över en spökstad om inte hjälpen kommer snar
 
 #: Liberty/scenarios/liberty1.cfg:349
 msgid "Look!  Goblin riders are on the hunt - and heading right for Dallben!"
-msgstr ""
+msgstr "Titta! Vargryttare å färde - och de är på väg rakt mot Dallben!"
 
 #: Liberty/scenarios/liberty1.cfg:353
 msgid "Halt!"
@@ -330,13 +331,17 @@ msgid ""
 "staying put.  I don't know who you are, but we don't like threats on our own "
 "land.  This is not how Wesnoth soldiers behave."
 msgstr ""
+"Ta du dina soldater och berätta för denna er 'drottning' att Baldras stannar "
+"där han är. Jag vet inte vilka ni är, men vi tycker inte om hot på vår egen "
+"mark. Wesnothsoldater beter sig inte så."
 
 #: Liberty/scenarios/liberty2.cfg:347
-#, fuzzy
 msgid ""
 "Harper, get out of here.  I see where this is going, and this is no battle "
 "for you."
-msgstr "Harper, försvinn härifrån! Det här är inte din strid."
+msgstr ""
+"Harper, försvinn härifrån! Jag ser varthän det här är på väg, och det här är "
+"ingen strid för dig."
 
 #: Liberty/scenarios/liberty2.cfg:352
 msgid "Guard the gate."
@@ -347,6 +352,8 @@ msgid ""
 "There will be no more warnings.  Present your magistrate.  I rescind the "
 "offer to take him dead or alive.  He will be leaving with us dead."
 msgstr ""
+"Det blir inga fler varningar. För fram er fredsdomare. Jag avböjer ert "
+"erbjudande att ta honom död eller levande. Han följer med oss död."
 
 #: Liberty/scenarios/liberty2.cfg:393
 msgid ""
@@ -1888,34 +1895,34 @@ msgstr ""
 "Varenda en av de byar som ligger utspridda över Wesnoths landsbygd leds ofta "
 "av de byäldste, vilka är byns visaste och mest erfarna invånare."
 
-#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Fugitive-peasant.cfg:22
-#: Liberty/units/Fugitive-peasant.cfg:95 Liberty/units/Fugitive.cfg:35
-#: Liberty/units/Fugitive.cfg:109 Liberty/units/Highwayman-peasant.cfg:21
-#: Liberty/units/Highwayman.cfg:34 Liberty/units/Outlaw-peasant.cfg:22
-#: Liberty/units/Outlaw-peasant.cfg:89
+#: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
+#: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Fugitive.cfg:35
+#: Liberty/units/Fugitive.cfg:109 Liberty/units/Highwayman.cfg:34
+#: Liberty/units/Outlaw-peasant.cfg:22 Liberty/units/Outlaw-peasant.cfg:89
+#: Liberty/units/Highwayman-peasant.cfg:21
 msgid "mace"
 msgstr "spikklubba"
 
-#: Liberty/units/Bandit-peasant.cfg:22 Liberty/units/Bone_Knight.cfg:54
-#: Liberty/units/Bone_Knight2.cfg:54 Liberty/units/Footpad-peasant.cfg:22
-#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Fugitive-peasant.cfg:23
+#: Liberty/units/Bone_Knight2.cfg:54 Liberty/units/Fugitive-peasant.cfg:23
 #: Liberty/units/Fugitive-peasant.cfg:41 Liberty/units/Fugitive-peasant.cfg:96
-#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Fugitive.cfg:36
-#: Liberty/units/Fugitive.cfg:52 Liberty/units/Fugitive.cfg:110
-#: Liberty/units/Fugitive.cfg:126 Liberty/units/Highwayman-peasant.cfg:22
-#: Liberty/units/Highwayman.cfg:35 Liberty/units/Outlaw-peasant.cfg:23
+#: Liberty/units/Fugitive-peasant.cfg:114 Liberty/units/Bandit-peasant.cfg:22
+#: Liberty/units/Fugitive.cfg:36 Liberty/units/Fugitive.cfg:52
+#: Liberty/units/Fugitive.cfg:110 Liberty/units/Fugitive.cfg:126
+#: Liberty/units/Highwayman.cfg:35 Liberty/units/Footpad-peasant.cfg:22
+#: Liberty/units/Footpad-peasant.cfg:40 Liberty/units/Outlaw-peasant.cfg:23
 #: Liberty/units/Outlaw-peasant.cfg:41 Liberty/units/Outlaw-peasant.cfg:90
 #: Liberty/units/Outlaw-peasant.cfg:108 Liberty/units/Shadow_Lord.cfg:144
-#: Liberty/units/Thug-peasant.cfg:22
+#: Liberty/units/Highwayman-peasant.cfg:22 Liberty/units/Thug-peasant.cfg:22
+#: Liberty/units/Bone_Knight.cfg:54
 msgid "impact"
 msgstr "kross"
 
-#: Liberty/units/Bone_Knight.cfg:5 Liberty/units/Bone_Knight2.cfg:5
+#: Liberty/units/Bone_Knight2.cfg:5 Liberty/units/Bone_Knight.cfg:5
 msgid "Bone Knight"
 msgstr "Skelettryttare"
 
-#: Liberty/units/Bone_Knight.cfg:26 Liberty/units/Bone_Knight2.cfg:26
-#: Liberty/units/Skeleton_Rider.cfg:26 Liberty/units/Skeleton_Rider2.cfg:26
+#: Liberty/units/Bone_Knight2.cfg:26 Liberty/units/Skeleton_Rider.cfg:26
+#: Liberty/units/Skeleton_Rider2.cfg:26 Liberty/units/Bone_Knight.cfg:26
 msgid ""
 "Once great warriors across the plains, these mounted riders atop their "
 "skeletal horses were raised from the ground by unholy magic to spread fear "
@@ -1925,27 +1932,27 @@ msgstr ""
 "skeletthästar med hjälp av vanhelig magi. Deras syfte är att sprida skräck "
 "och förstörelse."
 
-#: Liberty/units/Bone_Knight.cfg:36 Liberty/units/Bone_Knight2.cfg:36
-#: Liberty/units/Revenant-dummy1.cfg:32 Liberty/units/Skeleton_Rider.cfg:36
-#: Liberty/units/Skeleton_Rider2.cfg:36
+#: Liberty/units/Bone_Knight2.cfg:36 Liberty/units/Skeleton_Rider.cfg:36
+#: Liberty/units/Skeleton_Rider2.cfg:36 Liberty/units/Revenant-dummy1.cfg:32
+#: Liberty/units/Bone_Knight.cfg:36
 msgid "axe"
 msgstr "yxa"
 
-#: Liberty/units/Bone_Knight.cfg:37 Liberty/units/Bone_Knight2.cfg:37
-#: Liberty/units/Death_Squire.cfg:30 Liberty/units/Human-ranger.cfg:54
-#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Huntsman.cfg:44
-#: Liberty/units/Poacher-peasant.cfg:27 Liberty/units/Revenant-dummy1.cfg:33
-#: Liberty/units/Rogue_Mage.cfg:29 Liberty/units/Shadow_Lord.cfg:70
-#: Liberty/units/Shadow_Mage.cfg:35 Liberty/units/Skeleton_Rider.cfg:37
+#: Liberty/units/Shadow_Mage.cfg:35 Liberty/units/Bone_Knight2.cfg:37
+#: Liberty/units/Skeleton_Rider.cfg:37 Liberty/units/Huntsman.cfg:44
+#: Liberty/units/Huntsman-peasant.cfg:33 Liberty/units/Human-ranger.cfg:54
 #: Liberty/units/Skeleton_Rider2.cfg:37 Liberty/units/Trapper-peasant.cfg:27
+#: Liberty/units/Rogue_Mage.cfg:29 Liberty/units/Revenant-dummy1.cfg:33
+#: Liberty/units/Death_Squire.cfg:30 Liberty/units/Poacher-peasant.cfg:27
+#: Liberty/units/Shadow_Lord.cfg:70 Liberty/units/Bone_Knight.cfg:37
 msgid "blade"
 msgstr "hugg"
 
-#: Liberty/units/Bone_Knight.cfg:53 Liberty/units/Bone_Knight2.cfg:53
+#: Liberty/units/Bone_Knight2.cfg:53 Liberty/units/Bone_Knight.cfg:53
 msgid "trample"
 msgstr "trampa"
 
-#: Liberty/units/Bone_Knight.cfg:58 Liberty/units/Bone_Knight2.cfg:58
+#: Liberty/units/Bone_Knight2.cfg:58 Liberty/units/Bone_Knight.cfg:58
 msgid "charge"
 msgstr "storma"
 
@@ -1953,8 +1960,8 @@ msgstr "storma"
 msgid "Death Squire"
 msgstr "Dödsväpnare"
 
-#: Liberty/units/Death_Squire.cfg:17 Liberty/units/Shadow_Lord.cfg:10
-#: Liberty/units/Shadow_Mage.cfg:15
+#: Liberty/units/Shadow_Mage.cfg:15 Liberty/units/Death_Squire.cfg:17
+#: Liberty/units/Shadow_Lord.cfg:10
 msgid "leadership"
 msgstr "ledarskap"
 
@@ -1972,7 +1979,7 @@ msgstr ""
 "själva bli dödsriddare. Under tiden så lär de sig en hel del av "
 "dödsriddarnas färdigheter, bland annat att kommendera undersåtar."
 
-#: Liberty/units/Death_Squire.cfg:29 Liberty/units/Human-ranger.cfg:53
+#: Liberty/units/Human-ranger.cfg:53 Liberty/units/Death_Squire.cfg:29
 msgid "sword"
 msgstr "svärd"
 
@@ -1992,10 +1999,10 @@ msgstr ""
 msgid "club"
 msgstr "klubba"
 
-#: Liberty/units/Footpad-peasant.cfg:39 Liberty/units/Fugitive-peasant.cfg:40
+#: Liberty/units/Fugitive-peasant.cfg:40
 #: Liberty/units/Fugitive-peasant.cfg:113 Liberty/units/Fugitive.cfg:51
-#: Liberty/units/Fugitive.cfg:125 Liberty/units/Outlaw-peasant.cfg:40
-#: Liberty/units/Outlaw-peasant.cfg:107
+#: Liberty/units/Fugitive.cfg:125 Liberty/units/Footpad-peasant.cfg:39
+#: Liberty/units/Outlaw-peasant.cfg:40 Liberty/units/Outlaw-peasant.cfg:107
 msgid "sling"
 msgstr "slunga"
 
@@ -2096,15 +2103,15 @@ msgstr ""
 "nattens inbrott. De flesta regenter är rädda för utbygdsjägarna och placerar "
 "dem hellre i en fängelsehåla än använder deras färdigheter."
 
-#: Liberty/units/Human-ranger.cfg:75 Liberty/units/Huntsman-peasant.cfg:49
-#: Liberty/units/Huntsman.cfg:60 Liberty/units/Poacher-peasant.cfg:43
-#: Liberty/units/Trapper-peasant.cfg:43
+#: Liberty/units/Huntsman.cfg:60 Liberty/units/Huntsman-peasant.cfg:49
+#: Liberty/units/Human-ranger.cfg:75 Liberty/units/Trapper-peasant.cfg:43
+#: Liberty/units/Poacher-peasant.cfg:43
 msgid "bow"
 msgstr "pilbåge"
 
-#: Liberty/units/Human-ranger.cfg:76 Liberty/units/Huntsman-peasant.cfg:50
-#: Liberty/units/Huntsman.cfg:61 Liberty/units/Poacher-peasant.cfg:44
-#: Liberty/units/Trapper-peasant.cfg:44
+#: Liberty/units/Huntsman.cfg:61 Liberty/units/Huntsman-peasant.cfg:50
+#: Liberty/units/Human-ranger.cfg:76 Liberty/units/Trapper-peasant.cfg:44
+#: Liberty/units/Poacher-peasant.cfg:44
 msgid "pierce"
 msgstr "stick"
 
@@ -2112,7 +2119,7 @@ msgstr "stick"
 msgid "marksman"
 msgstr "prickskytt"
 
-#: Liberty/units/Huntsman-peasant.cfg:5 Liberty/units/Huntsman.cfg:5
+#: Liberty/units/Huntsman.cfg:5 Liberty/units/Huntsman-peasant.cfg:5
 msgid "Huntsman"
 msgstr "Jägare"
 
@@ -2126,8 +2133,8 @@ msgstr ""
 "vildmarkshem. De är ytterst skickliga på att jaga på nätterna och kan spåra "
 "vad som än rör sig i deras marker."
 
-#: Liberty/units/Huntsman-peasant.cfg:32 Liberty/units/Huntsman.cfg:43
-#: Liberty/units/Poacher-peasant.cfg:26 Liberty/units/Trapper-peasant.cfg:26
+#: Liberty/units/Huntsman.cfg:43 Liberty/units/Huntsman-peasant.cfg:32
+#: Liberty/units/Trapper-peasant.cfg:26 Liberty/units/Poacher-peasant.cfg:26
 msgid "dagger"
 msgstr "dolk"
 
@@ -2195,7 +2202,7 @@ msgstr ""
 msgid "Rogue Mage"
 msgstr "Rövarmagiker"
 
-#: Liberty/units/Rogue_Mage.cfg:28 Liberty/units/Shadow_Mage.cfg:34
+#: Liberty/units/Shadow_Mage.cfg:34 Liberty/units/Rogue_Mage.cfg:28
 msgid "short sword"
 msgstr "kortsvärd"
 
@@ -2203,14 +2210,14 @@ msgstr "kortsvärd"
 msgid "missile"
 msgstr "projektil"
 
-#: Liberty/units/Rogue_Mage.cfg:61 Liberty/units/Shadow_Lord.cfg:104
-#: Liberty/units/Shadow_Mage.cfg:58
+#: Liberty/units/Shadow_Mage.cfg:58 Liberty/units/Rogue_Mage.cfg:61
+#: Liberty/units/Shadow_Lord.cfg:104
 msgid "cold"
 msgstr "frost"
 
+#: Liberty/units/Shadow_Mage.cfg:37 Liberty/units/Shadow_Mage.cfg:60
 #: Liberty/units/Rogue_Mage.cfg:63 Liberty/units/Shadow_Lord.cfg:72
 #: Liberty/units/Shadow_Lord.cfg:106 Liberty/units/Shadow_Lord.cfg:146
-#: Liberty/units/Shadow_Mage.cfg:37 Liberty/units/Shadow_Mage.cfg:60
 msgid "magical"
 msgstr "magisk"
 
