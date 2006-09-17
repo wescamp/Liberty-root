@@ -1,14 +1,19 @@
+#
 # Catalan translations for Battle for Wesnoth package.
-# Jose Gordillo (kilder) <kilder@hotmail.com>, 2005.
+# Copyright (C) 2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2005-09-03 19:00+0200\n"
+"PO-Revision-Date: 2006-09-12 19:58+0200\n"
 "Last-Translator: Jose Gordillo\n"
-"Language-Team: Català <wesnoth-ca@ettin.org>\n"
+"Language-Team: Català <wesnoth-ca@lists.ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -145,7 +150,7 @@ msgid ""
 "rule, especially not to this pretender..."
 msgstr ""
 "Els Annuvins no eren partidaris de deixar de banda una independència "
-"guanyada amb la sang de molts sacrificis, especialment no a aquesta "
+"guanyada amb la sang de molts sacrificis, especialment no amb aquesta "
 "pretendent..."
 
 #: Liberty/scenarios/liberty1.cfg:123
@@ -208,7 +213,7 @@ msgid ""
 "We must stop them before they reach the village.  Damn the crown, they have "
 "long since forgotten about us out here."
 msgstr ""
-"Debem aturar-los abans que arriben al poblet. Maleïda siga la Corona, s'han "
+"Hem d'aturar-los abans que arriben al poblet. Maleïda siga la Corona, s'han "
 "oblidat de nosaltres des de fa massa temps"
 
 #: Liberty/scenarios/liberty1.cfg:272
@@ -278,11 +283,11 @@ msgstr ""
 
 #: Liberty/scenarios/liberty1.cfg:349
 msgid "Look!  Goblin riders are on the hunt - and heading right for Dallben!"
-msgstr ""
+msgstr "Mireu! Els genets goblins estan de caça... i van directes a Dallben!"
 
 #: Liberty/scenarios/liberty1.cfg:353
 msgid "Halt!"
-msgstr "No pasaran!"
+msgstr "No passaran!"
 
 #: Liberty/scenarios/liberty1.cfg:370
 msgid ""
@@ -336,13 +341,15 @@ msgid ""
 "staying put.  I don't know who you are, but we don't like threats on our own "
 "land.  This is not how Wesnoth soldiers behave."
 msgstr ""
+"Tu, agarra els teus soldadets i digues a eixa reina 'teua' que Baldras no es "
+"pense menejar. No sé qui eres, però no ens agraden les amenaces a casa "
+"nostra. Així no és com els soldats de Wesnoth es comporten."
 
 #: Liberty/scenarios/liberty2.cfg:347
-#, fuzzy
 msgid ""
 "Harper, get out of here.  I see where this is going, and this is no battle "
 "for you."
-msgstr "Harper, fora! Esta no és una batalla per tu!"
+msgstr "Harper, fora! Ja veig com acabarà açò i no és una batalla per tu!"
 
 #: Liberty/scenarios/liberty2.cfg:352
 msgid "Guard the gate."
@@ -353,6 +360,8 @@ msgid ""
 "There will be no more warnings.  Present your magistrate.  I rescind the "
 "offer to take him dead or alive.  He will be leaving with us dead."
 msgstr ""
+"No hi hauran més advertències. Entregueu-me el vostre magistrat. Tanmateix, "
+"l'oferta ara s'ha reduït. Només me'l duré mort."
 
 #: Liberty/scenarios/liberty2.cfg:393
 msgid ""
@@ -379,7 +388,7 @@ msgstr ""
 
 #: Liberty/scenarios/liberty2.cfg:478
 msgid "We must tell the people of Delwyn about this."
-msgstr "N'hi ha que contar-li-ho als de Delwyn."
+msgstr "Cal contar-ho als de Delwyn."
 
 #: Liberty/scenarios/liberty2.cfg:491
 msgid ""
@@ -434,15 +443,15 @@ msgid ""
 msgstr ""
 "Relnan, gràcies per rebre el nostre missatger i acordar aquest encontre. En "
 "tots els teus anys com a magistrat de Delwyn, mai he sentit que el teu "
-"judici hagi errat."
+"judici haja errat."
 
 #: Liberty/scenarios/liberty3.cfg:163
 msgid ""
 "It has been a long time, old friend.  Your news worries us.  Yet, there is "
 "no problem we have not worked out here at our secret meeting place."
 msgstr ""
-"Quant de temps, vell amic! Les teues noves ens amoïnen. Tanmateix, no n'hi "
-"ha cap problema que no hem pogut solucionar ací a aquest lloc secret."
+"Quant de temps, vell amic! Les teues noves ens amoïnen. Tanmateix, no hi ha "
+"cap problema que no hagem pogut solucionar ací a aquest lloc secret."
 
 #: Liberty/scenarios/liberty3.cfg:168
 msgid ""
@@ -481,9 +490,9 @@ msgid ""
 "and treachery?  We should consult with Lord Maddock of Elensefar.  We have "
 "known him for years to be noble in deed as well as in name."
 msgstr ""
-"Açò és una ofensa a la nostra decència! Des de quan ha Wesnoth ha estat "
+"Açò és una ofensa a la nostra decència! Des de quan Wesnoth ha estat "
 "governat per la por i la traïció? Deuríem consultar-ho amb el Senyor Maddock "
-"de Elensefar. Des de sempre hem sabut que era noble tan de paraula com de "
+"de Elensefar. Des de sempre hem sabut que era noble tant de paraula com de "
 "fets."
 
 #: Liberty/scenarios/liberty3.cfg:195
@@ -492,7 +501,7 @@ msgid ""
 "lo!  We are not alone.  Their smell has long since given them away... "
 "saurians approach."
 msgstr ""
-"Estic d'acord. Jo romandré ací per defendre Delwyn i Dallben... però Ei! No "
+"Estic d'acord. Jo romandré ací per defendre Delwyn i Dallben... però ei! No "
 "estem a soles. M'està arribant la seua olor des de fa una bona estona... "
 "Allí! S'aproximen uns sauris!"
 
@@ -582,7 +591,7 @@ msgid ""
 msgstr ""
 "Ens trobem en una pau incòmoda fins que acaben amb els xicotets poblets "
 "d'ací i vinguen a la fi a demanar-me jurament. El tractat entre Elensefar i "
-"Wesnoth és antic, però no soc tan simple com per a depositar tota la meua "
+"Wesnoth és antic, però no soc tan simple com per a dipositar tota la meua "
 "confiança en ell. Com a mínim, no en aquesta època tan revolta."
 
 #: Liberty/scenarios/liberty4.cfg:178
@@ -681,15 +690,15 @@ msgstr ""
 
 #: Liberty/scenarios/liberty4.cfg:381
 msgid "I don't understand.  There are no other noble lords in this area."
-msgstr "No t'entenc. No n'hi han més nobles senyors per ací."
+msgstr "No t'entenc. No hi ha més nobles senyors per ací."
 
 #: Liberty/scenarios/liberty4.cfg:386
 msgid ""
 "Southeast of here there is a town, and there you may find assistance of the "
 "type I cannot give."
 msgstr ""
-"Cap al sud est d'ací n'hi ha un poblet, i allí potser trobeu una ajuda que "
-"jo no sóc capaç de prestar-vos."
+"Cap al sud est d'ací hi ha un poblet, i allí potser trobeu una ajuda que jo "
+"no sóc capaç de prestar-vos."
 
 #: Liberty/scenarios/liberty4.cfg:391
 msgid ""
@@ -746,8 +755,8 @@ msgid ""
 "I'm not sure where we're supposed to go now.  If we go into town we can "
 "start asking around for information."
 msgstr ""
-"No estic segur d'on hem d'anar ara. Si anem a la ciutat, podriem començar a "
-"preguntar per a informar-nos."
+"No estic segur d'on hem d'anar ara. Si anem a la ciutat, podríem començar a "
+"preguntar per informar-nos."
 
 #: Liberty/scenarios/liberty5.cfg:214
 msgid "Wait - I hear something..."
@@ -760,7 +769,7 @@ msgid ""
 "shows up at Carcyn I'll put his head at the end of my pole."
 msgstr ""
 "Estic content de poder perdre algun temps prop d'una ciutat. Estava fart de "
-"marxar cap amunt i cap avall per les marjals i els boscos perseguint als "
+"marxar cap amunt i cap avall per les marjals i els boscos perseguint els "
 "habitants. Si aquest terrorista treu el nas per ací, adornaré la punta de la "
 "meua llança amb el seu cap"
 
@@ -807,7 +816,7 @@ msgid ""
 "shock troopers arrived three days ago and took over the patrols."
 msgstr ""
 "He vingut per trobar-vos. Heu d'arribar a la ciutat sense ser vists. "
-"Normalment, els soldats estarien acaçant-nos als de la meua mena, però una "
+"Normalment, els soldats estarien acaçant els de la meua mena, però una "
 "companyia de tropes de xoc va arribar farà tres dies i han assumit el "
 "comandament de les patrulles."
 
@@ -839,8 +848,8 @@ msgid ""
 "that way."
 msgstr ""
 "Sí, exactament al sud. Deuríeu evitar la porta principal, la porta a l'oest "
-"està menys vigilada, encara que també sol estar molt transitada. De totes "
-"maneres, intenteu infiltrar-vos per allí."
+"està menys vigilada, encara que també sol estar molt transitada. De tota "
+"manera, intenteu infiltrar-vos per allí."
 
 #: Liberty/scenarios/liberty5.cfg:343
 msgid ""
@@ -873,7 +882,7 @@ msgid ""
 "leads out of the city to the southeast and into the forest.  My brother is "
 "waiting for you at that gate so he can take you to our master."
 msgstr ""
-"Cal que ho feu. Correu a la desesperada si fa falta. N'hi ha una xicoteta "
+"Cal que ho feu. Correu a la desesperada si fa falta. Hi ha una xicoteta "
 "senda que vos conduirà fora de la ciutat. El meu germà està esperant-vos "
 "allà per poder dur-vos al nostre cap."
 
@@ -883,7 +892,7 @@ msgid ""
 "leader is anxious to meet you."
 msgstr ""
 "Cavallers, serieu tan amables de seguir-me i endinsar-nos cap al bosc. El "
-"nostre cap es troba ansiós de vore-vos."
+"nostre cap es troba ansiós per veure-vos."
 
 #: Liberty/scenarios/liberty5.cfg:403
 msgid ""
@@ -904,7 +913,8 @@ msgstr ""
 
 #: Liberty/scenarios/liberty5.cfg:414
 msgid "As it turns out, I'm the crazy one.  Let's finish this folly."
-msgstr "Mmmm... em pareix que sí ho estic. A vore si acabem amb aquest avalot."
+msgstr ""
+"Mmmm... em pareix que sí ho estic. A veure si acabem amb aquest avalot."
 
 #: Liberty/scenarios/liberty5.cfg:442
 msgid ""
@@ -920,7 +930,7 @@ msgstr "Voleu, i tal volta els puguem despistar al Bosc Terrós."
 
 #: Liberty/scenarios/liberty5.cfg:463
 msgid "Lead the way..."
-msgstr "Dirigeix-nos"
+msgstr "Dirigeix-nos..."
 
 #: Liberty/scenarios/liberty5.cfg:481 Liberty/scenarios/liberty6.cfg:458
 msgid ""
@@ -1073,7 +1083,7 @@ msgid ""
 "The Liches are dead and I am very grateful.  With the undead driven out, we "
 "may live here in relative peace and pursue our studies."
 msgstr ""
-"Els Lich estan morts i jo molt vos estic agraït. Ara que hem destruït els no "
+"Els Lich estan morts i jo vos estic molt agraït. Ara que hem destruït els no "
 "morts, podrem viure en una pau relativa i dedicar-nos al nostre estudis."
 
 #: Liberty/scenarios/liberty6.cfg:354
@@ -1082,7 +1092,7 @@ msgid ""
 "Wesnoth.  There will be no peace for them."
 msgstr ""
 "Estudis? Pau? Voldràs dir que continuaràs vivint dels honrats ciutadans de "
-"Wesnoth. No n'hi haurà pau per a ells."
+"Wesnoth. No hi haurà pau per a ells."
 
 #: Liberty/scenarios/liberty6.cfg:359
 msgid ""
@@ -1364,10 +1374,10 @@ msgid ""
 "decide the fate of our homes, our families, and our freedom."
 msgstr ""
 "Quina massacre. Ara hem d'atacar Halstead, si aguaitem, seran invencibles.  "
-"Si podem arrasar-ho abans això passe, encara n'hi haurà alguna possibilitat "
-"per a la nostra gent. Descanseu bé esta nit, perquè la batalla de demà serà "
-"la que decidirà el destí de la nostra llar, les nostres famílies i la nostra "
-"llibertat."
+"Si podem arrasar-ho abans que això passe, encara hi haurà alguna "
+"possibilitat per la nostra gent. Descanseu bé esta nit, perquè la batalla de "
+"demà serà la que decidirà el destí de la nostra llar, les nostres famílies i "
+"la nostra llibertat."
 
 #: Liberty/scenarios/liberty7.cfg:371
 msgid ""
@@ -1434,7 +1444,7 @@ msgid ""
 "became the Stronghold of Halstead."
 msgstr ""
 "Centenars de peus d'alta, la muntanya dominava totes les terres al seu "
-"voltant, amb unes muralles tan massives que inspiren a la vegada que "
+"voltant, amb unes muralles tan massives que inspiraven a la vegada que "
 "aterrien. Van treballar ací hòmens de tota la rodalia, construint la "
 "fortalesa més inexpugnable mai imaginada. Era la Fortalesa de Halstead."
 
@@ -1490,7 +1500,7 @@ msgid ""
 "No, my young friend.  Halstead indeed has a weakness.  Among my many assets "
 "is access to a wealth of secrets few in Wesnoth are privy to."
 msgstr ""
-"No, jove amic. Encara que no ho sembli, té alguns punts dèbils. Entre els "
+"No, jove amic. Encara que no ho semble, té alguns punts dèbils. Entre els "
 "meus mitjans, un és el coneixement d'alguns secrets com pocs en Wesnoth "
 "poden. "
 
@@ -1500,7 +1510,7 @@ msgid ""
 "on top has been built and rebuilt many times over the ages.  It is not as "
 "indestructible as you might think."
 msgstr ""
-"Com pots vore, la muntanya on es va construir la fortalesa és sòlida, però "
+"Com pots veure, la muntanya on es va construir la fortalesa és sòlida, però "
 "el castell damunt ha sigut construït i reconstruït moltes vegades al llarg "
 "del temps. No és tan indestructible com podries creure."
 
@@ -1510,7 +1520,7 @@ msgid ""
 "to the central keep.  Over time, after many wars, supports were required to "
 "hold up the middle."
 msgstr ""
-"Sota l'estructura hi ha una xarxa de catacumbes que conecten les quatre "
+"Sota l'estructura hi ha una xarxa de catacumbes que connecten les quatre "
 "torres amb la torrassa central. Segons van passar els anys, després de "
 "moltes guerres, van ser necessaris reforços per a que no s'enfonsara el "
 "centre."
@@ -1533,11 +1543,11 @@ msgstr ""
 "Això crec. A cada torre hi ha unes escales cap a les catacumbes. Si podem "
 "arribar al centre d'una torre, un dels nostres hòmens podria baixar a les "
 "entranyes de la muntanya i destruir els reforços. Estic segur que haurem de "
-"derrocar tots els reforços per a sapar la fortalessa."
+"derrocar tots els reforços per sapar la fortalessa."
 
 #: Liberty/scenarios/liberty8.cfg:316
 msgid "No, young one.  Halstead indeed has a weakness."
-msgstr "No, jove. Encara que no ho sembli, Halstead té un punt dèbil."
+msgstr "No, jove. Encara que no ho semble, Halstead té un punt dèbil."
 
 #: Liberty/scenarios/liberty8.cfg:321
 msgid "How do you know?"
@@ -1620,7 +1630,7 @@ msgid ""
 "must be defenseless now.  More hinges on this battle than I thought."
 msgstr ""
 "Increïble. El Senyor Maddock ha enviat la seua guàrdia... les seues millors "
-"tropes! Elensefar deu haver quedat indefensa. N'hi ha molt més que depenja "
+"tropes! Elensefar deu haver quedat indefensa. Hi ha molt més que depenja "
 "d'aquesta batalla del que havia pensat."
 
 #: Liberty/scenarios/liberty8.cfg:456
@@ -1799,7 +1809,7 @@ msgid ""
 "night.  The spectacle of Halstead's destruction kept them in a daze that "
 "slowly wore off as they made their way north."
 msgstr ""
-"Baldras i els seus hòmens van fugir de les planícíes occidentals de Wesnoth "
+"Baldras i els seus hòmens van fugir de les planícies occidentals de Wesnoth "
 "sota la foscor de la nit. L'espectacle de la destrucció de Halstead els va "
 "mantenir en un atordiment que va anar desapareixent segons continuaven cap "
 "al nord."
@@ -1838,8 +1848,8 @@ msgid ""
 "command the entire countryside was cursed.  He quickly retreated to the "
 "traditional border and set up strong defenses against the west."
 msgstr ""
-"Quan l'exèrcit va trobar les ruïnes de la gran fortalessa de Halstead, ja va "
-"ser massa. Entre que no podien creure que això puguera haver succeït i "
+"Quan l'exèrcit va trobar les ruïnes de la gran fortalesa de Halstead, ja va "
+"ser massa. Entre que no podien creure que això poguera haver succeït i "
 "l'invisible terror que els fuetejava, el segon al cap d'Asheviere es va "
 "creure que tota la província estava maleïda. Ràpidament es va retirar a les "
 "fronteres tradicionals i va establir unes fortes defenses contra l'oest."
@@ -2099,7 +2109,7 @@ msgid ""
 "deserted road late at night."
 msgstr ""
 "Armats amb una pesada maça, no mai voldries trobar-te amb els Saltamarges a "
-"una camí solitari en una fosca nit."
+"un camí solitari en una fosca nit."
 
 #: Liberty/units/Human-ranger.cfg:5
 msgid "Ranger"
@@ -2115,8 +2125,8 @@ msgstr ""
 "Els bosquerols són hòmens salvatges, coneixedors en profunditat dels boscos "
 "i les muntanyes. Són excel·lents com a rastrejadors, exploradors i arquers "
 "amb la seua capacitat de moviment pel camp baix la cobertura de la foscor. "
-"La majoria de dirigents preferirien vore'ls dins de la presó que sota el seu "
-"comandament."
+"La majoria de dirigents preferirien veure'ls dins de la presó que sota el "
+"seu comandament."
 
 #: Liberty/units/Huntsman.cfg:60 Liberty/units/Huntsman-peasant.cfg:49
 #: Liberty/units/Human-ranger.cfg:75 Liberty/units/Trapper-peasant.cfg:43
@@ -2168,7 +2178,7 @@ msgstr ""
 
 #: Liberty/units/Outlaw-peasant.cfg:5
 msgid "Night Watchman"
-msgstr "Vigilant nocturn"
+msgstr "Vigilant Nocturn"
 
 #: Liberty/units/Outlaw-peasant.cfg:19
 msgid ""
@@ -2275,11 +2285,11 @@ msgstr "Genet esqueletal"
 msgid ""
 "Peasants live in the small hamlets and villages scattered across the Wesnoth "
 "countryside."
-msgstr "Els camperols viuen a xicotets poblats escampats per tot Wesnoth."
+msgstr "Els camperols viuen en xicotets poblats escampats per tot Wesnoth."
 
 #: Liberty/units/Trapper-peasant.cfg:5
 msgid "Peasant Trapper"
-msgstr "camperol paranyer"
+msgstr "Camperol paranyer"
 
 #: Liberty/units/Trapper-peasant.cfg:18
 msgid ""
