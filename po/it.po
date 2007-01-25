@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2007-01-23 09:53+0100\n"
+"PO-Revision-Date: 2007-01-24 15:53+0100\n"
 "Last-Translator: Americo Iacovizzi <darkamex@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -300,7 +300,7 @@ msgstr "Uccidi il capitano dell'esercito di Wesnoth, Tarwen"
 
 #: Liberty/scenarios/liberty2.cfg:143
 msgid "Look, riders approach."
-msgstr "Guarda, cavalieri che vengono da questa parte."
+msgstr "Guarda, cavalieri in arrivo."
 
 #: Liberty/scenarios/liberty2.cfg:148
 msgid "Stand fast, nephew."
@@ -805,11 +805,15 @@ msgid "Who is that?"
 msgstr "Chi è là?"
 
 #: Liberty/scenarios/liberty5.cfg:284
+#, fuzzy
 msgid ""
 "I have come to find you.  You must make it into the city without being "
 "seen.  The soldiers are normally out hunting for my kind, but a company of "
 "shock troopers arrived three days ago and took over the patrols."
 msgstr ""
+"Dovete entrare in città senza farvi vedere. I soldati di solito sono fuori "
+"per dare la caccia a quelli della mia razza ma tre giorni fa è arrivata una "
+"compagnia di truppe d'assalto che ha assunto il controllo delle pattuglie."
 
 #: Liberty/scenarios/liberty5.cfg:289
 msgid "They're looking for us."
@@ -826,6 +830,8 @@ msgstr "No, ci hanno trovato LORO per primi! Andiamo!"
 #: Liberty/scenarios/liberty5.cfg:322
 msgid "Shhhhh!!  I could hear you coming from bottom of the city dungeon."
 msgstr ""
+"Shhhhh!!  Potevo sentirvi arrivare dai livello inferiore delle segrete della "
+"città."
 
 #: Liberty/scenarios/liberty5.cfg:327
 msgid "I can barely see where we are going.  Is the city near?"
@@ -837,26 +843,33 @@ msgid ""
 "heavily traveled but is less guarded than the east gate.  Try to sneak in "
 "that way."
 msgstr ""
+"Sì, proprio verso sud. Dovreste evitare il cancello principale. Il cancello "
+"occidentale è molto trafficato ma ci sono meno guardie che a quello "
+"orientale. Provate a intrufolarvi da quello."
 
 #: Liberty/scenarios/liberty5.cfg:343
 msgid ""
 "Unfortunately, they know we are here already.  We can only hope that the "
 "cover of night will be adequate despite their stepped-up efforts to find us."
 msgstr ""
+"Purtroppo sanno già che siamo qua. Possiamo solo sperare che la notte ci "
+"nasconda nonostante abbiano intensificato gli sforzi per trovarci."
 
 #: Liberty/scenarios/liberty5.cfg:359
 msgid "Hello, our leader is on the other side of the city."
-msgstr ""
+msgstr "Salve, il nostro capo è dall'altra parte della città."
 
 #: Liberty/scenarios/liberty5.cfg:370
 msgid ""
 "We already tangled with some guards.  The city is probably swarming with "
 "soldiers by now.  We cannot go that way. "
 msgstr ""
+"Siamo già incappati in alcune guardie. Adesso la città pullulerà di soldati. "
+"Non possiamo passare di qua."
 
 #: Liberty/scenarios/liberty5.cfg:377
 msgid "We have to go through the city?  Impossible!"
-msgstr ""
+msgstr "Dobbiamo attraversare la città? Impossibile!"
 
 #: Liberty/scenarios/liberty5.cfg:384
 msgid ""
@@ -864,17 +877,24 @@ msgid ""
 "leads out of the city to the southeast and into the forest.  My brother is "
 "waiting for you at that gate so he can take you to our master."
 msgstr ""
+"È necessario. Attraversatela di corsa se dovete. C'è un piccolo sentiero che "
+"porta fuori dalla città verso sud-est e poi nella foresta. Mio fratello vi "
+"aspetta al cancello per portarvi dal nostro signore."
 
 #: Liberty/scenarios/liberty5.cfg:398
 msgid ""
 "Gentlemen, please come this way and follow the path into the forest.  Our "
 "leader is anxious to meet you."
 msgstr ""
+"Signori, prego, venite da questa parte e seguite il sentiero nella foresta. "
+"Il nostro capo è ansioso di incontrarvi."
 
 #: Liberty/scenarios/liberty5.cfg:403
 msgid ""
 "As soon as we escape the Wesnoth death squad, we will be happy to oblige."
 msgstr ""
+"Quando saremo sfuggiti dalla squadra della morte di Wesnoth, saremo lieti di "
+"seguirvi."
 
 #: Liberty/scenarios/liberty5.cfg:408
 msgid ""
@@ -882,10 +902,14 @@ msgid ""
 "heavily guarded city relying on nothing but the cover of darkness and my "
 "wits, I would say you were crazy."
 msgstr ""
+"Non ho corso granché negli ultimi anni. Se mi avessi chiesto di infiltrarmi "
+"in una città pesantemente sorvegliata affidandomi solo sul favore della "
+"notte e sul mio ingegno, avrei detto che eri pazzo."
 
 #: Liberty/scenarios/liberty5.cfg:414
 msgid "As it turns out, I'm the crazy one.  Let's finish this folly."
 msgstr ""
+"Adesso va' a finire che il pazzo sono io. Portiamo a termine questa follia."
 
 #: Liberty/scenarios/liberty5.cfg:442
 msgid ""
@@ -909,6 +933,9 @@ msgid ""
 "to Dallben.  Our mission is unfinished, but we must return to fight a "
 "suicide battle."
 msgstr ""
+"Abbiamo passato troppo tempo qua. Sicuramente le forze della regina sono "
+"tornate a Dallben. Non abbiamo portato a termine la nostra missione ma "
+"dobbiamo tornare a combattere una battaglia persa in partenza."
 
 #: Liberty/scenarios/liberty6.cfg:5
 msgid "The Gray Woods"
@@ -920,7 +947,7 @@ msgstr "Crepuscolo"
 
 #: Liberty/scenarios/liberty6.cfg:150
 msgid "Defeat the Lich Lords"
-msgstr "Sconfiggi i signori Lich"
+msgstr "Sconfiggi i signori lich"
 
 #: Liberty/scenarios/liberty6.cfg:234
 msgid "The leader, I presume."
@@ -933,10 +960,14 @@ msgid ""
 "attack a caravan head-on.  It's not noble work, but our pursuits require "
 "plenty of gold."
 msgstr ""
+"Sono Helicrom e tu non dovresti essere così volubile. Io controllo gente "
+"pericolosa. I miei tirapiedi possono entrare non visti in qualunque città, "
+"rapinare un uomo nel sonno o attaccare frontalmente una carovana. Non è una "
+"nobile arte ma la nostra attività richiede molto oro."
 
 #: Liberty/scenarios/liberty6.cfg:244
 msgid "Your pursuits?"
-msgstr ""
+msgstr "Le vostre attività?"
 
 #: Liberty/scenarios/liberty6.cfg:249
 msgid ""
@@ -949,6 +980,7 @@ msgstr ""
 #: Liberty/scenarios/liberty6.cfg:254
 msgid "I have heard of you.  Necromancers.  Barely human scum, I say."
 msgstr ""
+"Ho sentito parlare di voi. Negromanti. Praticamente spazzatura umana, direi."
 
 #: Liberty/scenarios/liberty6.cfg:259
 msgid ""
@@ -1167,7 +1199,7 @@ msgstr "Zio, porta le insegne degli Elense. Dovrebbe rispondere."
 
 #: Liberty/scenarios/liberty7.cfg:184
 msgid "Rider, quiet down before we are discovered!  Quickly, approach."
-msgstr "Cavaliere, zitto prima che ciscoprano! Presto, avvicinati."
+msgstr "Cavaliere, zitto prima che ci scoprano! Presto, avvicinati."
 
 #: Liberty/scenarios/liberty7.cfg:197
 msgid ""
@@ -1229,7 +1261,7 @@ msgstr ""
 
 #: Liberty/scenarios/liberty7.cfg:236
 msgid "Another platoon approaches..."
-msgstr "Si avvicina un'altro plotone..."
+msgstr "Un'altro plotone in arrivo..."
 
 #: Liberty/scenarios/liberty7.cfg:288
 msgid ""
@@ -1268,12 +1300,18 @@ msgid ""
 "people may have a chance.  Rest well tonight, because tomorrow's battle will "
 "decide the fate of our homes, our families, and our freedom."
 msgstr ""
+"Che carneficina. Adesso dobbiamo attaccare Halstead. Se esitiamo, "
+"diventeranno invicibili. Se riuscissimo a raderla al suolo prima ciò che "
+"accada, la nostra gente potrebbe avere una possibilità. Questa notte cercate "
+"di riposare perché la battaglia di domani deciderà il edstino delle nostre "
+"case, delle nostre famiglie e della nostra libertà."
 
 #: Liberty/scenarios/liberty7.cfg:371
 msgid ""
 "Send word to Helicrom that we are ready.  It is time for him to repay his "
 "debt."
 msgstr ""
+"Comunicate a Helicrom che siamo pronti. È tempo che ripaghi il suo debito."
 
 #: Liberty/scenarios/liberty7.cfg:392
 msgid ""
@@ -1483,7 +1521,7 @@ msgstr ""
 
 #: Liberty/scenarios/liberty8.cfg:376
 msgid "Look in the distance... riders approach!"
-msgstr "Guarda laggiuù... cavalieri che si avvicinano!"
+msgstr "Guarda laggiù... cavalieri in arrivo!"
 
 #: Liberty/scenarios/liberty8.cfg:386
 msgid "Who is it?"
@@ -1496,7 +1534,7 @@ msgstr "Rinforzi, spero. "
 
 #: Liberty/scenarios/liberty8.cfg:397
 msgid "Riders approach from the northwest!  Stand fast, men."
-msgstr "Cavalieri in avvicinamento da nord-ovest! In piedi, uomini."
+msgstr "Cavalieri in arrivo da nord-ovest! In piedi, uomini."
 
 #: Liberty/scenarios/liberty8.cfg:435
 msgid "Elense Vanguard Rider"
@@ -1519,6 +1557,9 @@ msgid ""
 "Amazing.  Lord Maddock sent his home guard... his finest troops!  Elensefar "
 "must be defenseless now.  More hinges on this battle than I thought."
 msgstr ""
+"Fantastico. Lord Maddock ha mandato la sua guardia nazionale... le sue "
+"truppe migliori! Elensefar deve essere senza difese adesso. Questa è davvero "
+"una battaglia decisiva."
 
 #: Liberty/scenarios/liberty8.cfg:456
 msgid ""
@@ -1592,17 +1633,19 @@ msgstr ""
 
 #: Liberty/scenarios/liberty8.cfg:774
 msgid "Men, help me out of here!  I am trapped under this rubble."
-msgstr ""
+msgstr "Uomini, aiutatemi a uscire! Sono intrappolato sotto queste rovine."
 
 #: Liberty/scenarios/liberty8.cfg:779
 msgid ""
 "No one was able to get to Baldras in time.  He and many of his companions "
 "died that day beneath the stronghold of Halstead."
 msgstr ""
+"Nessuno è riuscito a raggiungere Baldras in tempo. È morto assieme ai suoi "
+"compagni quel giorno sotto la fortezza di Halstead."
 
 #: Liberty/scenarios/liberty8.cfg:784
 msgid "I hope this sacrifice is not in vain... we will never find out."
-msgstr ""
+msgstr "Spero che il suo sacrificio non sia vano... non lo sapremo mai."
 
 #: Liberty/scenarios/liberty8.cfg:791
 msgid "Our dream of freedom... gone...  Uungh."
@@ -1627,26 +1670,33 @@ msgid ""
 msgstr ""
 
 #: Liberty/scenarios/liberty8.cfg:840
+#, fuzzy
 msgid ""
 "Carry on, my friends.  Fighting by your side is the most honorable thing I "
 "have done..."
 msgstr ""
+"Combattere al vostro fianco è stata la cosa più onorevole che abbia mai "
+"fatto..."
 
 #: Liberty/scenarios/liberty8.cfg:854
 msgid "Your reign of terror is over, General."
 msgstr "Il vostro regno di terrore è finito, generale."
 
 #: Liberty/scenarios/liberty8.cfg:858
+#, fuzzy
 msgid ""
 "You will never successfully oppose Asheviere.  Her power is too great...  "
 "This small victory today is a reprieve from the unimaginable pain you will "
 "suffer when her wrath finally meets up with you."
 msgstr ""
+"Non avresti mai dovuto opporti ad Asheviere. Il suo potere è troppo "
+"grande... questa misera vittoria è solo dal dolore inimmaginabile che "
+"patirete quando alla fine la sua collera vi colpirà."
 
 #: Liberty/scenarios/liberty8.cfg:870
 msgid ""
 "This was no small victory.  You underestimate the power of love for freedom."
-msgstr ""
+msgstr "Non è una misera vittoria. "
 
 #: Liberty/scenarios/liberty8.cfg:874
 msgid ""
@@ -1737,7 +1787,7 @@ msgstr ""
 
 #: Liberty/units/Bandit-peasant.cfg:5
 msgid "Village Elder"
-msgstr ""
+msgstr "Anziano"
 
 #: Liberty/units/Bandit-peasant.cfg:18
 msgid ""
@@ -1828,7 +1878,7 @@ msgstr "spada"
 
 #: Liberty/units/Footpad-peasant.cfg:5
 msgid "Young Peasant"
-msgstr ""
+msgstr "Giovane contadino"
 
 #: Liberty/units/Footpad-peasant.cfg:18
 msgid ""
@@ -1849,7 +1899,7 @@ msgstr "fionda"
 
 #: Liberty/units/Fugitive-peasant.cfg:5
 msgid "Night Patrolman"
-msgstr ""
+msgstr "Ronda notturna"
 
 #: Liberty/units/Fugitive-peasant.cfg:19
 msgid ""
@@ -1860,7 +1910,7 @@ msgstr ""
 
 #: Liberty/units/Fugitive-peasant.cfg:77
 msgid "female^Night Patrolman"
-msgstr ""
+msgstr "Ronda notturna"
 
 #: Liberty/units/Fugitive-peasant.cfg:91
 msgid ""
@@ -1898,7 +1948,7 @@ msgstr ""
 
 #: Liberty/units/Highwayman-peasant.cfg:5
 msgid "Senior Village Elder"
-msgstr ""
+msgstr "Venerabile"
 
 #: Liberty/units/Highwayman-peasant.cfg:18
 msgid ""
@@ -1982,7 +2032,7 @@ msgstr ""
 
 #: Liberty/units/Outlaw-peasant.cfg:5
 msgid "Night Watchman"
-msgstr ""
+msgstr "Sentinella notturna"
 
 #: Liberty/units/Outlaw-peasant.cfg:19
 msgid ""
@@ -1993,7 +2043,7 @@ msgstr ""
 
 #: Liberty/units/Outlaw-peasant.cfg:71
 msgid "female^Night Watchman"
-msgstr ""
+msgstr "Sentinella notturna"
 
 #: Liberty/units/Outlaw-peasant.cfg:85
 msgid ""
@@ -2080,7 +2130,7 @@ msgstr ""
 
 #: Liberty/units/Trapper-peasant.cfg:5
 msgid "Peasant Trapper"
-msgstr ""
+msgstr "Contadino cacciatore"
 
 #: Liberty/units/Trapper-peasant.cfg:18
 msgid ""
