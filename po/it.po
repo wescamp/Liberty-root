@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2007-01-24 15:53+0100\n"
-"Last-Translator: Americo Iacovizzi <darkamex@gmail.com>\n"
+"PO-Revision-Date: 2007-02-18 19:14+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,9 +50,8 @@ msgstr ""
 "della corona, ma eroi (si spera) per noi. Versione "
 
 #: Liberty.cfg:20
-#, fuzzy
 msgid "  For BFW"
-msgstr "  For BFW"
+msgstr " Per «Battle For Wesnoth»"
 
 #: Liberty.cfg:193
 msgid "Holy Ankh"
@@ -103,7 +102,7 @@ msgid ""
 msgstr ""
 "Molti anni fa, sotto il regno di re Garard II, nelle città di confine di "
 "Delwyn e Dallben nella provincia di Annuvin cresceva incessantemente "
-"l'insoddisfazione nei confronti del dominio del re.  Preoccupato a causa "
+"l'insoddisfazione nei confronti del dominio del re. Preoccupato a causa "
 "delle grandi guerre, il re non era in grado di mandare delle forze adeguate "
 "a difesa della frontiera."
 
@@ -676,12 +675,14 @@ msgid "Lord Maddock, now that we are victorious, will you help us?"
 msgstr "Lord Maddock, adesso che abbiamo vinto, ci aiuterete?"
 
 #: Liberty/scenarios/liberty4.cfg:376
-#, fuzzy
 msgid ""
 "I will not.  Unless you want me to round up the city's thieves to fight for "
 "you, I do not have the troops to spare.  However, I am not the only one who "
 "commands men in this corner of Wesnoth."
-msgstr "Non lo farò."
+msgstr ""
+"Non lo farò. A mene che tu voglia che io raduni i ladri della città per "
+"combattere per te, non ho truppe da spartire. Comunque, io non sono il solo "
+"a comandare degli uomini in questo angolo di Wesnoth."
 
 #: Liberty/scenarios/liberty4.cfg:381
 msgid "I don't understand.  There are no other noble lords in this area."
@@ -805,15 +806,15 @@ msgid "Who is that?"
 msgstr "Chi è là?"
 
 #: Liberty/scenarios/liberty5.cfg:284
-#, fuzzy
 msgid ""
 "I have come to find you.  You must make it into the city without being "
 "seen.  The soldiers are normally out hunting for my kind, but a company of "
 "shock troopers arrived three days ago and took over the patrols."
 msgstr ""
-"Dovete entrare in città senza farvi vedere. I soldati di solito sono fuori "
-"per dare la caccia a quelli della mia razza ma tre giorni fa è arrivata una "
-"compagnia di truppe d'assalto che ha assunto il controllo delle pattuglie."
+"Sono dovuto venire per trovarvi. Dovete entrare in città senza farvi vedere. "
+"I soldati di solito sono fuori per dare la caccia a quelli della mia razza "
+"ma tre giorni fa è arrivata una compagnia di truppe d'assalto che ha assunto "
+"il controllo delle pattuglie."
 
 #: Liberty/scenarios/liberty5.cfg:289
 msgid "They're looking for us."
@@ -830,7 +831,7 @@ msgstr "No, ci hanno trovato LORO per primi! Andiamo!"
 #: Liberty/scenarios/liberty5.cfg:322
 msgid "Shhhhh!!  I could hear you coming from bottom of the city dungeon."
 msgstr ""
-"Shhhhh!!  Potevo sentirvi arrivare dai livello inferiore delle segrete della "
+"Shhhhh!! Potevo sentirvi arrivare dai livello inferiore delle segrete della "
 "città."
 
 #: Liberty/scenarios/liberty5.cfg:327
@@ -976,6 +977,11 @@ msgid ""
 "curriculum, you might say, were dealt with harshly.  We are outcasts because "
 "we seek to master shadow magic.  Our secrecy and security are not cheap."
 msgstr ""
+"Il ministero della magia del precedente re teneva sotto stretto controllo "
+"l'addestramento e l'impiego dei maghi di Wesnoth. Quelli di noi che temevano "
+"di... uscire dal programma, diciamo, furono trattati duramente. Siamo dei "
+"reietti perché cerchiamo di dominare la magia della tenebra. La nostra "
+"segretezza e sicurezza non costano poco."
 
 #: Liberty/scenarios/liberty6.cfg:254
 msgid "I have heard of you.  Necromancers.  Barely human scum, I say."
@@ -990,6 +996,11 @@ msgid ""
 "secret we hope to discover.  As such, we exist between both worlds, fitting "
 "into neither one."
 msgstr ""
+"Sbagliato. I negromanti diventano schiavi dei loro padroni lich e alla fine "
+"perdono la loro umanità. Abbiamo scoperto che praticando lamagia nera non è "
+"così pericoloso come potrebbe sembrare. L'equilibrio di luce e tenebra è un "
+"segreto mistico che speriamo di scoprire. Perciò, esistiamo tra i due regni, "
+"senza appartenere a nessuno dei due."
 
 #: Liberty/scenarios/liberty6.cfg:264
 msgid "Fine, then.  Why do you want to help us?"
@@ -1001,6 +1012,9 @@ msgid ""
 "willing to help.  The throne of Wesnoth, under a King or Queen, is a cow we "
 "always like to prod, so to speak."
 msgstr ""
+"Non è nostra intenzione. Sei tu che sei venuto a cercarCI. Tuttavia, io "
+"conosco la vostra situazione e voglio aiutarvi. Il trono di Wesnoth, re o "
+"regina che sia, è un bue che ci piace sempre spronare, per così dire."
 
 #: Liberty/scenarios/liberty6.cfg:274
 msgid ""
@@ -1008,6 +1022,9 @@ msgid ""
 "home to some powerful Liches.  Our experiments may have actually aroused "
 "them from sleep... we're not exactly sure."
 msgstr ""
+"Carcyn è sempre nebbiosa negli ultimi tempi, perché questi boschi sono "
+"divenuti la sede alcuni potenti lich. I nostri esperimenti potrebbero in "
+"realtà averli risvegliati... non ne siamo proprio sicuri."
 
 #: Liberty/scenarios/liberty6.cfg:279
 msgid ""
@@ -1015,12 +1032,17 @@ msgid ""
 "predicament.  My men will wipe this land clean if you can help us defend our "
 "homeland."
 msgstr ""
+"Perciò ora devi difendere sia la tua retroguardia sia il tuo fronte... vedo "
+"l'imbarazzo della tua situazione. I miei uomini spazzeranno questa terra se "
+"ci puoi aiutare a difendere la nostra patria."
 
 #: Liberty/scenarios/liberty6.cfg:303
 msgid ""
 "Look there... the canyon valley lies in perpetual darkness... a sign of true "
 "evil. "
 msgstr ""
+"Guardate... il canalone è immerso in una oscurità perpetua... sicuro segno "
+"di malvagità."
 
 #: Liberty/scenarios/liberty6.cfg:321
 msgid ""
@@ -1033,30 +1055,40 @@ msgstr ""
 #: Liberty/scenarios/liberty6.cfg:325
 msgid "With Helicrom dead, the guild of shadow magic was thrown into disarray."
 msgstr ""
+"Con la morte di Helicrom, la ghilda della magia della tenebra fu gettata "
+"nello scompiglio."
 
 #: Liberty/scenarios/liberty6.cfg:329
 msgid ""
 "The remaining members were very grateful and offered Baldras a sizeable sum "
 "of gold for his help."
 msgstr ""
+"I membri rimasti furono molto grati e offrirono a Baldras una considerevole "
+"somma di denaro per il suo aiuto."
 
 #: Liberty/scenarios/liberty6.cfg:333
 msgid ""
 "It was not the help he was hoping for, but he knew it would have to be "
 "enough for the coming conflict."
 msgstr ""
+"Non era l'aiuto che sperava, ma sapeva che era sufficiente per l'imminente "
+"conflitto."
 
 #: Liberty/scenarios/liberty6.cfg:349
 msgid ""
 "The Liches are dead and I am very grateful.  With the undead driven out, we "
 "may live here in relative peace and pursue our studies."
 msgstr ""
+"I lich sono morti e io ve ne sono molto grato. Scacciati i non-morti, "
+"potremo vivere qua relativamente in pace e continuare i nostri studi."
 
 #: Liberty/scenarios/liberty6.cfg:354
 msgid ""
 "Studies?  Peace?  You mean to continue feeding off of the lawful citizens of "
 "Wesnoth.  There will be no peace for them."
 msgstr ""
+"Studi? Pace? Intendi continuare a ingannare i fedeli sudditi di Wesnoth. Non "
+"ci sarà pace per loro."
 
 #: Liberty/scenarios/liberty6.cfg:359
 msgid ""
@@ -1064,12 +1096,17 @@ msgid ""
 "you cannot overestimate the value of the service you have performed here "
 "today.  I will help you to the utmost of my ability."
 msgstr ""
+"Qua nessuno di noi due è in grado di dare lezioni di etica. Malgrado tutto, "
+"non si può sottovvalutare il valore del servigio che ci hai reso oggi. Io ti "
+"aiuterò al meglio delle mie possibilità."
 
 #: Liberty/scenarios/liberty6.cfg:364
 msgid ""
 "I was planning on giving you gold.  Any good army is well financed, and with "
 "the Liches gone we can now spare it."
 msgstr ""
+"Stavo pensando di darti dell'oro. Qualunque buon esercito è ben finanziato e "
+"senza i lich possiamo spartircelo."
 
 #: Liberty/scenarios/liberty6.cfg:369
 msgid ""
@@ -1077,12 +1114,18 @@ msgid ""
 "on your adventures.  The Queen has been sending mages out here, and my men "
 "are itching for some payback."
 msgstr ""
+"Ma, penso che ti sarebbe di maggiore aiuto se io ti prestassi qualcuno dei "
+"miei uomini perché ti segua nelle tue avventure. La regina manderà qua altri "
+"maghi e i miei uomini hanno voglia di saldare i conti."
 
 #: Liberty/scenarios/liberty6.cfg:374
 msgid ""
 "On the other hand, if I keep the full force of my organization here, we "
 "might be able to regroup and join you on the battlefield when the time comes."
 msgstr ""
+"Dal'altra parte, se io tenessi tutta la forza della mia organizzazione qua, "
+"noi potremmo raggrupparci e unirci a te sul campo di battaglia quando sarà "
+"il momento."
 
 #: Liberty/scenarios/liberty6.cfg:379
 msgid "I leave it to you to decide."
@@ -1122,10 +1165,13 @@ msgid ""
 "countryside.  We will be ready to march in 7 days.  All now hinges on you!  "
 "Until then..."
 msgstr ""
+"Benissimo. Mi serve tempo per ripulire questa foresta e richiamare i miei "
+"uomini dalle campagne. Saremo pronti in assetto di marcia tra sette giorni. "
+"Ora tutto dipende da te! Fino ad allora..."
 
 #: Liberty/scenarios/liberty6.cfg:478
 msgid "My men... have failed to protect me!  I am a goner..."
-msgstr ""
+msgstr "I miei uomini... non sono riusciti a proteggermi! Sono spacciato..."
 
 #: Liberty/scenarios/liberty7.cfg:5
 msgid "The Hunters"
@@ -1136,6 +1182,8 @@ msgid ""
 "Baldras and his men quickly left the Gray Woods, not entirely convinced of "
 "their safety even after eradicating the Liches."
 msgstr ""
+"Baldras e i suoi uomini lasciarono rapidamente il bosco grigio, anche se non "
+"erano certi che dopo aver sradicato i lich fosse al sicuro."
 
 #: Liberty/scenarios/liberty7.cfg:18
 msgid ""
@@ -1144,12 +1192,18 @@ msgid ""
 "The ascent of the Queen had cast an uneasy pallor over the citizens of "
 "Wesnoth, and some of them were willing to resist it."
 msgstr ""
+"Mentre marciavano, molti uomini e donne dalle cascine che punteggiavano la "
+"regione attorno a Carcyn e il bosco si avvicinò al gruppo, chiedendo di "
+"unirsi a loro. L'ascesa al trono della regina aveva lasciato una pallore "
+"ansioso sui cittadini di Wesnoth e qualcuno di loro voleva resistere."
 
 #: Liberty/scenarios/liberty7.cfg:21
 msgid ""
 "Knowing they too would be labeled criminals, he reluctantly accepted their "
 "help.  Baldras is now able to recruit outlaws."
 msgstr ""
+"Sapendo che sarebbero stati etichettati come criminali, accettò il loro "
+"aiuto con riluttanza. Baldras poté quindi reclutare fuorilegge."
 
 #: Liberty/scenarios/liberty7.cfg:24
 msgid ""
@@ -1158,6 +1212,10 @@ msgid ""
 "to the northwest.  Unsure what to make of it, they formulated their next "
 "course of action..."
 msgstr ""
+"Accampati sull'orlo della foresta, osservarono con calma considerevoli "
+"movimenti di truppe provenienti dalla direzione di Aldril, una città vicina, "
+"e dirette a nord-ovest. Incerti sul da farsi, pianificarono la loro prossima "
+"azione..."
 
 #: Liberty/scenarios/liberty7.cfg:90
 msgid "Kill all enemy forces"
@@ -1170,6 +1228,11 @@ msgid ""
 "army of Wesnoth.  Idiocy!  If the noble lord of Elensefar is unwilling to "
 "resist the Queen, how should I ever expect to?"
 msgstr ""
+"Le parole di lord Maddock hanno pesato come macigni su di me nei giorni "
+"scorsi. Mi sono reso conto che non potremo mai vincere. Non potremo mai "
+"sconfiggere tutto l'esercito di Wesnoth. Pazzo! Se il nobile signore di "
+"Elensefar non è in grado di opporsi alla regina, come avrei mai potuto "
+"farcela io?"
 
 #: Liberty/scenarios/liberty7.cfg:157
 msgid ""
@@ -1177,6 +1240,9 @@ msgid ""
 "platoons of heavy infantry marching towards the garrison in just the last 2 "
 "hours."
 msgstr ""
+"Quel che è peggio è che pare ci abbia notati. Abbiamo contato cinque plotoni "
+"di fanteria pesante in marcia verso la guarnigione solo negli ultimi due "
+"giorni."
 
 #: Liberty/scenarios/liberty7.cfg:162
 msgid ""
@@ -1184,7 +1250,7 @@ msgid ""
 "are a fortress.  They used to protect this area from the enemies of Wesnoth; "
 "I never imagined they would house the enemies of Wesnoth."
 msgstr ""
-"la guarnigione. Le torri di Halstead non sono soltanto una guarnigione, "
+"La guarnigione. Le torri di Halstead non sono soltanto una guarnigione, "
 "nipote, sono una fortezza. Per questa regione erano la protezione dai nemici "
 "di Wesnoth; non avrei mai immaginato che sarebbero diventate il rifugio dei "
 "nemici di Wesnoth."
@@ -1195,7 +1261,7 @@ msgstr "(Baldras!)"
 
 #: Liberty/scenarios/liberty7.cfg:179
 msgid "Uncle, he wears the crest of the Elense.  We should answer."
-msgstr "Zio, porta le insegne degli Elense. Dovrebbe rispondere."
+msgstr "Zio, porta le insegne degli Elense. Dovremmo rispondere."
 
 #: Liberty/scenarios/liberty7.cfg:184
 msgid "Rider, quiet down before we are discovered!  Quickly, approach."
@@ -1207,7 +1273,7 @@ msgid ""
 "patrols have again ventured across the Great River into Annuvin.  A man "
 "named Relnan opposed them with a small militia.  He was victorious."
 msgstr ""
-"Mastro Baldras, porto notizie dal nord. Nell'ultima settimana, parecchi "
+"Mastro Baldras, porto notizie dal nord. Nell'ultima settimana, parecchie "
 "pattuglie si sono di nuovo avventurate oltre il grande fiume in Annuvin. Un "
 "uomo di nome Relnan le ha affrontate con una piccola milizia. Ne è uscito "
 "vincitore."
@@ -1282,16 +1348,23 @@ msgid ""
 "They were surprised to see their fellow soldiers engaged in combat with the "
 "band of thugs they had heard so much about."
 msgstr ""
+"L'indomani mattina, la pattuglia notturna locale ritornò al vicino "
+"avamposto. Furono sorpresi nello scoprire i loro compagni soldati impegnati "
+"in un combattimento con la banda di malfattori di cui avevano csì tanto "
+"sentito parlare."
 
 #: Liberty/scenarios/liberty7.cfg:320
 msgid ""
 "Troops, to arms!  These peasant scum think they are above the law.  We will "
 "show them the law!"
 msgstr ""
+"Truppa, alle armi! Questa marmaglia di contadini pensa di essere sopra la "
+"legge. Glielo faremo vedere noi chi è la legge!"
 
 #: Liberty/scenarios/liberty7.cfg:338
+#, fuzzy
 msgid "Ow!  Fire hot!  No step in fire!"
-msgstr ""
+msgstr "Ahi! "
 
 #: Liberty/scenarios/liberty7.cfg:359
 msgid ""
@@ -1318,6 +1391,8 @@ msgid ""
 "We have spent too much time here.  Surely the entire Wesnoth army marches on "
 "our position.  We are done for!"
 msgstr ""
+"Abbiamo erpso troppo tempo qua. Certamente tutto l'esercito di Wesnoth sta "
+"marciando verso di noi. Diamoci da fare!"
 
 #: Liberty/scenarios/liberty8.cfg:5
 msgid "Glory"
@@ -1528,9 +1603,9 @@ msgid "Who is it?"
 msgstr "Chi sono?"
 
 #: Liberty/scenarios/liberty8.cfg:390
-#, fuzzy
 msgid "Help, I hope.  Circumstances cannot afford to get much more dire."
-msgstr "Rinforzi, spero. "
+msgstr ""
+"Rinforzi, spero. Date le circostanze non possiamo permetterci altri orrori."
 
 #: Liberty/scenarios/liberty8.cfg:397
 msgid "Riders approach from the northwest!  Stand fast, men."
@@ -1605,12 +1680,11 @@ msgstr "La fortezza di Halstead inizia a tremare..."
 
 #: Liberty/scenarios/liberty8.cfg:630
 msgid "We cannot stay here.  The fortress has started to collapse!"
-msgstr "Non possiamo rimanere qua. la fortezza sta per crollare!"
+msgstr "Non possiamo rimanere qua. La fortezza sta per crollare!"
 
 #: Liberty/scenarios/liberty8.cfg:665
-#, fuzzy
 msgid "I think it's working!  Everybody get clear NOW!"
-msgstr "Penso che stia funzionando!"
+msgstr "Penso che stia funzionando! Mettetevi tutti al riparo ORA!"
 
 #: Liberty/scenarios/liberty8.cfg:715
 msgid ""
@@ -1619,10 +1693,14 @@ msgid ""
 "sides, while the remainder came to rest several hundred feet below ground, "
 "in the bowels of the hollowed-out mountain."
 msgstr ""
+"Con un fragoroso terremoto e una nuvola di polvere, migliaia di tonnellate "
+"di pietra e legno crollarono su se stesse. Alcune rotolarono per i fianchi "
+"scosesi, mentre il resto si arrestò parecchie centinaia di piedi più in "
+"basso nelle viscere della montagna svuotata."
 
 #: Liberty/scenarios/liberty8.cfg:719
 msgid "No one inside the fortress would make it out alive."
-msgstr ""
+msgstr "Nessuno nella fortezza sarebbe potuto uscirne vivo."
 
 #: Liberty/scenarios/liberty8.cfg:749
 msgid ""
@@ -1630,6 +1708,9 @@ msgid ""
 "arrived from Weldyn.  The battle was soon finished.  Every last man from the "
 "province of Annuvin was executed."
 msgstr ""
+"Dopo più di una settimana di duri scontri, il corpo principale dell'esercito "
+"di Asheviere arrivò da Weldyn. La battaglia finì presto. Tutti gli uomini "
+"rimasti della provincia di Annuvin venne giustiziato."
 
 #: Liberty/scenarios/liberty8.cfg:774
 msgid "Men, help me out of here!  I am trapped under this rubble."
@@ -1668,46 +1749,51 @@ msgid ""
 "But we are so close to the end.  We must finish this.  I am sorry you will "
 "not be able to enjoy our freedom.  Goodbye, Harper."
 msgstr ""
+"Ma ce l'abbiamo quasi fatta. Dobbiamo raggiungere la meta. Mi spiace che non "
+"potrai gioire della nostra libertà. Addio, Harper."
 
 #: Liberty/scenarios/liberty8.cfg:840
-#, fuzzy
 msgid ""
 "Carry on, my friends.  Fighting by your side is the most honorable thing I "
 "have done..."
 msgstr ""
-"Combattere al vostro fianco è stata la cosa più onorevole che abbia mai "
-"fatto..."
+"Continuate, amici. Combattere al vostro fianco è stata la cosa più onorevole "
+"che abbia mai fatto..."
 
 #: Liberty/scenarios/liberty8.cfg:854
 msgid "Your reign of terror is over, General."
 msgstr "Il vostro regno di terrore è finito, generale."
 
 #: Liberty/scenarios/liberty8.cfg:858
-#, fuzzy
 msgid ""
 "You will never successfully oppose Asheviere.  Her power is too great...  "
 "This small victory today is a reprieve from the unimaginable pain you will "
 "suffer when her wrath finally meets up with you."
 msgstr ""
-"Non avresti mai dovuto opporti ad Asheviere. Il suo potere è troppo "
-"grande... questa misera vittoria è solo dal dolore inimmaginabile che "
-"patirete quando alla fine la sua collera vi colpirà."
+"Non riuscirai mai a opporti con successo ad Asheviere. Il suo potere è "
+"troppo grande... questa misera vittoria è solo rinviare l'inimmaginabile "
+"sofferenza che patirete quando alla fine la sua collera vi colpirà."
 
 #: Liberty/scenarios/liberty8.cfg:870
 msgid ""
 "This was no small victory.  You underestimate the power of love for freedom."
-msgstr "Non è una misera vittoria. "
+msgstr ""
+"Non è una misera vittoria. Sottovaluti la forza dell'amore per la libertà."
 
 #: Liberty/scenarios/liberty8.cfg:874
 msgid ""
 "You... underestimate the... cruelty and ambition of your Queen... unngh.."
 msgstr ""
+"E tu... sottovaluti la... crudeltà e l'ambizione della vostra regina... "
+"unngh..."
 
 #: Liberty/scenarios/liberty8.cfg:882
 msgid ""
 "Small victory?  Bah!  Now we will raze this fortress into the dust from "
 "whence it came."
 msgstr ""
+"Una misera vittoria? Bah! Adesso ridurremo questa fortezza nella polvere da "
+"cui proviene."
 
 #: Liberty/scenarios/liberty9.cfg:5
 msgid "Liberty: Epilogue"
@@ -1718,6 +1804,8 @@ msgid ""
 "The rest of the battle was a blur.  The shock of what had happened stunned "
 "everybody."
 msgstr ""
+"Il resto della battaglia fu molto confuso. L'impatto di quello che era "
+"successo aveva intotito tutti."
 
 #: Liberty/scenarios/liberty9.cfg:16
 msgid ""
@@ -1725,6 +1813,10 @@ msgid ""
 "night.  The spectacle of Halstead's destruction kept them in a daze that "
 "slowly wore off as they made their way north."
 msgstr ""
+"Baldras e i suoi uomini fuggirono nelle pianure occidentali di Wesnoth "
+"grazie alla protezione della notte. Lo spettacolo della distruzione di "
+"Halstead aveva lasciato loro in uno stordimento che svanì mentre si "
+"dirigevano a nord."
 
 #: Liberty/scenarios/liberty9.cfg:25
 msgid ""
@@ -1733,6 +1825,10 @@ msgid ""
 "were not heard from again.  At the time, Baldras thought this was odd "
 "behavior when he heard about it."
 msgstr ""
+"I cavalieri Elense misero in rotta l'esercito degli orchi, piccolo com'era, "
+"e li respinse oltre il grande fiume. Poi si sparsero per le campagne e non "
+"se ne ebbe più notizia. Nel frattempo, Baldras riflettè su una stranezza che "
+"gli avevano riferito."
 
 #: Liberty/scenarios/liberty9.cfg:35
 msgid ""
@@ -1742,6 +1838,12 @@ msgid ""
 "columns.  Soldiers dropped dead where they stood, slain by unseen "
 "assassins.  Fear of an undead menace spread through the ranks."
 msgstr ""
+"Mentre il grosso dell'esercito di Asheviere si avvicinava alle rovine di "
+"Halstead, cominciarono a verificarsi strani episodi. Ogni notte, spariva "
+"qualcuno. Altri furono trovati fatti a pezzi. Disgrazie inspiegabili "
+"affliggevano le colonne in marcia. Soldati crollavano a terra, uccisi da "
+"assassini invisibili. La paura di una minaccia di non-morti si diffondeva "
+"tra i ranghi."
 
 #: Liberty/scenarios/liberty9.cfg:45
 msgid ""
@@ -1751,6 +1853,11 @@ msgid ""
 "command the entire countryside was cursed.  He quickly retreated to the "
 "traditional border and set up strong defenses against the west."
 msgstr ""
+"Quando l'esercito di Wesnoth trovò le rovine della potente fortezza di "
+"Halstead, fu troppo. L'assoluta incredulità che una cosa del genere potesse "
+"succedere unita al terrore invisibile in agguato convinse il comandante in "
+"seconda di Asheviere che l'intera campagna fosse maledetta. Si ritrò in "
+"fretta nei confini consueti e organizzò forti difese contro l'occidente."
 
 #: Liberty/scenarios/liberty9.cfg:57
 msgid ""
@@ -1759,6 +1866,10 @@ msgid ""
 "men were successfully using tactics Baldras had mastered and used during his "
 "resistance."
 msgstr ""
+"Baldras aveva appena attraversato il grande fiume quando le voci di "
+"assassini notturni giunsero tra i suoi ranghi. Con una certa ironia, capì "
+"che gli uomini di lord Maddock erano riusciti a usare le tattiche di cui "
+"Baldras era maestro e che aveva usato durante la sua resistenza."
 
 #: Liberty/scenarios/liberty9.cfg:62
 msgid ""
@@ -1766,24 +1877,35 @@ msgid ""
 "ground.  In a panic, they raced through the forest to Delwyn.  It was "
 "likewise devastated.  However, they did find one clue as to what happened..."
 msgstr ""
+"I contadini ora fuorilegge giunsero alla fine a Dallben. Era stato rasa al "
+"suolo. In preda al panico, corsero attraverso la foresta verso Delwyn. Aveva "
+"subito la stessa devastazione. Tuttavia trovarono un solo indizio su quello "
+"che era successo..."
 
 #: Liberty/scenarios/liberty9.cfg:75
 msgid ""
 "...a grimy note nailed to a charred post that read, 'Baldras, You would have "
 "been proud.  We gave 'em hell.  But in the end, it wasn't enough.'"
 msgstr ""
+"... un biglietto fuligginoso inchiodato su un montante bruciacchiato diceva: "
+"«Baldras, ne saresti stato fiero. Abbiamo fatto passare loro un brutto "
+"quarto d'ora. Ma alla resa dei conti non è bastato.»"
 
 #: Liberty/scenarios/liberty9.cfg:79
 msgid ""
 "'We fled like criminals in the night, but we made sure that no one would "
 "harass us anymore.'  "
 msgstr ""
+"«Siamo fuggiti come criminali nella notte, ma ci siamo assicurati che "
+"nessuno ci potesse più dare fastidio.»"
 
 #: Liberty/scenarios/liberty9.cfg:83
 msgid ""
 "'If you wish to find us, head west.  When you reach the land's end, just "
 "keep going.  See you soon, old friend.  - Relnan' "
 msgstr ""
+"«Se ci vuoi trovare, va a ovest. Quando raggiungerai la fine del mondo, "
+"continua ad andare avanti. Ci vedremo presto, vecchio mio. -Relnan.»"
 
 #: Liberty/units/Bandit-peasant.cfg:5
 msgid "Village Elder"
@@ -1795,6 +1917,9 @@ msgid ""
 "guided by a group of elders, who are the village's wisest and most "
 "experienced residents."
 msgstr ""
+"Ciascuno dei villaggi sparsi per la campagna di Wesnoth normalmente è "
+"guidato da un gruppo di anziani che sono gli abitanti del villaggio più "
+"saggi e più esperti."
 
 #: Liberty/units/Fugitive-peasant.cfg:22 Liberty/units/Fugitive-peasant.cfg:95
 #: Liberty/units/Bandit-peasant.cfg:21 Liberty/units/Fugitive.cfg:35
@@ -1820,7 +1945,7 @@ msgstr "impatto"
 
 #: Liberty/units/Bone_Knight2.cfg:5 Liberty/units/Bone_Knight.cfg:5
 msgid "Bone Knight"
-msgstr ""
+msgstr "Cavaliere d'ossa"
 
 #: Liberty/units/Bone_Knight2.cfg:26 Liberty/units/Skeleton_Rider.cfg:26
 #: Liberty/units/Skeleton_Rider2.cfg:26 Liberty/units/Bone_Knight.cfg:26
@@ -1829,6 +1954,9 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Grandi guerrieri un tempo per le pianure, questi cavalieri in groppa ai loro "
+"cavalli scheletrici sono stati risuscitati dalla terra da magia sacrilega "
+"per spargere paura e distruzione."
 
 #: Liberty/units/Bone_Knight2.cfg:36 Liberty/units/Skeleton_Rider.cfg:36
 #: Liberty/units/Skeleton_Rider2.cfg:36 Liberty/units/Revenant-dummy1.cfg:32
@@ -1847,8 +1975,9 @@ msgid "blade"
 msgstr "lama"
 
 #: Liberty/units/Bone_Knight2.cfg:53 Liberty/units/Bone_Knight.cfg:53
+#, fuzzy
 msgid "trample"
-msgstr ""
+msgstr "calpestio"
 
 #: Liberty/units/Bone_Knight2.cfg:58 Liberty/units/Bone_Knight.cfg:58
 msgid "charge"
@@ -1856,7 +1985,7 @@ msgstr "carica"
 
 #: Liberty/units/Death_Squire.cfg:5
 msgid "Death Squire"
-msgstr ""
+msgstr "Scudiero della morte"
 
 #: Liberty/units/Shadow_Mage.cfg:15 Liberty/units/Death_Squire.cfg:17
 #: Liberty/units/Shadow_Lord.cfg:10
@@ -1871,6 +2000,11 @@ msgid ""
 "pick up a good deal of the Knight's power, including the ability to command "
 "underlings."
 msgstr ""
+"Qualche volta i guerrieri e i generali più potenti, dannati dall'odio e la "
+"vendetta, tornano in questo mondo come cavalieri della morte. Gli scudieri "
+"della morte li servono mentre accumulano abbastanza energia sacrilega per "
+"diventare cavalieri della morte. Nel frattempo hanno accesso a buona parte "
+"del potere del cavaliere, compresa l'abilità di comandare gli inferiori."
 
 #: Liberty/units/Human-ranger.cfg:53 Liberty/units/Death_Squire.cfg:29
 msgid "sword"
@@ -1885,6 +2019,8 @@ msgid ""
 "The scruffy-haired peasant youth are much like the young people living "
 "elsewhere in Wesnoth: reckless, cocky, and eager to explore."
 msgstr ""
+"Gli scapigliati giovani contadini sono uguali a tutti i giovani che vivono "
+"altrove a Wesnoth: sconsiderati, impertinenti e impazienti di eplorare."
 
 #: Liberty/units/Footpad-peasant.cfg:21 Liberty/units/Thug-peasant.cfg:21
 msgid "club"
@@ -1907,6 +2043,10 @@ msgid ""
 "orc raids.  Some of these join the Wesnoth army, while others join the core "
 "of the village's night patrol."
 msgstr ""
+"Ogni villaggio ha un gruppo di combattenti molto abili molto validi "
+"incaricati di respingere le incursioni degli orchi. Alcuni di loro si "
+"arruolano nell'esercito di Wesnoth, mentre altri entrano a far parte delle "
+"pattuglie notturne del villaggio."
 
 #: Liberty/units/Fugitive-peasant.cfg:77
 msgid "female^Night Patrolman"
@@ -1919,6 +2059,11 @@ msgid ""
 "of the village's night patrol.  She may look tough, but beneath that rough "
 "exterior is a dedicated and hard-working young woman."
 msgstr ""
+"Ogni villaggio ha un gruppo di combattenti molto abili incaricate di "
+"respingere le incursioni degli orchi. Alcune di loro si arruolano "
+"nell'esercito di Wesnoth, mentre altre entrano a far parte delle pattuglie "
+"notturne del villaggio. Possono sembrare rudi, ma sotto la tempra dura c'è "
+"una giovane donna devota e gran lavoratrice."
 
 #: Liberty/units/Fugitive.cfg:25
 msgid ""
@@ -1927,7 +2072,7 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
-"I criminali incalliti diventano famosi alle autorità sia per le  loro "
+"I criminali incalliti diventano famosi alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Pericolosi "
 "e spietati, possono essere terribili nel loro ambiente ma non hanno scampo "
 "di fronte ai professionisti delle forze dell'ordine."
@@ -1942,7 +2087,7 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
-"Le criminali incallite diventano famose alle autorità sia per le  loro "
+"Le criminali incallite diventano famose alle autorità sia per le loro "
 "prodezze in battaglia sia per la capacità di eludere la cattura. Belle e "
 "pericolose, il loro fascino viene superato solo dalla loro pericolosità."
 
@@ -1956,6 +2101,9 @@ msgid ""
 "the senior elders have the responsibility for the community's livelihood "
 "placed squarely on their shoulders."
 msgstr ""
+"L'intero villaggio guarda ai venerabili come loro guide. Forti e saggi, i "
+"venerabili hanno proprio sulle loro spalle la responsabilità del "
+"sostentamento della comunità."
 
 #: Liberty/units/Highwayman.cfg:5
 msgid "Highwayman"
@@ -2012,6 +2160,10 @@ msgid ""
 "wilderness homes.  They can bullseye wamprats and track anything that moves "
 "in their territory.  They are highly skilled at hunting at night."
 msgstr ""
+"I cacciatori hanno speso tutta la vita nelle zone boscose e nelle paludi "
+"delle zone selvaggie della loro patria. Prendono di mira wamprats e seguono "
+"le tracce di chiunque penetri nel loro territorio. Sono abilissimi nella "
+"caccia notturna."
 
 #: Liberty/units/Huntsman.cfg:43 Liberty/units/Huntsman-peasant.cfg:32
 #: Liberty/units/Trapper-peasant.cfg:26 Liberty/units/Poacher-peasant.cfg:26
@@ -2040,6 +2192,8 @@ msgid ""
 "marauders, both human and otherwise, that prowl the Wesnoth countryside at "
 "night."
 msgstr ""
+"Le sentinelle notturne sono uomini o donne che proteggono i villaggi dai "
+"predoni, uomini e non, che sorvegliano la campagna di Wesnoth di notte."
 
 #: Liberty/units/Outlaw-peasant.cfg:71
 msgid "female^Night Watchman"
@@ -2051,14 +2205,18 @@ msgid ""
 "marauders, both human and otherwise, that prowl the Wesnoth countryside at "
 "night.  Female watchmen look good while doing it."
 msgstr ""
+"Le sentinelle notturne sono uomini o donne che proteggono i villaggi dai "
+"predoni, uomini e non, che sorvegliano la campagna di Wesnoth di notte. Le "
+"sentinelle donne sono apprezzate per il loro lavoro."
 
 #: Liberty/units/Poacher-peasant.cfg:5
 msgid "Peasant Hunter"
-msgstr ""
+msgstr "Contadino cacciatore"
 
 #: Liberty/units/Poacher-peasant.cfg:18
 msgid "Villages rely on hunters to bring in a majority of the food supply."
 msgstr ""
+"I villaggi dipendono dai cacciatori per la maggior parte delle provviste."
 
 #: Liberty/units/Revenant-dummy1.cfg:5
 msgid "Revenant"
@@ -2070,6 +2228,10 @@ msgid ""
 "warriors' will and soul are all but lost, their fighting skills certainly "
 "remain with the Revenant."
 msgstr ""
+"Gli squartatori sono creature non-morte risuscitate da possenti guerrieri "
+"del passato. Mentre la volontà e lo spirito del guerriero è del tutto "
+"perduto, le loro capacità guerriere sono certamente rimaste nello "
+"squartatore."
 
 #: Liberty/units/Rogue_Mage.cfg:5
 msgid "Rogue Mage"
@@ -2127,10 +2289,12 @@ msgid ""
 "Peasants live in the small hamlets and villages scattered across the Wesnoth "
 "countryside."
 msgstr ""
+"I contadini vivono in piccoli casali o villaggi sparsi per la campagna di "
+"Wesnoth."
 
 #: Liberty/units/Trapper-peasant.cfg:5
 msgid "Peasant Trapper"
-msgstr "Contadino cacciatore"
+msgstr "Contadino cacciatore di pelli"
 
 #: Liberty/units/Trapper-peasant.cfg:18
 msgid ""
@@ -2138,3 +2302,6 @@ msgid ""
 "Their hunting experience makes them most valuable at night and in forests "
 "and swamps."
 msgstr ""
+"Alcuni contadini sono esperti cacciatori che riforniscono di cibo e pelli "
+"parecchi villaggi. La loro esperienza nella caccia li rende preziosi di "
+"notte, nelle foreste e nelle paludi."
